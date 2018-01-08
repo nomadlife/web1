@@ -1,154 +1,190 @@
 <script>
 
-(function () {
+/*
+ *  Main function to set the clock times
+ */
+(function() {
+  // Initialise the locale-enabled clocks
+  initInternationalClocks();
+  // Initialise any local time clocks
+  initLocalClocks();
+  // Start the seconds container moving
+  moveSecondHands();
+  // Set the intial minute hand container transition, and then each subsequent step
+  setUpMinuteHands();
+})();
 
-  // Clock look-n-feel: customize at will!
-  var width = 360,
-    height = 360,
-    strokeWidth = 6,
-    clockFillColor = "none",
-    clockBorderColor = "#B7B7B7",
-    clockHandColor = "#FEBE12",
-    clockCenterColor = "#FEBE12",
-    transitionEnabled = 1,
-    radius = width / 2,
-    vis, clock, hourPosition, minutePosition, clockhand, hourPositionOffset;
-
-  // Set up time
+/*
+ *  Set up an entry for each locale of clock we want to use
+ */
+ function getTimes() {
+  moment.tz.add([
+    'Eire|GMT IST|0 -10|01010101010101010101010|1BWp0 1qM0 WM0 1qM0 WM0 1qM0 11A0 1o00 11A0 1o00 11A0 1o00 11A0 1qM0 WM0 1qM0 WM0 1qM0 11A0 1o00 11A0 1o00',
+    'Asia/Tokyo|JST|-90|0|',
+    'America/New_York|EST EDT|50 40|0101|1Lz50 1zb0 Op0'
+    ]);
   var now = new Date();
-  var data = [{
-    'unit': 'minutes',
-    'value': now.getMinutes()
-  }, {
-    'unit': 'hours',
-    'value': now.getHours()
-  }];
+  // Set the time manually for each of the clock types we're using
+  var times = [
+    {
+      jsclass: 'js-tokyo',
+      jstime: moment.tz(now, "Asia/Tokyo")
+    },
+    {
+      jsclass: 'js-london',
+      jstime: moment.tz(now, "Eire")
+    },
+    {
+      jsclass: 'js-new-york',
+      jstime: moment.tz(now, "America/New_York")
+    }
+  ];
+  return times;
+}
 
-  // Set up Scales
-  // Map 60 minutes onto a radial 360 degree range.
-  var scaleMins = d3.scale.linear()
-    .domain([0, 59 + 59 / 60])
-    .range([0, 2 * Math.PI]);
+/*
+ * Set up the clocks that use moment.js
+ */
+function initInternationalClocks() {
+  // Initialise the clock settings and the three times
+  var times = getTimes();
+  for (i = 0; i < times.length; ++i) {
+    var hours = times[i].jstime.format('h');
+    var minutes = times[i].jstime.format('mm');
+    var seconds = times[i].jstime.format('ss');
 
-  // Map 12 hours onto a radial 360 degree range.
-  var scaleHours = d3.scale.linear()
-    .domain([0, 11 + 59 / 60])
-    .range([0, 2 * Math.PI]);
-
-  // Every hour, the minute hand moves 360 degrees and the hour hand moves 30 degrees.
-  // To get the final, accurate hour hand position, the linear movement of the minute hand
-  // is mapped to a 30 degree radial angle and the resulting angular offset
-  // is added to the hour hand position (in scaleHours above).
-  var scaleBetweenHours = d3.scale.linear()
-    .domain([0, 59 + 59 / 60])
-    .range([0, Math.PI / 6]);
-
-  // Set up SVG
-  vis = d3.select("div.d3clock")
-    .append("svg:svg")
-    .attr("class", "clock")
-    .attr("width", width)
-    .attr("height", height);
-
-  clock = vis.append("svg:g")
-    .attr("transform", "translate(" + radius + "," + radius + ")");
-
-  // Clock face
-  clock.append("svg:circle")
-    .attr("class", "clockface")
-    .attr("r", radius - strokeWidth)
-    .attr("fill", clockFillColor)
-    .attr("stroke", clockBorderColor)
-    .attr("stroke-width", strokeWidth * 2);
-
-  // When animating, set 12 o’clock as the clockhand animation start position
-  minutePosition = d3.svg.arc()
-    .innerRadius(0)
-    .outerRadius((3 / 4) * radius)
-    .startAngle(0)
-    .endAngle(0);
-
-  hourPosition = d3.svg.arc()
-    .innerRadius(0)
-    .outerRadius((1 / 2) * radius)
-    .startAngle(0)
-    .endAngle(0);
-
-  // When not animating, set the clockhand positions based on time
-  minutePositionFinal = d3.svg.arc()
-    .innerRadius(0)
-    .outerRadius((2 / 3) * radius)
-    .startAngle(function (d) {
-      return scaleMins(+d.value);
-    })
-    .endAngle(function (d) {
-      return scaleMins(+d.value);
-    });
-
-  hourPositionFinal = d3.svg.arc()
-    .innerRadius(0)
-    .outerRadius((1 / 2) * radius)
-    .startAngle(function (d) {
-      return (scaleHours(+d.value % 12) + scaleBetweenHours(hourPositionOffset));
-    })
-    .endAngle(function (d) {
-      return (scaleHours(+d.value % 12) + scaleBetweenHours(hourPositionOffset));
-    });
-
-  // Add clockhands to the clockface
-  clockhand = clock.selectAll(".clockhand")
-    .data(data)
-    .enter()
-    .append("svg:path")
-    .attr("class", "clockhand")
-    .attr("stroke", clockHandColor)
-    .attr("stroke-width", strokeWidth + 4)
-    .attr("stroke-linecap", "round")
-    .attr("stroke-linejoin", "round")
-    .attr("fill", "none");
-
-  // Animate clockhands!
-  if (transitionEnabled) {
-    clockhand.attr("d", function (d) {
-      if (d.unit === "minutes") {
-        hourPositionOffset = +d.value;
-        return minutePosition();
-      } else if (d.unit === "hours") {
-        return hourPosition();
+    var degrees = [
+      {
+        hand: 'hours',
+        degree: (hours * 30) + (minutes / 2)
+      },
+      {
+        hand: 'minutes',
+        degree: (minutes * 6)
+      },
+      {
+        hand: 'seconds',
+        degree: (seconds * 6)
       }
-    })
-      .transition()
-      .delay(333)
-      .duration(555)
-      .ease("elastic", 1, 4)
-      .attrTween("transform", tween);
-  } else {
-    clockhand.attr("d", function (d) {
-      if (d.unit === "minutes") {
-        hourPositionOffset = +d.value;
-        return minutePositionFinal(d);
-      } else if (d.unit === "hours") {
-        return hourPositionFinal(d);
+    ];
+    for (var j = 0; j < degrees.length; j++) {
+      var elements = document.querySelectorAll('.active .' + times[i].jsclass + ' .' + degrees[j].hand);
+      for (var k = 0; k < elements.length; k++) {
+        	elements[k].style.webkitTransform = 'rotateZ('+ degrees[j].degree +'deg)';
+          elements[k].style.transform = 'rotateZ('+ degrees[j].degree +'deg)';
+          // If this is a minute hand, note the seconds position (to calculate minute position later)
+          if (degrees[j].hand === 'minutes') {
+            elements[k].parentNode.setAttribute('data-second-angle', degrees[j + 1].degree);
+          }
       }
-    });
-  }
-
-  function tween(d, i, a) {
-    if (d.unit === "minutes") {
-      return d3.interpolate("rotate(0)", "rotate(" + (scaleMins(+d.value) * (180 / Math.PI)) + ")");
-    } else if (d.unit === "hours") {
-      return d3.interpolate("rotate(0)", "rotate(" + ((scaleHours(+d.value % 12) + scaleBetweenHours(hourPositionOffset)) * (180 / Math.PI)) + ")");
     }
   }
+  // Add a class to the clock container to show it
+  var elements = document.querySelectorAll('.clock');
+  for (var l = 0; l < elements.length; l++) {
+    elements[l].className = elements[l].className + ' show';
+  }
+}
 
-  // Add center dial
-  return clock.append("svg:circle")
-    .attr("class", "centerdot")
-    .attr("r", strokeWidth + 2)
-    .attr("fill", "#fff")
-    .attr("stroke", clockCenterColor)
-    .attr("stroke-width", strokeWidth + 2);
+/*
+ * Starts any clocks using the user's local time
+ */
+function initLocalClocks() {
+  // Get the local time using JS
+  var date = new Date;
+  var seconds = date.getSeconds();
+  var minutes = date.getMinutes();
+  var hours = date.getHours();
 
-}());
+  // Create an object with each hand and it's angle in degrees
+  var hands = [
+    {
+      hand: 'hours',
+      angle: (hours * 30) + (minutes / 2)
+    },
+    {
+      hand: 'minutes',
+      angle: (minutes * 6)
+    },
+    {
+      hand: 'seconds',
+      angle: (seconds * 6)
+    }
+  ];
+  // Loop through each of these hands to set their angle
+  for (var j = 0; j < hands.length; j++) {
+    var elements = document.querySelectorAll('.local .' + hands[j].hand);
+    for (var k = 0; k < elements.length; k++) {
+        elements[k].style.transform = 'rotateZ('+ hands[j].angle +'deg)';
+        // If this is a minute hand, note the seconds position (to calculate minute position later)
+        if (hands[j].hand === 'minutes') {
+          elements[k].parentNode.setAttribute('data-second-angle', hands[j + 1].angle);
+        }
+    }
+  }
+}
+
+/*
+ * Move the second containers
+ */
+function moveSecondHands() {
+  var containers = document.querySelectorAll('.bounce .seconds-container');
+  setInterval(function() {
+    for (var i = 0; i < containers.length; i++) {
+      if (containers[i].angle === undefined) {
+        containers[i].angle = 6;
+      } else {
+        containers[i].angle += 6;
+      }
+      containers[i].style.webkitTransform = 'rotateZ('+ containers[i].angle +'deg)';
+      containers[i].style.transform = 'rotateZ('+ containers[i].angle +'deg)';
+    }
+  }, 1000);
+  for (var i = 0; i < containers.length; i++) {
+    // Add in a little delay to make them feel more natural
+    var randomOffset = Math.floor(Math.random() * (100 - 10 + 1)) + 10;
+    containers[i].style.transitionDelay = '0.0'+ randomOffset +'s';
+  }
+}
+
+/*
+ * Set a timeout for the first minute hand movement (less than 1 minute), then rotate it every minute after that
+ */
+function setUpMinuteHands() {
+  // More tricky, this needs to move the minute hand when the second hand hits zero
+  var containers = document.querySelectorAll('.minutes-container');
+  var secondAngle = containers[containers.length - 1].getAttribute('data-second-angle');
+  console.log(secondAngle);
+  if (secondAngle > 0) {
+    // Set a timeout until the end of the current minute, to move the hand
+    var delay = (((360 - secondAngle) / 6) + 0.1) * 1000;
+    console.log(delay);
+    setTimeout(function() {
+      moveMinuteHands(containers);
+    }, delay);
+  }
+}
+
+/*
+ * Do the first minute's rotation, then move every 60 seconds after
+ */
+function moveMinuteHands(containers) {
+  for (var i = 0; i < containers.length; i++) {
+    containers[i].style.webkitTransform = 'rotateZ(6deg)';
+    containers[i].style.transform = 'rotateZ(6deg)';
+  }
+  // Then continue with a 60 second interval
+  setInterval(function() {
+    for (var i = 0; i < containers.length; i++) {
+      if (containers[i].angle === undefined) {
+        containers[i].angle = 12;
+      } else {
+        containers[i].angle += 6;
+      }
+      containers[i].style.webkitTransform = 'rotateZ('+ containers[i].angle +'deg)';
+      containers[i].style.transform = 'rotateZ('+ containers[i].angle +'deg)';
+    }
+  }, 60000);
+}
 
 </script>
