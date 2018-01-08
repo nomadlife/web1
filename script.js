@@ -1,3 +1,5 @@
+<script>
+
 (function () {
 
   // Clock look-n-feel: customize at will!
@@ -148,3 +150,5 @@
     .attr("stroke-width", strokeWidth + 2);
 
 }());
+
+</script>

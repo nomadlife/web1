@@ -1,3 +1,4 @@
+<style>
 body {
   margin: 0;
 }
@@ -253,3 +254,4 @@ body {
 .minutes.angled {
   transform: rotateZ(40deg);
 }
+</style>
