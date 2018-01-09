@@ -1,0 +1,87 @@
+<style>
+.clock {
+  font-size: 120px;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.analog-clock {
+  position: relative;
+  margin: 10vh auto;
+  width: 80vh;
+  height: 80vh;
+  max-width: 80vw;
+  max-height: 80vw;
+  border: 1px solid gray;
+  border-radius: 50%;
+}
+
+.analog-clock__hand {
+  position: absolute;
+
+  &:before {
+    position: absolute;
+    height: 50%;
+    content: '';
+    background: black;
+  }
+}
+
+.analog-clock__hand--hour {
+  top: 20%;
+  left: 20%;
+  width: 60%;
+  height: 60%;
+  animation: rotate (12 * 60 * 60s) infinite linear;
+
+  &:before {
+    width: 8px;
+    transform: translateX(-4px);
+  }
+}
+
+.analog-clock__hand--minute {
+  animation: rotate (60 * 60s) infinite linear;
+  top: 5%;
+  left: 5%;
+  width: 90%;
+  height: 90%;
+
+  &:before {
+    width: 6px;
+    transform: translateX(-3px);
+  }
+}
+
+.analog-clock__hand--second {
+  animation: rotate (60s) infinite linear;
+  top: 10%;
+  left: 10%;
+  width: 80%;
+  height: 80%;
+
+  &:before {
+    width: 2px;
+    height: 60%;
+    background: red;
+    transform: translateX(-1px);
+  }
+
+  &:after {
+    display: block;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-5px, -5px);
+    content: '';
+    width: 10px;
+    height: 10px;
+    background: red;
+    border-radius: 50%;
+  }
+}
+
+@keyframes rotate {
+  100%  { transform: rotateZ( 360deg ) }
+}
+</style>
