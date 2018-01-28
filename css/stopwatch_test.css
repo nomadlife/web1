@@ -8,6 +8,8 @@ body{
   font-family: "lato";
   font-size: 100px;
   font-weight: 300;
+  margin-bottom: 30px;
+  margin-top: 30px;
 }
 
 button{

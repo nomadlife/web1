@@ -1,14 +1,17 @@
-console.log('hi');
-
-function stopwatch(elem) {
+function stopwatch(opts){
   var time = 0;
   var interval;
   var offset;
 
+  var elem = opts.elem;
+  var delay = opts.delay;
+
   function update(){
-    time += delta();
+    if(this.isOn){
+      time += delta();
+    }
+
     var formattedTime = timeFormatter(time);
-    //console.log(formattedTime);
     elem.textContent = formattedTime;
   }
 
@@ -16,7 +19,7 @@ function stopwatch(elem) {
     var now = Date.now();
     var timePassed =  now - offset;
     offset = now;
-    return offset;
+    return timePassed;
   }
 
   function timeFormatter(timeInMilliseconds) {
@@ -45,7 +48,7 @@ function stopwatch(elem) {
 
   this.start = function(){
     if (!this.isOn){
-      interval = setInterval(update,10); //10 milliseconds
+      interval = setInterval(update.bind(this),delay); //10 milliseconds
       offset = Date.now();
       this.isOn = true;
     }
@@ -60,7 +63,10 @@ function stopwatch(elem) {
   };
 
   this.reset = function(){
+if(!this.isOn){
     time =0;
+    update();
+    }
   };
 }
 
