@@ -69,7 +69,19 @@
       if(!audio) return;// stop the  from running all together.
       audio.currentTime = 0;
       audio.play();
+      // key.addClass('playing')
+      key.classList.add('playing');
+      // key.classList.remove('playing');
+      // key.classList.toggle('playing');
+
     });
+
+    function removetransition(e) {
+      if(e.propertyName !== 'transform') return;
+    }
+
+    const keys = document.querySelectorAll('.key');
+    keys forEach(key => key.addEventListener('transitionend', removeTransition));
   </script>
   </body>
 </html>
