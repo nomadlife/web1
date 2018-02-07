@@ -6,9 +6,10 @@
   </head>
   <body>
     <h2>update CSS Variables with <span class='h1'>JS</span> </h2>
+
     <div class="controls">
       <label for="spacing">spacing:</label>
-      <input type="range" name="spacing" min="10" max="200" value="10" >
+      <input type="range" name="spacing" min="10" max="200" value="10" data-sizing="px">
 
       <label for="blur">Blur:</label>
       <input type="range" name="blur" min="0" max="25" value="10" data-sizing="px">
@@ -28,6 +29,9 @@
       img {
         padding : var(--spacing);
         background: var(--base);
+        filter : blur(var(--blur));
+        max-width:100%;
+        max-height:100%;
       }
 
       .hl {
@@ -61,10 +65,12 @@
 
     <script>
     const inputs = document.querySelectorAll('.controls input');
+    // console.log(inputs,"test1:inputs");
 
     function handleUpdate() {
       const suffix = this.dataset.sizing || '';
-      document.documentElement.style.setProperty(`--${this.name}`,this.value);
+      console.log(suffix,"test2:suffix");
+      document.documentElement.style.setProperty(`--${this.name}`,this.value + suffix);
       console.log(this.name);
     }
 
