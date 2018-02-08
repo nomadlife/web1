@@ -3,6 +3,7 @@
   <head>
     <meta charset="utf-8">
     <title>scoped CSS variables and JS</title>
+    <link rel="stylesheet" href="03style.css">
   </head>
   <body>
     <h2>update CSS Variables with <span class='h1'>JS</span> </h2>
@@ -19,63 +20,8 @@
     </div>
 
     <img src="newyork.jpg">
-    <style media="screen">
-      :root {
-        --base : #ffc600;
-        --spacing : 10px;
-        --blur : 10px;
-      }
 
-      img {
-        padding : var(--spacing);
-        background: var(--base);
-        filter : blur(var(--blur));
-        max-width:100%;
-        max-height:100%;
-      }
 
-      .hl {
-        color: var(--base);
-      }
-
-      body {
-        text-align: center;
-      }
-      body {
-        background: #193549;
-        color:white;
-        font-family: 'helvetica neue', sans-serif;
-        font-weight: 100;
-        font-size: 50px;
-      }
-
-      .controls {
-        margin-bottom: 50px;
-      }
-
-      a{
-        color: var(--base);
-        text-decoration: none;
-      }
-
-      input {
-        width: 100px;
-      }
-    </style>
-
-    <script>
-    const inputs = document.querySelectorAll('.controls input');
-    // console.log(inputs,"test1:inputs");
-
-    function handleUpdate() {
-      const suffix = this.dataset.sizing || '';
-      console.log(suffix,"test2:suffix");
-      document.documentElement.style.setProperty(`--${this.name}`,this.value + suffix);
-      console.log(this.name);
-    }
-
-    inputs.forEach(input => input.addEventListener('change',handleUpdate))
-    inputs.forEach(input => input.addEventListener('mousemove',handleUpdate))
-    </script>
+    <script src="03script.js"></script>
   </body>
 </html>
