@@ -61,7 +61,34 @@
       for (i=0; i<inventors.length; i++) {
         totalYears += inventors[i].year
       };
-      console.log(totalYears);
+      console.log('totalYears:',totalYears);
+
+      const totalYears_2 = inventors.reduce((total, inventor) => {
+        return total + (inventor.passed - inventor.year);
+      },0);
+      console.log('totalYears_2',totalYears_2);
+
+      // sort the inventors by years lived
+      const oldest = inventors.sort(function(a,b) {
+        const lastGuy = a.passed - b.year;
+        const nextGuy = b.passed - b.year;
+        return lastGuy > nextGuy ? -1 : 1;
+        // if(lastGuy > nextGuy){
+        //   return -1;
+        // } else {
+        //   return 1;
+        // }
+      });
+
+      console.table(oldest)
+
+
+      // create a list of Boulevards in Paris 'de' anywhere in the name
+      const category = document.querySelector('.mw-category');
+      const links = category.querySelectorAll('a');
+
+      const de = links.map(link => link.textContent);
+
       //Array.length()
       //Array.push()
       //in JS, there is no named array like dictionary in pyhton. if you try make named array, js recognize it as object.
