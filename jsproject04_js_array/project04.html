@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>js project 04</title>
+    <title>js project 04 Array</title>
   </head>
   <body>
     <script>
@@ -14,16 +14,30 @@
         {first:'Marie',last:'Curie', year:1867 , passed:1934 },
         {first:'Johannes',last:'Kepler', year:1571 , passed:1630 },
         {first:'Nicolaus',last:'Copernicus', year:1473 , passed:1543 },
-        {first:'Max',last:'Planck', year:1858 , passed:1947 },
+        {first:'Max',last:'Planck', year:1858 , passed:1947 }
       ];
+	  
+	  console.log(inventors);
+	  console.table(inventors);
 
-      const people = ['Beck,Glenn', 'Becker, Carl','Veckett, Samuel','Beddoes, Mick','Veecher, Henry','Veerhoven, Ludwig',
-      'Begin,Menachem','Belloc, Hilaire','Bellow,Saul','Benchley,Robert','Benenson, Peter',
-      'Ben-Gurion,David','Benjamin,Walter','Benn,Tony','Bennington,Chester','Benson,Leana','Bent,Silas','Bentsen,Lloyd',
-      'Berger,Rig','Bergman,Ingmar','Berio,Luciano','Berle,Milton','Berlin,Irving','Berne,Eric','Bernard,Sandra','Berra,Yogi',
-      'Berry,Halle','Berry,Wendell','Bethea,Erin','Bevan,Aneurin','Bevel,Ken','Biden,Joseph','Bierce,Ambrose','Biko,Steve',
-      'Billings,Josh','Biondo,Grank','Berrell,Augustine','Black Elk','Blair, Robert','Blair,Tony','Blake,William'];
+      const people = ['Beck, Glenn', 'Becker, Carl','Veckett, Samuel','Beddoes, Mick','Veecher, Henry','Veerhoven, Ludwig',
+      'Begin, Menachem','Belloc, Hilaire','Bellow, Saul','Benchley, Robert','Benenson, Peter',
+      'Ben-Gurion, David','Benjamin, Walter','Benn, Tony','Bennington, Chester','Benson, Leana','Bent, Silas','Bentsen, Lloyd',
+      'Berger, Rig','Bergman, Ingmar','Berio, Luciano','Berle, Milton','Berlin, Irving','Berne, Eric','Bernard, Sandra','Berra, Yogi',
+      'Berry, Halle','Berry, Wendell','Bethea, Erin','Bevan, Aneurin','Bevel, Ken','Biden, Joseph','Bierce, Ambrose','Biko, Steve',
+      'Billings, Josh','Biondo, Grank','Berrell, Augustine','Black, Elk','Blair, Robert','Blair, Tony','Blake, William'];
 
+	  // 0. function test
+      const test = inventors.filter(function (inventor){
+        if(inventor.first == 'Albert'){
+          return true;
+        }
+      });
+	  
+      console.log("0. function test",test);
+
+      // Array.prototype.fillter()
+      // 1.filter the list of inventors for those who were born in the 1500
       const fifteen = inventors.filter(function(inventor) {
         if(inventor.year >= 1500 && inventor.year < 1600) {
           return true;
@@ -32,15 +46,20 @@
 
       console.log(fifteen);
       console.table(fifteen);
-      // Array.prototype.map()
 
+      // Array.prototype.map()
+      // 2.Give us an array of the inventor first and last names
       const fullNames = inventors.map(inventor => inventor.first + ' ' + inventor.last);
       const fullNames_2 = inventors.map(inventor => `${inventor.first} ${inventor.last}`);
 
-      console.log('follName:',fullNames);
+      console.log('fullName:',fullNames);
       console.log('fullNames_2:',fullNames_2);
 
       // Array.prototype.sort()
+      // 3.sort the inventors by birthdate, oldest to youngest
+	  console.log("before sort:");
+	  console.table(inventors);
+	  
       const ordered = inventors.sort(function(a,b) {
         if(a.year > b.year) {
           return 1;
@@ -48,15 +67,16 @@
           return -1;
         }
       });
-
-      const ordered_2 = inventors.sort((a,b) => a.year > b.year ? 1:-1);
-
       console.log('ordered:')
       console.table(ordered)
+
+      const ordered_2 = inventors.sort((a,b) => a.year < b.year ? -1:1);
+
       console.log('ordered_2:')
       console.table(ordered_2);
 
-      //Array.prototype.reduce()
+      // Array.prototype.reduce()
+      // 4.How many years did all the inventors live?
       var totalYears = 0;
       for (i=0; i<inventors.length; i++) {
         totalYears += inventors[i].year
@@ -68,7 +88,7 @@
       },0);
       console.log('totalYears_2',totalYears_2);
 
-      // sort the inventors by years lived
+      // 5. sort the inventors by years lived
       const oldest = inventors.sort(function(a,b) {
         const lastGuy = a.passed - b.year;
         const nextGuy = b.passed - b.year;
@@ -83,15 +103,44 @@
       console.table(oldest)
 
 
-      // create a list of Boulevards in Paris 'de' anywhere in the name
+      // 6. create a list of Boulevards in Paris 'de' anywhere in the name
+      // https://en.wikipedia.org/wiki/Category:Boulevards_in_Paris
       // const category = document.querySelector('.mw-category');
+      // const links = category.querySelectorAll('a');
+      // const de = links.map(link => link.textContent);
+      // ---> not working because
+
       // const links = Array.from(category.querySelectorAll('a'));
-      //
       // const de = links
       //   .map(link => link.textContent)
       //   .filter(streetName => streetName.includes('de'));
 
-      //sort exerxise
+
+      // 7. sort exerxise
+      // sort the people alphabetically by last name
+      const beta = people;
+      console.log("beta",beta);
+
+      // simple sort
+      const beta_2 = people.sort();
+      console.log("beta_2",beta_2.type, people.type, beta);
+
+      // split
+      <!-- const beta_3 = people.split(', '); -->
+      <!-- console.log("beta_3",beta); -->
+
+      const alpha = people.sort(function(lastOne, nextGuy, thirdOne) {
+        const parts = lastOne.split(', ');
+        // console.log("7. sort, parts:",parts);
+        // console.log("lastOne:",lastOne);
+        const [aLast, aFirst] = lastOne.split(', ');
+        const [bLast, bFirst] = nextGuy.split(', ');
+        console.log("7.sort test:",aLast, aFirst, bLast, bFirst, thirdOne);
+        console.log(aLast,bLast,aLast>bLast,aLast<bLast);
+        return aLast > bLast ? 1 : -1 ;
+      });
+      console.log("7. sort, alpha:",alpha);
+
 
       //Array.length()
       //Array.push()
