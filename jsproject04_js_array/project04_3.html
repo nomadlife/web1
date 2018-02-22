@@ -28,30 +28,25 @@
 
       // Array.prototype.sort()
       // 3.sort the inventors by birthdate, oldest to youngest
-	  console.log("before sort:");
-	  console.table(inventors);
-	  
+	  console.log("before sort:",inventors);
+	  // console.table(inventors);
+
       const ordered = inventors.sort(function(a,b) {
-        if(a.year > b.year) {
+        if(a.year < b.year) {
           return 1;
         } else {
           return -1;
         }
       });
-      console.log('ordered:')
-      console.table(ordered)
+      console.log('ordered:',ordered)
+      // console.table(ordered)
 
-      const ordered_2 = inventors.sort((a,b) => a.year < b.year ? -1:1);
-
-      console.log('ordered_2:')
-      console.table(ordered_2);
-
+      // const ordered_1 = inventors.sort((a,b) => a.year < b.year ? 1:-1);
+      // console.log('ordered_1:',ordered_1)
+      // console.table(ordered_1);
 
 
- 
-	  
-	  
-	  
+
     </script>
   </body>
 </html>

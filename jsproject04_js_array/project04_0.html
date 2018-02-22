@@ -28,22 +28,32 @@
 
 	  console.log(inventors);
 	  console.table(inventors);
-		
+
 		// 0. function test
       const test = inventors.filter(function (inventor){
         if(inventor.first == 'Albert'){
           return true;
         }
       });
-	  
       console.log("0. function test",test);
 
+      //test code #1
+      const test_1 = inventors.filter(inventor => {
+        if(inventor.first == 'Issac'){
+          return true;
+        }
+      });
+      console.log("0. function test_1",test_1);
+
+      //test code #2
+      const test_2 = inventors.filter(inventor => (inventor.first == 'Galileo'))
+      console.log("0. function test_2",test_2);
 
 
- 
-	  
-	  
-	  
+
+
+
+
     </script>
   </body>
 </html>

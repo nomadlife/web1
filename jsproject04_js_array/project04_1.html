@@ -33,16 +33,26 @@
           return true;
         }
       });
-
-      console.log(fifteen);
-      console.table(fifteen);
-
+      console.log("fifteen",fifteen);
+      // console.table(fifteen);
 
 
- 
-	  
-	  
-	  
+      // test code #1
+      const fifteen_1 = inventors.filter(inventor => {
+        if(inventor.year >= 1600 && inventor.year < 1700) {
+          return true;
+        }
+      });
+      console.log("fifteen_1",fifteen_1);
+
+      // test code #2
+      const fifteen_2 = inventors.filter(inventor => inventor.year >= 1700 && inventor.year < 1900)
+      console.log("fifteen_2",fifteen_2);
+
+
+
+
+
     </script>
   </body>
 </html>
