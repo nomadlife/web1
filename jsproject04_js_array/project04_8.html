@@ -2,11 +2,11 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>js project 04 Array(2)</title>
+    <title>js project 04 Array(8)</title>
   </head>
   <body>
     <script>
-	console.clear();
+	  console.clear();
 	 // delete inventors;
 	 // delete people;
       const inventors =[
@@ -26,16 +26,24 @@
       'Berry, Halle','Berry, Wendell','Bethea, Erin','Bevan, Aneurin','Bevel, Ken','Biden, Joseph','Bierce, Ambrose','Biko, Steve',
       'Billings, Josh','Biondo, Grank','Berrell, Augustine','Black, Elk','Blair, Robert','Blair, Tony','Blake, William'];
 
-      // Array.prototype.map()
-      // 2.Give us an array of the inventor first and last names
-      const fullNames = inventors.map(inventor => inventor.first + ' test1  ' + inventor.last);
-      const fullNames_2 = inventors.map(inventor => `${inventor.first} test2 ${inventor.last}`);
+      // 8. reduce exerxise
+      // sum up the instance of each of these
+      const data = ['car','car','truck','bike','walk','car','van','bike','walk','car','van','car','truck','pogo stick'];
 
-      console.log('fullName:',fullNames);
-      console.log('fullNames_2:',fullNames_2);
+      // const transportation = data.reduce(function(obj,item){
+      //   console.log("item:",item);
+      //   return obj;
+      // },{})
 
-
-
+      const transportation_1 = data.reduce(function(obj,item) {
+        if(!obj[item]) {
+          obj[item] = 0;
+          console.log("obj:",obj,"item:",item);
+        }
+        obj[item]++;
+        return obj;
+      }, {});
+      console.log(transportation_1);
 
 
 

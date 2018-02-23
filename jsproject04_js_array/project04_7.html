@@ -2,11 +2,11 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>js project 04 Array</title>
+    <title>js project 04 Array(7)</title>
   </head>
   <body>
     <script>
-	console.clear();
+	  console.clear();
 	 // delete inventors;
 	 // delete people;
       const inventors =[
@@ -29,25 +29,62 @@
       // 7. sort exerxise
       // sort the people alphabetically by last name
 
+      // var arr1 = ['c','b','a'];
+      // var arr2 = arr1.sort();
+      // console.log(arr1);
+      // console.log(arr2);
+      //
+      // var arr3 = ['c','b','a'];
+      // var arr4 = arr1.slice();
+      // arr4.sort();
+      // console.log(arr3);
+      // console.log(arr4);
+
       // simple sort
       console.log("people:",people);
-	  
-	 
 
-      const alpha = people.sort(function(lastOne, nextGuy) {
-        const [aLast, aFirst] = lastOne.split(', ');
-        const [bLast, bFirst] = nextGuy.split(', ');
-        console.log(aLast, bLast, aLast > bLast);
-        return aLast > bLast ? 1 : -1 ;
+      // const alpha_0 = people.sort();
+      // console.log("alpha_0",alpha_0);
+
+      const alpha = people.sort(function(lastOne, nextOne) {
+        console.log("alpha",lastOne);
       });
-      console.log("alpha:",alpha);
+      console.log("alpha",alpha);
+
+      // const alpha_1 = people.sort(function(lastOne, nextOne) {
+      //   const parts = lastOne.split(', ');
+      //   console.log("alpha_1",parts);
+      // });
+      // console.log("alpha_1",alpha_1);
+      //
+      // const alpha_2 = people.sort(function(lastOne, nextOne) {
+      //   const [last,first] = lastOne.split(', ');
+      //   console.log("alpha_2",last,first);
+      // });
+      // console.log("alpha_2",alpha_2);
+      // //
+      // //
+      // const alpha_3 = people.sort(function(lastOne, nextOne) {
+      //   const [aLast,aFirst] = lastOne.split(', ');
+      //   const [bLast,bFirst] = nextOne.split(', ');
+      //   return aLast>bLast ? -1:1;
+      // });
+      // console.log("alpha_3",alpha_3);
+
+      // const alpha_1 = people.sort(function(lastOne, nextGuy) {
+      //   const [aLast, aFirst] = lastOne.split(', ');
+      //   const [bLast, bFirst] = nextGuy.split(', ');
+      //   console.log(aLast, bLast, aLast > bLast);
+      //   return aLast > bLast ? 1 : -1 ;
+      // });
+      // console.log("alpha_1:",alpha_1);
 
 
 
- 
-	  
-	  
-	  
+
+
+
+
     </script>
   </body>
 </html>

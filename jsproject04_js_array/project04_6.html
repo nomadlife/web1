@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>js project 04 Array</title>
+    <title>js project 04 Array(6)</title>
   </head>
   <body>
     <script>
@@ -28,22 +28,22 @@
 
       // 6. create a list of Boulevards in Paris 'de' anywhere in the name
       // https://en.wikipedia.org/wiki/Category:Boulevards_in_Paris
-      // const category = document.querySelector('.mw-category');
-      // const links = category.querySelectorAll('a');
-      // const de = links.map(link => link.textContent);
+      const category = document.querySelector('.mw-category');
+      const links = category.querySelectorAll('a');
+      const de = links.map(link => link.textContent);
       // ---> not working because
 
-      // const links = Array.from(category.querySelectorAll('a'));
-      // const de = links
-      //   .map(link => link.textContent)
-      //   .filter(streetName => streetName.includes('de'));
+      const links = Array.from(category.querySelectorAll('a'));
+      const de = links
+        .map(link => link.textContent)
+        .filter(streetName => streetName.includes('de'));
 
 
 
- 
-	  
-	  
-	  
+
+
+
+
     </script>
   </body>
 </html>

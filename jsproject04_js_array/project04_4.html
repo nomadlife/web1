@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>js project 04 Array</title>
+    <title>js project 04 Array(4)</title>
   </head>
   <body>
     <script>
@@ -34,17 +34,20 @@
       };
       console.log('totalYears:',totalYears);
 
-      const totalYears_2 = inventors.reduce((total, inventor) => {
-        return total + (inventor.passed - inventor.year);
+      const totalYears_1 = inventors.reduce((total_1, inventor) => {
+        return total_1 + (inventor.passed - inventor.year);
+      },0);
+      console.log('totalYears_1:',totalYears_1);
+
+      const totalYears_2 = inventors.reduce(function(total_1, inventor){
+        return total_1 + (inventor.year - inventor.passed);
       },0);
       console.log('totalYears_2:',totalYears_2);
 
+      const totalYears_3 = inventors.reduce((total_1, inventor) => total_1 + (inventor.passed - inventor.year),0);
+      console.log('totalYears_3:',totalYears_3);
 
 
- 
-	  
-	  
-	  
     </script>
   </body>
 </html>
