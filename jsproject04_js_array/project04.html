@@ -5,6 +5,20 @@
     <title>js project 04 Array</title>
   </head>
   <body>
+    <h1>js project 04 Array</h1>
+    <h2>open a console</h2>
+    <br>test separation
+    <ul>
+      <li><a href="project04_0.html">arrow function test</a> </li>
+      <li><a href="project04_1.html">array.filter()</a></li>
+      <li><a href="project04_2.html">array.map()</a></li>
+      <li><a href="project04_3.html">array.sort()</a></li>
+      <li><a href="project04_4.html"></a></li>
+      <li><a href="project04_5.html"></a></li>
+      <li><a href="project04_6.html"></a></li>
+      <li><a href="project04_7.html"></a></li>
+      <li><a href="project04_8.html"></a></li>
+    </ul>
     <script>
       console.clear();
       const inventors =[
@@ -16,7 +30,7 @@
         {first:'Nicolaus',last:'Copernicus', year:1473 , passed:1543 },
         {first:'Max',last:'Planck', year:1858 , passed:1947 }
       ];
-	  
+
 	  console.log(inventors);
 	  console.table(inventors);
 
@@ -33,7 +47,7 @@
           return true;
         }
       });
-	  
+
       console.log("0. function test",test);
 
       // Array.prototype.fillter()
@@ -59,7 +73,7 @@
       // 3.sort the inventors by birthdate, oldest to youngest
 	  console.log("before sort:");
 	  console.table(inventors);
-	  
+
       const ordered = inventors.sort(function(a,b) {
         if(a.year > b.year) {
           return 1;
