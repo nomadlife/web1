@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Type Ahead @@</title>
+    <link rel="stylesheet" href="style.css">
+    <title></title>
+  </head>
+  <body>
+    <form class="search-form">
+      <input type="text" class="search" placeholder="City or State" >
+      <ul class="suggestions">
+        <li>Filter for a city</li>
+        <li>or a state</li>
+      </ul>
+    </form>
+    <script>
+    const endpoint = 'https://gist.githubusercontent.com/Miserlou/c5cd8364bf9b2420bb29/raw/2bf258763cdddd704f8ffd3ea9a3e81d25e2c6f6/cities.json';
+
+      const cities = [];
+
+      // test1
+      // fetch(endpoint,function(data){
+      // console.log(data);
+      // });
+
+      //test2
+      // const prom = fetch(endpoint);
+      // console.log(prom);
+
+      //test3
+      // fetch(endpoint).then(blob => console.log(blob));
+
+      //test4
+      // fetch(endpoint)
+      //   .then(blob => blob.json())
+      //   .then(data => console.log(data));
+
+      //test5 ==> error because of const cities. let cities will work.
+      // fetch(endpoint)
+      //   .then(blob => blob.json())
+      //   .then(data => cities = data)
+      //test5-1
+      // fetch(endpoint)
+      //   .then(blob => blob.json())
+      //   .then(data => cities.push(data))
+      // -->>> length is 1, wrong array.
+
+      //test5-2
+      // fetch(endpoint)
+      //   .then(blob => blob.json())
+      //   .then(data => cities.push(...data))
+      // ---->>>> now the length is 1000.
+
+      //test 6
+      fetch(endpoint)
+        .then(blob => blob.json())
+        .then(data => cities.push(...data))
+
+      function findMatches(wordToMatch, cities) {
+        return cities.filter(place => {
+          // here we need to figure out if the city on state matches what was searched
+          const regex = new RegExp(wordToMatch,'gi'); // g:entire string i:insenstive
+          return place.city.match(regex) || place.state.match(regex)
+        });
+      }
+      function numberWithCommas(x) {
+        return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g,',');
+      }
+
+      function displayMatches() {
+        const matchArray = findMatches(this.value, cities);
+        console.log(matchArray);
+        const html = matchArray.map(place => {
+          const regex = new RegExp(this.value, 'gi');
+          const cityName = place.city.replace(regex, `<span class ="hl">${this.value}</span>`);
+          const stateName = place.state.replace(regex, `<span class ="hl">${this.value}</span>`);
+          return `
+          <li>
+            <span class="name"> ${cityName}, ${stateName}</span>
+            <span class="population">${numberWithCommas(place.population)} </span>
+          </li>`;
+        }).join('');
+        suggestions.innerHTML = html;
+      }
+
+      const searchInput = document.querySelector('.search');
+      const suggestions = document.querySelector('.suggestions');
+
+      searchInput.addEventListener('change',displayMatches);
+      searchInput.addEventListener('keyup',displayMatches);
+
+
+    </script>
+  </body>
+</html>
