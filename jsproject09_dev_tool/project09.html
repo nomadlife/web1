@@ -9,7 +9,7 @@
     <script>
     const dogs = [{name: 'Snickers', afe:2}, {name:'hugo',age:8}];
 
-    functoin makeGreen(){
+    function makeGreen(){
       const p= document.querySelector('p');
       p.style.color = '#BASA55';
       p.style.fontSize = '50px';
@@ -22,12 +22,23 @@
     // Styled
 
     // Warning!
+    console.warn('OH Nooo');
 
     // Error :|
+    console.error('Shit!');
 
     // Info
+    console.info('Crocodiles eat 3-4 people per year');
 
     // Testing
+    console.log('when assert is true,,,');
+    console.assert(1===1,'That is wrong!')
+    console.log('when assert is false,,,');
+    console.assert(1===2,'That is wrong!')
+
+    console.log('when test a DOM property,,');
+    const p= document.querySelector('p');
+    console.assert(p.classList.contains('ouch'), 'That is wrong!')
 
     // clearing
 
