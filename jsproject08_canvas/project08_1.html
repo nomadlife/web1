@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>8.HTML5 Canvas</title>
+  </head>
+  <body>
+    <canvas id="draw" width="800" height="800"></canvas>
+
+  </body>
+  <script>
+    const canvas = document.querySelector('#draw');
+    const ctx = canvas.getContext('2d');
+    canvas.with = windows.innerWidth;
+    canvas.height = windows.innerWidth;
+    cts.strokeStyle = '#BADA55';
+    ctx.lineJoin = 'round';
+    ctx.lineCap = 'round';
+
+    let isDrawing = false;
+    let lastX = 0;
+    let lastY = 0;
+
+    function draw(e) {
+      if(!isDrawing) return; //stop the fn from rnning when they are not moused down
+      console.log(e);
+    }
+
+    canvas.addEventListener('mousemove',draw);
+    canvas.addEventListener('mousedown',() => isDrawing = true);
+    canvas.addEventListener('mouseup',() => isDrawing = true);
+    canvas.addEventListener('mouseout',() => isDrawing = true);
+
+
+
+
+
+  </script>
+  <style >
+    html, body {
+      margin: 0;
+    }
+  </style>
+</html>
