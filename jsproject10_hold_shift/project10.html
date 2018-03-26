@@ -3,46 +3,52 @@
   <head>
     <meta charset="utf-8">
     <title>Hold Shift to Check Multiple Checkboxes</title>
+    <link rel="stylesheet" href="project10.css">
   </head>
   <body>
-    <style>
-    html {
-      font-family: sans-serif;
-      background: #ffc600;
-    }
+    <div class="inbox">
+      <div class="item">
+        <input type="checkbox" name="" id="">
+        <p>This is an inbox layout.</p>
+      </div>
+      <div class="item">
+        <input type="checkbox" name="" id="">
+        <p>Check one item</p>
+      </div>
+      <div class="item">
+        <input type="checkbox" name="" id="">
+        <p>Hold down your Shift key</p>
+      </div>
+      <div class="item">
+        <input type="checkbox" name="" id="">
+        <p>Check a lower item</p>
+      </div>
+      <div class="item">
+        <input type="checkbox" name="" id="">
+        <p>Everything inbetween should also be set to checked</p>
+      </div>
+      <div class="item">
+        <input type="checkbox" name="" id="">
+        <p>Try do it without any libraries</p>
+      </div>
+      <div class="item">
+        <input type="checkbox" name="" id="">
+        <p>Just regular JavaScript</p>
+      </div>
+      <div class="item">
+        <input type="checkbox" name="" id="">
+        <p>Good Luck!</p>
+      </div>
+      <div class="item">
+        <input type="checkbox" name="" id="">
+        <p>Don't forget to tweet your result!</p>
+      </div>
+      <div class="item">
+        <input type="checkbox" name="" id="">
+        <p></p>
+      </div>
+    </div>
+    <script src="project10.js"></script>
 
-    .inbox {
-      max-width: 400px;
-      margin: 50px auto;
-      background: white;
-      border-radius: 5px;
-      box-shadow: 10px 10px 0 rgba(0,0,0,0.1);
-    }
-    .item{
-      display: flex;
-      align-items: center;
-      border-bottom: 1px solid # F1F1F1;
-    }
-
-    .item:last-child {
-      border-bottom:0;
-    }
-
-    input:checked + p {
-      background: #f9f9f9;
-      text-decoration: line-through;
-    }
-
-    input[type="checkbox"] {
-      margin: 20px;
-    }
-
-    p{
-      margin: 0;
-      padding: 20px;
-
-    }
-
-    </style>
   </body>
 </html>
