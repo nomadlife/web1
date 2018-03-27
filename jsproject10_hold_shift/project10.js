@@ -16,9 +16,12 @@ function handleCheck(e){
       }
     })
   }
-  if(this.check){
+  if(this.checked){
     lastChecked = this;
     console.log("lastChecked:",lastChecked);
+  }
+  if(lastChecked){
+    console.log("lastChecked:true");
   }
 }
 checkboxes.forEach(checkbox => checkbox.addEventListener('click',handleCheck));
