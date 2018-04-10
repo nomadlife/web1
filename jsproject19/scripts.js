@@ -13,20 +13,39 @@ function getVideo() {
 	})
 	.catch(err => {
 		console.error(`OH NO!!`,err);
-	})
+	});
 }
 
 function paintToCanvas(){
 	const width = video.videoWidth;
-	const height = video.videoGeight;
+	const height = video.videoHeight;
 	canvas.width = width;
 	canvas.height = height;
-	console.log(width, height);
+	// console.log(width, height);
 
-	setInterval(() => {
+	return setInterval(() => {
 		ctx.drawImage(video, 0, 0, width, height);
+		const pixels = ctx.get
 	}, 100);
 
 }
 
+function takePhoto(){
+	//played the sound
+	// snap.currentTime = 0;
+	// snap.play();
+
+	// take the data out of the paintToCanvas
+	const data = canvas.toDataURL('image/jpeg');
+	// console.log(data);
+	const link = document.createElement('a');
+	link.href = data;
+	link.setAttribute('download', 'handsome');
+	link.innerHTML = `<img src="${data}" alt="Handsome Man" />`;
+	// link.textContent = 'Download Iamge';
+	strip.insertBefore(link, strip.firstChild);
+}
+
 getVideo();
+
+video.addEventListener('canplay', paintToCanvas);
