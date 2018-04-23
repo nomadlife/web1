@@ -3,6 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <title>EventListener bubbling, capture, once</title>
+  <link rel="stylesheet" href="style.css">
 </head>
 <body class="bod">
 
@@ -14,54 +15,9 @@
   </div>
 
 <style>
-  html {
-    box-sizing: border-box;
-  }
-  *, *:before, *:after { box-sizing: inherit; }
-
-  div {
-    width:100%;
-    padding:100px;
-  }
-
-  .one {
-    background: thistle;
-  }
-
-  .two {
-    background:mistyrose;
-  }
-
-  .three {
-    background:coral;
-  }
 </style>
 
 <button></button>
-<script>
-    const divs = document.querySelectorAll('div');
-    const button = document.querySelector('button');
-
-    function logText(e){
-        console.log(this.classList.value);
-        // e.stopPropagation(); // stop bubbling
-        // console.log(this);
-    }
-
-    document.body.addEventListener('click', logText);
-
-    // divs.forEach(div => div.addEventListener('click', logText))
-    divs.forEach(div => div.addEventListener('click', logText, {
-        capture:true,
-        once:true 
-    }));
-
-    button.addEventListener('click', () => {
-        console.log('click!!!');
-    },{
-        once:true
-    })
-
-</script>
+<script src="script.js"></script>
 </body>
 </html>
