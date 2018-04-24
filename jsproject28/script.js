@@ -4,8 +4,8 @@
 	let isDown = false;
 	
 	function handleMove(e){
-		const y = e.pageY - this.offsetTop;
-		const percent = y/this.offsetHeight;
+		const y = e.pageY - speed.offsetTop;
+		const percent = y/speed.offsetHeight;
 		const min = 0.4;
 		const max = 4;
 		const height = Math.round(percent * 100) + '%';
@@ -19,16 +19,20 @@
 		console.log(percent);
 	}
 	
-	speed.addEventListener('mousedown', handleMove);
+	speed.addEventListener('mousedown', function(e){
+		isDown = true;
+		handleMove(e);
+		console.log(isDown);
+	});
 	
 	speed.addEventListener('mouseup',()=>{
 	isDown = false;
 	console.log(isDown);
 	});
 	
-	<!-- speed.addEventListener('mousemove', (e)=>{ -->
-	<!-- if(!isDown) return; -->
-	<!-- handlemove; -->
-	<!-- console.log(isDown); -->
-	<!-- }); -->
+	speed.addEventListener('mousemove', (e)=>{
+	if(!isDown) return;
+	handleMove(e);
+	console.log(isDown);
+	});
 	

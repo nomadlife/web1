@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+
+<script>
+	function foo() {
+    setTimeout((function(){
+            console.log(this.a);        // func
+        }).bind(this),100);
+	}
+
+	foo.a = 'func';
+
+	var a = 'global';
+
+	foo.call(foo);
+</script>
+</body>
+</html>
