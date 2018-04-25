@@ -1,0 +1,24 @@
+js project 7 Array Cardio 
+js project 8 HTML5 Canvas
+js project 9 Console Tricks!
+js project 10 Hold Shift to Check Multiple Checkboxes
+js project 11 HTML5 Video
+js project 12 KONAMI Code
+js project 13 Slide in on scroll
+js project 14 Ref vs Copy
+js project 15 Event Delegation
+js project 16 Mouse Move Effect
+js project 17 Sort without Article
+js project 18 Array Reduce
+js project 19 HTML5 Canvas(chrome)
+js project 20 Speech Recognition(chrome)
+js project 21 Geolocation Speedometer and compas(chrome, not completed)
+js project 22 Follow Along Links
+js project 23 Text-To-Speech(chrome)
+js project 24 Sticky Nav
+js project 25 Event capture, Bubbling
+js project 26 Dropdown Nav
+js project 27 Click an Drag
+js project 28 Video Play Speed Control
+js project 29 Countdown Timer
+js project 30 Whack A Mole Game
