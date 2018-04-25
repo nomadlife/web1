@@ -3,12 +3,12 @@
 		{
 			"title":"Drum kit",
 			"location":"jsproject01/project01.html",
-			"image":""
+			"image":"images/jsproject01.png"
 		},
 		{
 			"title":"Clock",
 			"location":"jsproject02/project02.html",
-			"image":""
+			"image":"images/jsproject02.png"
 		},
 		{
 			"title":"CSS Variables and js",
