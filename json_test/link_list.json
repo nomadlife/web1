@@ -1,0 +1,11 @@
+{
+	"jsproject01":{
+		"image": "images/jsproject01.png",
+		"location": "jsproject01/project01"
+	},
+	"jsproject02": {
+		"image": "images/",
+		"location": "jsproject02/project02"
+	}
+	
+}

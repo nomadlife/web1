@@ -1,0 +1,20 @@
+{
+	"projects":[
+		{
+			"title":"js project 01",
+			"location":"jsproject01/project01.html",
+			"image":""
+		},
+		{
+			"title":"js project 02",
+			"location":"jsproject02/project02.html",
+			"image":""
+		},
+		{
+			"title":"jsproject03",
+			"location":"index.html",
+			"image":"jsproject03.png"
+		}
+	
+	]
+}
