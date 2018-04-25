@@ -1,0 +1,155 @@
+{
+	"projects":[
+		{
+			"title":"Drum kit",
+			"location":"jsproject01/project01.html",
+			"image":""
+		},
+		{
+			"title":"Clock",
+			"location":"jsproject02/project02.html",
+			"image":""
+		},
+		{
+			"title":"CSS Variables and js",
+			"location":"jsproject03/project03.html",
+			"image":"images/jsproject03.png"
+		},
+		{
+			"title":"Array",
+			"location":"jsproject04/project04.html",
+			"image":""
+		},
+		{
+			"title":"Image Gallery",
+			"location":"jsproject05/project05.html",
+			"image":"images/jsproject05.png"
+		},
+		{
+			"title":"Ajax Type Ahead",
+			"location":"jsproject06/project06.html",
+			"image":"images/jsproject06.png"
+		},
+		{
+			"title":"Array Cardio ",
+			"location":"jsproject07/project07.html",
+			"image":""
+		},
+		{
+			"title":"HTML5 Canvas",
+			"location":"jsproject08/project08.html",
+			"image":"images/jsproject08.png"
+		},
+		{
+			"title":"Console Tricks!Console Tricks!",
+			"location":"jsproject09/project09.html",
+			"image":"images/jsproject09.png"
+		},
+		{
+			"title":"Hold Shift to Check Multiple Checkboxes",
+			"location":"jsproject10/project10.html",
+			"image":"images/jsproject10.png"
+		},
+		{
+			"title":"HTML5 Video",
+			"location":"jsproject11/project11.html",
+			"image":"images/jsproject11.png"
+		},
+		{
+			"title":"KONAMI Code",
+			"location":"jsproject12/project12.html",
+			"image":"images/jsproject12.png"
+		},
+		{
+			"title":"Slide in on scroll",
+			"location":"jsproject13/project13.html",
+			"image":"images/jsproject13.png"
+		},
+		{
+			"title":"Ref vs Copy",
+			"location":"jsproject14/project14.html",
+			"image":""
+		},
+		{
+			"title":"Event Delegation",
+			"location":"jsproject15/project15.html",
+			"image":"images/jsproject15.png"
+		},
+		{
+			"title":"Mouse Move Effect",
+			"location":"jsproject16/project16.html",
+			"image":"images/jsproject16.png"
+		},
+		{
+			"title":"Sort without Article",
+			"location":"jsproject17/project17.html",
+			"image":"images/jsproject17.png"
+		},
+		{
+			"title":"Array Reduce",
+			"location":"jsproject18/project18.html",
+			"image":"images/jsproject18.png"
+		},
+		{
+			"title":"HTML5 Canvas(chrome)",
+			"location":"jsproject19/index.html",
+			"image":images/jsproject19.png"
+		},
+		{
+			"title":"Speech Recognition(chrome)",
+			"location":"jsproject20/index.html",
+			"image":"images/jsproject20.png"
+		},
+		{
+			"title":"Geolocation Speedometer and compas(chrome, not completed)",
+			"location":"jsproject21/project21.html",
+			"image":"images/jsproject21.png"
+		},
+		{
+			"title":"Follow Along Links",
+			"location":"jsproject22/project22.html",
+			"image":"images/jsproject22.png"
+		},
+		{
+			"title":"Text-To-Speech(chrome)",
+			"location":"jsproject23/project23.html",
+			"image":"images/jsproject23.png"
+		},
+		{
+			"title":"Sticky Nav",
+			"location":"jsproject024/project24.html",
+			"image":"images/jsproject24.png"
+		},
+		{
+			"title":"Event capture, Bubbling",
+			"location":"jsproject25/project25.html",
+			"image":"images/jsproject25.png"
+		},
+		{
+			"title":"Dropdown Nav",
+			"location":"jsproject26/project26.html",
+			"image":"images/jsproject26.png"
+		},
+		{
+			"title":"Click an Drag",
+			"location":"jsproject27/project27.html",
+			"image":"images/jsproject27.png"
+		},
+		{
+			"title":"Video Play Speed Control",
+			"location":"jsproject28/project28.html",
+			"image":"images/jsproject28.png"
+		},
+		{
+			"title":"Countdown Timer",
+			"location":"jsproject29/project29.html",
+			"image":"images/jsproject29.png"
+		},
+		{
+			"title":"Whack A Mole Game",
+			"location":"jsproject30/project30.html",
+			"image":"images/jsproject30.png"
+		}
+	
+	]
+}

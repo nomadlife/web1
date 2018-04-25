@@ -1,3 +1,9 @@
+js project 1 Drum kit
+js project 2 Clock
+js project 3 CSS Variables and js
+js project 4 Array
+js project 5 Image Gallery
+js project 6 Ajax Type Ahead
 js project 7 Array Cardio 
 js project 8 HTML5 Canvas
 js project 9 Console Tricks!
