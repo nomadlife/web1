@@ -93,7 +93,7 @@
 		{
 			"title":"HTML5 Canvas(chrome)",
 			"location":"jsproject19/index.html",
-			"image":images/jsproject19.png"
+			"image":"images/jsproject19.png"
 		},
 		{
 			"title":"Speech Recognition(chrome)",
@@ -101,7 +101,7 @@
 			"image":"images/jsproject20.png"
 		},
 		{
-			"title":"Geolocation Speedometer and compas(chrome, not completed)",
+			"title":"Geolocation Speedometer and compas(chrome/ not completed)",
 			"location":"jsproject21/project21.html",
 			"image":"images/jsproject21.png"
 		},
