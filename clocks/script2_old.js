@@ -16,40 +16,29 @@
 /*
  *  Set up an entry for each locale of clock we want to use
  */
-	function getTimes() {
-	  var times = [
-		{
-		  city: 'tokyo',
-		  jstime : calcTime(9)
-		},
-		{
-		  city: 'london',
-		  jstime: calcTime(0)
-		},
-		{
-		  city: 'newyork',
-		  jstime: calcTime(-4)
-		}
-	  ];
-	  return times;
-	}
-	
-	function calcTime(offset) {
-
-    // create Date object for current location
-    var d = new Date();
-
-    // convert to msec
-    // add local time zone offset
-    // get UTC time in msec
-    var utc = d.getTime() + (d.getTimezoneOffset() * 60000);
-
-    // create new Date object for different city
-    // using supplied offset
-    var nd = new Date(utc + (3600000*offset));
-
-    // return time as a string
-    return nd;
+ function getTimes() {
+  moment.tz.add([
+    'Eire|GMT IST|0 -10|01010101010101010101010|1BWp0 1qM0 WM0 1qM0 WM0 1qM0 11A0 1o00 11A0 1o00 11A0 1o00 11A0 1qM0 WM0 1qM0 WM0 1qM0 11A0 1o00 11A0 1o00',
+    'Asia/Tokyo|JST|-90|0|',
+    'America/New_York|EST EDT|50 40|0101|1Lz50 1zb0 Op0'
+    ]);
+  var now = new Date();
+  // Set the time manually for each of the clock types we're using
+  var times = [
+    {
+      jsclass: 'js-tokyo',
+      jstime: moment.tz(now, "Asia/Tokyo")
+    },
+    {
+      jsclass: 'js-london',
+      jstime: moment.tz(now, "Eire")
+    },
+    {
+      jsclass: 'js-new-york',
+      jstime: moment.tz(now, "America/New_York")
+    }
+  ];
+  return times;
 }
 
 /*
@@ -59,9 +48,9 @@ function initInternationalClocks() {
   // Initialise the clock settings and the three times
   var times = getTimes();
   for (i = 0; i < times.length; ++i) {
-    var hours = times[i].jstime.getHours();
-    var minutes = times[i].jstime.getMinutes();
-    var seconds = times[i].jstime.getSeconds();
+    var hours = times[i].jstime.format('h');
+    var minutes = times[i].jstime.format('mm');
+    var seconds = times[i].jstime.format('ss');
 
     var degrees = [
       {
@@ -77,9 +66,8 @@ function initInternationalClocks() {
         degree: (seconds * 6)
       }
     ];
-	
     for (var j = 0; j < degrees.length; j++) {
-      var elements = document.querySelectorAll('.active .' + times[i].city + ' .' + degrees[j].hand);
+      var elements = document.querySelectorAll('.active .' + times[i].jsclass + ' .' + degrees[j].hand);
       for (var k = 0; k < elements.length; k++) {
         	elements[k].style.webkitTransform = 'rotateZ('+ degrees[j].degree +'deg)';
           elements[k].style.transform = 'rotateZ('+ degrees[j].degree +'deg)';
@@ -92,9 +80,6 @@ function initInternationalClocks() {
   }
   // Add a class to the clock container to show it
   var elements = document.querySelectorAll('.clock');
-  
-  console.log("check initInternationalClocks()",elements);
-  
   for (var l = 0; l < elements.length; l++) {
     elements[l].className = elements[l].className + ' show';
   }
@@ -128,7 +113,6 @@ function initLocalClocks() {
   // Loop through each of these hands to set their angle
   for (var j = 0; j < hands.length; j++) {
     var elements = document.querySelectorAll('.local .' + hands[j].hand);
-	console.log("check initLocalClocks",elements)
     for (var k = 0; k < elements.length; k++) {
         elements[k].style.transform = 'rotateZ('+ hands[j].angle +'deg)';
         // If this is a minute hand, note the seconds position (to calculate minute position later)
@@ -144,9 +128,6 @@ function initLocalClocks() {
  */
 function moveSecondHands() {
   var containers = document.querySelectorAll('.bounce .seconds-container');
-  
-  console.log("check moveSecondHands()",containers);
-  
   setInterval(function() {
     for (var i = 0; i < containers.length; i++) {
       if (containers[i].angle === undefined) {
@@ -171,9 +152,6 @@ function moveSecondHands() {
 function setUpMinuteHands() {
   // More tricky, this needs to move the minute hand when the second hand hits zero
   var containers = document.querySelectorAll('.minutes-container');
-  
-  console.log("check setUpMinuteHands()",containers);
-  
   var secondAngle = containers[containers.length - 1].getAttribute('data-second-angle');
   console.log(secondAngle);
   if (secondAngle > 0) {

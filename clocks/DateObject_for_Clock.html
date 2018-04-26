@@ -10,26 +10,25 @@
 <script>
 	function getTimes() {
 
-	  var now = new Date();
-	  // Set the time manually for each of the clock types we're using
+
 	  var times = [
 		{
 		  jsclass: 'Tokyo',
-		  UTCoffset : -9
+		  UTCoffset : calcTime(9)
 		},
 		{
 		  city: 'London',
-		  UTCoffset: 0
+		  UTCoffset: calcTime(0)
 		},
 		{
 		  city: 'New York',
-		  UTCoffset: 5
+		  UTCoffset: calcTime(-4)
 		}
 	  ];
 	  return times;
 	}
 	
-	function calcTime(city, offset) {
+	function calcTime(offset) {
 
     // create Date object for current location
     var d = new Date();
@@ -44,7 +43,7 @@
     var nd = new Date(utc + (3600000*offset));
 
     // return time as a string
-    return "The local time in " + city + " is " + nd.toLocaleString();
+    return nd.toLocaleString();
 }
 
 
