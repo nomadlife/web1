@@ -1,70 +1,11 @@
-<style>
-$clock-size: 200px;
-
- $seconds-height: 100px;
- $minutes-height: 90px;
- $hours-height: 60px;
-
-.clock {
-	position: absolute;
-	top: 50%;
-	left: 50%;
-	transform: translate(-50%, -50%);
-	width: $clock-size;
-	height: $clock-size;
-	border: 5px solid black;
-	border-radius: 50%;
+body{
+  background: white url('images/background.jpg');
 }
 
-.pointer {
-	position: absolute;
-	left: 50%;
-	transform-origin: 1px calc(100% - 20px);
-	&.seconds {
-		top: (($clock-size / 2) - $seconds-height);
-		width: 2px;
-		height:  ($seconds-height + 20px);
-		margin-left: -1px;
-		background-color: red;
-		animation: rotateClock 60s infinite steps(60, end);
-		z-index: 3;
-		&:after {
-			content: "";
-			position: absolute;
-			top: 5px;
-			left: 50%;
-			margin-left: -5px;
-			width: 10px;
-			height: 10px;
-			background-color: red;
-			border-radius: 50%;
-		}
-	}
-	&.minutes {
-		top: (($clock-size / 2) - $minutes-height);
-		width: 6px;
-		height: ($minutes-height + 20px);
-		margin-left: -3px;
-		background-color: black;
-		transform-origin: 0 100%;
-		animation: rotateClock 3600s infinite steps(60, end);
-		z-index: 2;
-	}
-	&.hours {
-		top: (($clock-size / 2) - $hours-height);
-		width: 6px;
-		height: ($hours-height + 20px);
-		margin-left: -3px;
-		background-color: black;
-		transform-origin: 0 100%;
-		animation: rotateClock 43200s infinite steps(12, end);
-		z-index: 1;
-	}
+.navbar{
+  border-radius:0;
 }
 
-@keyframes rotateClock {
-	to {
-		transform: rotate(360deg);
-	}
+.navbar-brand{
+  font-family: 'Satisfy', cursive;
 }
-</style>
