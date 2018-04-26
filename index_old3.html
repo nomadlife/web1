@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Index</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+    <!-- <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Tangerine" type="text/css"> -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Satisfy" type="text/css">
+    <link rel="stylesheet" type="text/css" href="style.css">
+
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+    <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script> -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+  </head>
+  <body>
+    
+    <div class="albums-container container-fluid">
+
+      <!-- Albums -->
+      <div class="row">
+          <div class="col-sm-12"><h3>Exercise List</h3></div>
+				
+				
+				<div id="projects"></div>
+            
+
+			
+            <li> <a href="clocks/clock.html">clock</a></li>
+            <li> <a href="clocks/clock-1.html">clock-1</a></li>
+            <li> <a href="clocks/clock-1_test.html">clock-1(test)</a></li>
+            <li> <a href="clocks/clock-2.html">clock-2</a></li>
+            <li> <a href="clocks/timer.html">timer</a></li>
+            <li> <a href="clocks/clock-timer.html">Clock and Timer</a></li>
+
+
+	
+      </div>
+  
+  </div>
+  
+  <script>
+  var xhttp = new XMLHttpRequest();
+	
+	xhttp.onreadystatechange = function() {
+		if (this.readyState == 4 && this.status == 200) {
+		   var response = JSON.parse(xhttp.responseText);
+		   var project = response.projects;
+		   var output = '';
+			for(var i=0;i<project.length;i++){
+				output += 
+				'<div class="col-sm-4 col-lg-2"><div class="thumbnail"><a href="' + project[i].location + '"><img src="' + project[i].image + '" class="img-responsive"><div class="caption"><h2>'+ project[i].title +'</h2></div></a></div></div>';
+				}
+			document.getElementById('projects').innerHTML = output;
+		   
+		}
+	};
+	
+	xhttp.open("GET", "projectlist.json", true);
+	xhttp.send();
+  </script>
+  </body>
+</html>

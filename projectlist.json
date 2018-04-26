@@ -1,6 +1,11 @@
 {
 	"projects":[
 		{
+			"title":"Stopwatch",
+			"location":"stopwatch/stopwatch.html",
+			"image":"images/stopwatch.png"
+		},
+		{
 			"title":"Drum kit",
 			"location":"jsproject01/project01.html",
 			"image":"images/jsproject01.png"
@@ -149,6 +154,36 @@
 			"title":"Whack A Mole Game",
 			"location":"jsproject30/project30.html",
 			"image":"images/jsproject30.png"
+		},
+		{
+			"title":"Clock",
+			"location":"clocks/clock.html",
+			"image":""
+		},
+		{
+			"title":"Clock2",
+			"location":"clocks/clock2.html",
+			"image":""
+		},
+		{
+			"title":"Clock2-test",
+			"location":"clocks/clock2_test.html",
+			"image":""
+		},
+		{
+			"title":"Clock3",
+			"location":"clocks/clock3.html",
+			"image":""
+		},
+		{
+			"title":"Timer",
+			"location":"clocks/timer.html",
+			"image":""
+		},
+		{
+			"title":"Clock and Timer",
+			"location":"clocks/clock-timer.html",
+			"image":""
 		}
 	
 	]
