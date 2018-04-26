@@ -1,0 +1,39 @@
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<script src="https://cdn.rawgit.com/google/code-prettify/master/loader/run_prettify.js"></script>
+	<!-- <link rel="stylesheet" type="text/css" href="google-code-prettify/prettify.css"> -->
+	<!-- <script type="text/javascript" src="google-code-prettify/prettify.js"></script> -->
+</head>
+<body>
+<pre class="prettyprint"><code>
+var d = new Date();
+
+</code></pre>
+<div id="target" ></div>
+ 
+<script>
+	var xhttp = new XMLHttpRequest();
+	
+	xhttp.onreadystatechange = function() {
+		if (this.readyState == 4 && this.status == 200) {
+		   var response = JSON.parse(xhttp.responseText);
+		   var command = response.scripts;
+		   var output = '';
+			for(var i=0;i<command.length;i++){
+			result = eval(command[i].script);
+			output += '<pre class="prettyprint">'+command[i].script+'<br>'+ result +'<br>'+ d +'</pre>';
+			};
+			
+			document.getElementById('target').innerHTML = output;
+		   
+		}
+	};
+	
+	xhttp.open("GET", "scriptlist.json", true);
+	xhttp.send();
+	
+</script>
+</body>
+</html>

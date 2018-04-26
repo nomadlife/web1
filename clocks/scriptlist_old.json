@@ -1,0 +1,29 @@
+{
+	"scripts":[
+		{
+			"id":"1",
+			"content":"var d = new Date();"
+		},
+		{
+			"id":"2",
+			"content":"d.getDate();"
+		},
+		{
+			"id":"3",
+			"content":"d.getDay()"
+		},
+		{
+			"id":"4",
+			"content":"d.getFulYear()"
+		},
+		{
+			"id":"5",
+			"content":"d.getHours()"
+		},
+		{
+			"id":"6",
+			"content":"d.getMilliseconds();"
+		}
+	
+	]
+}

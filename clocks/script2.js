@@ -1,4 +1,3 @@
-<script>
 
 /*
  *  Main function to set the clock times
@@ -187,4 +186,3 @@ function moveMinuteHands(containers) {
   }, 60000);
 }
 
-</script>
