@@ -1,0 +1,16 @@
+{
+	"scripts":[
+		{
+			"script":"item1"
+		},
+		{
+			"script":"item2"
+		},
+		{
+			"script":"item3"
+		},
+		{
+			"script":"item4"
+		}
+	]
+}
