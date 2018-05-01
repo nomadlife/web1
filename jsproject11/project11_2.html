@@ -3,14 +3,15 @@
 <head>
   <meta charset="UTF-8">
   <title>HTML Video Player</title>
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="style2.css">
 </head>
 <body>
 
    <div class="player">
-   <input type="file" accept="video/*"/>
-     <video class="player__video viewer" ></video>
-	<track label="English" kind="subtitles" srclang="en" src="caption_test.srt" default>
+   <input type="file" accept="video/*" />
+     <video class="player__video viewer"  autoplay ></video>
+	 
+	<!-- <track label="English" kind="subtitles" srclang="en" src="caption_test.srt" default> -->
 	
      <div class="player__controls">
        <div class="progress">
@@ -23,7 +24,10 @@
        <button data-skip="25" class="player__button">25s »</button>
      </div>
    </div>
-
-  <script src="scripts.js"></script>
+   <!-- <div> -->
+   <!-- <input type="file" accept="audio/*" /> -->
+	<!-- <audio></audio> -->
+	<!-- </div> -->
+  <script src="script2.js"></script>
 </body>
 </html>

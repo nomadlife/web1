@@ -1,0 +1,24 @@
+video, input {
+    display: block;
+}
+
+input {
+    width: 100%;       
+}
+
+.info {
+    background-color: aqua;            
+}
+
+.error {
+    background-color: red;
+    color: white;
+}
+
+video {
+	max-width : 700px;
+}
+
+track {
+	width : 700px;
+}
