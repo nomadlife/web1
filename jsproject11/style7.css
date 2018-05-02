@@ -20,7 +20,20 @@ input {
 }
 
 video {
-	max-width : 700px;
+	width : 700px;
+	border: 1px solid #aaa;
+    object-fit: initial;
+}
+::cue {
+   font-size: 20px;
+}
+::cue(.de) {
+   color: #000;
+   background-color: #ffcc00;
+}
+::cue(.en) {
+   color: #fff;
+   background-color: #00247d;
 }
 
 track {

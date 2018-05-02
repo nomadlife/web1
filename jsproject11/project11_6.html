@@ -2,19 +2,19 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Document</title>
-	<link rel="stylesheet" href="style3.css">
+	<title>11-6</title>
+	<link rel="stylesheet" href="style6.css">
 </head>
 <body>
-	<h1>HTML5 Video file player example</h1>
+	<h1>Video with 2 subtitle simultaneously</h1>
 	<div id="message"></div>
 	<input type="file" accept="video/*"/>
 	<video controls autoplay>
 	<track label="English" kind="subtitles" srclang="en" src="test.vtt" default>
-	test 
+	<track label="English2" kind="subtitles" srclang="en" src="test2.vtt" default>
 	</video>
+	<button id="show-all">Show all</button>
 	
-	
-	<script src="script3.js"></script>
+	<script src="script6.js"></script>
 </body>
 </html>

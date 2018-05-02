@@ -1,5 +1,5 @@
 body {
-	background : gray;
+	background:gray;
 }
 
 video, input {
@@ -19,8 +19,13 @@ input {
     color: white;
 }
 
-audio {
-	width : 400px;
+video {
+	width : 700px;
+	border: 1px solid #aaa;
+    object-fit: initial;
+}
+::cue {
+   font-size: 20px;
 }
 
 track {

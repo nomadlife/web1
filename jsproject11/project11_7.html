@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>11_7</title>
+	<link rel="stylesheet" href="style7.css">
+</head>
+<body>
+	<h1>audio with 2 subtitle simultaneously (on video tag)</h1>
+	<div id="message"></div>
+	<input type="file" accept="audio/*"/>
+	<video controls autoplay>
+	<!-- <source src="" type="audio/mpeg"> -->
+	<track label="English" kind="subtitles" srclang="en" src="test.vtt" default>
+	<track label="English2" kind="subtitles" srclang="de" src="test2.vtt" default>
+	test 
+	</video>
+	<button id="show-all">Show all</button>
+	
+	
+	<script src="script7.js"></script>
+</body>
+</html>

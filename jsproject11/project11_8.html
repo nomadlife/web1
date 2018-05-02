@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>11_7_audio from video tag</title>
+	<link rel="stylesheet" href="style8.css">
+</head>
+<body>
+	<h1>Open subtitle file, change file</h1>
+	<div id="message"></div>
+	
+	note : script8 changed
+	
+	<label> MP3 File </label>
+	<input type="file" id="file-loader" accept="audio/*"/>
+	
+	<label> Subtitle File</label>
+	<input type="file" id="text-loader" accept=".vtt"/>
+	
+	<video controls autoplay>
+	<!-- <source src="" type="audio/mpeg"> -->
+	<track label="English" kind="subtitles" srclang="en"  default>
+	</video>
+	<button id="show-all">Show all</button>
+	
+	
+	<script src="script8.js"></script>
+</body>
+</html>

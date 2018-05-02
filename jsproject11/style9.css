@@ -1,0 +1,43 @@
+body {
+	background:gray;
+}
+
+video, input {
+    display: block;
+}
+
+input {
+    width: 100%;       
+}
+
+video {
+	width : 100%;
+	max-width : 700px;
+	border: 1px solid #aaa;
+    object-fit: initial;
+}
+
+::cue {
+   font-size: 20px;
+}
+::cue(.de) {
+   color: #000;
+   background-color: #ffcc00;
+}
+::cue(.en) {
+   color: #fff;
+   background-color: #00247d;
+}
+
+track {
+	width : 700px;
+}
+
+.info {
+    background-color: aqua;            
+}
+
+.error {
+    background-color: red;
+    color: white;
+}

@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>11_9</title>
+	<link rel="stylesheet" href="style9.css">
+</head>
+<body>
+	<h1>Open two files, simultaeously </h1>
+	<div id="message"></div>
+	
+	note : 
+	
+	<label> MP3 File </label>
+	<input type="file" id="file-loader" accept="audio/*"/>
+	
+	<label> Subtitle File</label>
+	<input type="file" id="text-loader" accept=".vtt"/>
+	
+	<label> Subtitle File #2</label>
+	<input type="file" id="text-loader-2" accept=".vtt"/>
+	
+	<video controls autoplay>
+	<!-- <source src="" type="audio/mpeg"> -->
+	<track label="English" kind="subtitles" srclang="en"  default>
+	<track label="English2" kind="subtitles" srclang="en"  default>
+	</video>
+	<button id="show-all">Show all</button>
+	
+	
+	<script src="script9.js"></script>
+</body>
+</html>
