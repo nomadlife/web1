@@ -2,23 +2,23 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>11_9</title>
-	<link rel="stylesheet" href="style9.css">
+	<title>11_10</title>
+	<link rel="stylesheet" href="style10.css">
 </head>
 <body>
-	<h1>Open two subs files, simultaneously </h1>
+	<h1>script rearrage, remove duplication code </h1>
 	<div id="message"></div>
 	
 	note : 
 	
 	<label> MP3 File </label>
-	<input type="file" id="file-loader" accept="audio/*"/>
+	<input type="file" target="video" accept="audio/*"/>
 	
 	<label> Subtitle File</label>
-	<input type="file" id="text-loader-1" accept=".vtt"/>
+	<input type="file" target="#track1" accept=".vtt"/>
 	
 	<label> Subtitle File #2</label>
-	<input type="file" id="text-loader-2" accept=".vtt"/>
+	<input type="file" target="#track2" accept=".vtt"/>
 	
 	<video controls autoplay>
 	<!-- <source src="" type="audio/mpeg"> -->
@@ -28,6 +28,6 @@
 	<button id="show-all">Show all</button>
 	
 	
-	<script src="script9.js"></script>
+	<script src="script10.js"></script>
 </body>
 </html>

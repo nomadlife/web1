@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>11_11</title>
+	<link rel="stylesheet" href="style11.css">
+</head>
+<body>
+	<h1>css grid</h1>
+	<div id="message"></div>
+	
+
+	<div class="loader">
+	<label> MP3 File   :</label>
+	<input type="file" target="video" accept="audio/*"/>
+	
+	<label> Subtitle File #1:</label>
+	<input type="file" target="#track1" accept=".vtt"/>
+	
+	<label> Subtitle File #2:</label>
+	<input type="file" target="#track2" accept=".vtt"/>
+	</div>
+	<video controls autoplay>
+	<!-- <source src="" type="audio/mpeg"> -->
+	<track id="track1" label="Subtitle1" kind="subtitles" srclang="en"  default>
+	<track id="track2" label="Subtitle2" kind="subtitles" srclang="en"  default>
+	</video>
+	<button id="show-all">Show all</button>
+	
+	
+	<script src="script11.js"></script>
+</body>
+</html>
