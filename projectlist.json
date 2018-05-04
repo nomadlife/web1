@@ -5,15 +5,46 @@
 			"location":"stopwatch/stopwatch.html",
 			"image":"images/stopwatch.png"
 		},
+		
+		{
+			"title":"Clock",
+			"location":"jsproject02/project02.html",
+			"image":"images/jsproject02.png"
+		},
+		{
+			"title":"Countdown Timer",
+			"location":"jsproject29/project29.html",
+			"image":"images/jsproject29.png"
+		},
+		{
+			"title":"HTML5 Video",
+			"location":"jsproject11/project11.html",
+			"image":"images/jsproject11.png"
+		},
+		{
+			"title":"Whack A Mole Game",
+			"location":"jsproject30/project30.html",
+			"image":"images/jsproject30.png"
+		},
+		{
+			"title":"Text-To-Speech(chrome)",
+			"location":"jsproject23/project23.html",
+			"image":"images/jsproject23.png"
+		},
 		{
 			"title":"Drum kit",
 			"location":"jsproject01/project01.html",
 			"image":"images/jsproject01.png"
 		},
 		{
-			"title":"Clock",
-			"location":"jsproject02/project02.html",
-			"image":"images/jsproject02.png"
+			"title":"Camera, HTML5 Canvas(chrome)",
+			"location":"jsproject19/index.html",
+			"image":"images/jsproject19.png"
+		},
+		{
+			"title":"Speech Recognition(chrome)",
+			"location":"jsproject20/index.html",
+			"image":"images/jsproject20.png"
 		},
 		{
 			"title":"CSS Variables and js",
@@ -55,11 +86,7 @@
 			"location":"jsproject10/project10.html",
 			"image":"images/jsproject10.png"
 		},
-		{
-			"title":"HTML5 Video",
-			"location":"jsproject11/project11.html",
-			"image":"images/jsproject11.png"
-		},
+		
 		{
 			"title":"KONAMI Code",
 			"location":"jsproject12/project12.html",
@@ -95,16 +122,7 @@
 			"location":"jsproject18/project18.html",
 			"image":"images/jsproject18.png"
 		},
-		{
-			"title":"HTML5 Canvas(chrome)",
-			"location":"jsproject19/index.html",
-			"image":"images/jsproject19.png"
-		},
-		{
-			"title":"Speech Recognition(chrome)",
-			"location":"jsproject20/index.html",
-			"image":"images/jsproject20.png"
-		},
+		
 		{
 			"title":"Geolocation Speedometer and compas(chrome/ not completed)",
 			"location":"jsproject21/project21.html",
@@ -115,11 +133,7 @@
 			"location":"jsproject22/project22.html",
 			"image":"images/jsproject22.png"
 		},
-		{
-			"title":"Text-To-Speech(chrome)",
-			"location":"jsproject23/project23.html",
-			"image":"images/jsproject23.png"
-		},
+		
 		{
 			"title":"Sticky Nav",
 			"location":"jsproject024/project24.html",
@@ -145,16 +159,7 @@
 			"location":"jsproject28/project28.html",
 			"image":"images/jsproject28.png"
 		},
-		{
-			"title":"Countdown Timer",
-			"location":"jsproject29/project29.html",
-			"image":"images/jsproject29.png"
-		},
-		{
-			"title":"Whack A Mole Game",
-			"location":"jsproject30/project30.html",
-			"image":"images/jsproject30.png"
-		},
+		
 		{
 			"title":"Clock",
 			"location":"clocks/clock.html",
