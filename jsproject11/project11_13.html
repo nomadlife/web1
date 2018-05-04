@@ -2,18 +2,18 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>11_12</title>
-	<link rel="stylesheet" href="style12.css">
+	<title>11_13</title>
+	<link rel="stylesheet" href="style13.css">
 </head>
 <body>
-<h1>Audio Player with subs</h1>
-	<h2> srt -> vtt auto conversion, file read, blob</h2>
+<h1>Video Player </h1>
+	<h2> with displaying subs</h2>
 	<div id="message"></div>
 	
 
 	<div class="loader">
-	<label> MP3 File   :</label>
-	<input type="file" target="video" accept="audio/*"/>
+	<label> Video(mp4) File   :</label>
+	<input type="file" target="video" accept="video/*"/>
 	
 	<label> Subtitle File #1:</label>
 	<input type="file" target="#track1" accept=".vtt,.srt"/>
@@ -21,14 +21,22 @@
 	<label> Subtitle File #2:</label>
 	<input type="file" target="#track2" accept=".vtt,.srt"/>
 	</div>
+	
+	<div class="viewer">
+	<div>
 	<video controls autoplay>
 	<!-- <source src="" type="audio/mpeg"> -->
 	<track id="track2" label="Subtitle2" kind="subtitles" srclang="en"  default>
 	<track id="track1" label="Subtitle1" kind="subtitles" srclang="en"  default>
 	</video>
+	</div>
+	<div class="contents-box">
+	<pre class="contents"></pre>
+	</div>
+	</div>
 	<button id="show-all">Show all</button>
 	
 	
-	<script src="script12.js"></script>
+	<script src="script13.js"></script>
 </body>
 </html>

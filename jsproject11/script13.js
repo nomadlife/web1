@@ -49,7 +49,8 @@
 		var fileURL = URL.createObjectURL(vttBlob)
 		var targetNode = document.querySelector(`${target}`)
 		targetNode.src = fileURL
-		console.log("1:",targetNode.src) 
+		document.querySelector('.contents').textContent = this.result;
+		console.log("1:") 
 	};
 	
 	if(file.name.split('.').pop() =='srt'){
@@ -58,7 +59,8 @@
 		var fileURL = URL.createObjectURL(file)
 		var targetNode = document.querySelector(`${target}`)
 		targetNode.src = fileURL
-		console.log("2:",targetNode.src)
+		
+		console.log("2:")
 	}
 	
 	if (target.includes('track')){

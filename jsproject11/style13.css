@@ -1,0 +1,63 @@
+body {
+	background:gray;
+}
+
+video, input {
+    display: block;
+}
+
+
+input {
+    width: 100%;       
+}
+
+.loader {
+	display : grid;
+	grid-template-columns: minmax(100px,auto) auto;
+}
+.viewer {
+	display : grid;
+	grid-template-columns: minmax(300px,700px) minmax(150px,400px);
+}
+
+.contents-box{
+	border: 1px solid #aaa;
+	overflow: auto; 
+	object-fit: initial;
+	max-height : inherit;
+}
+.contents {
+
+}
+
+video {
+	width : 100%;
+	max-width : 700px;
+	border: 1px solid #aaa;
+    object-fit: initial;
+}
+
+::cue {
+   font-size: 20px;
+}
+::cue(.de) {
+   color: #000;
+   background-color: #ffcc00;
+}
+::cue(.en) {
+   color: #fff;
+   background-color: #00247d;
+}
+
+track {
+	width : 700px;
+}
+
+.info {
+    background-color: aqua;            
+}
+
+.error {
+    background-color: red;
+    color: white;
+}
