@@ -7,7 +7,7 @@ fetch('projectlist.json')
 	   var output = '';
 		for(var i=0;i<project.length;i++){
 			output += 
-			'<div class="container"><div class="thumbnail"><a href="' + project[i].location + '"><img src="' + project[i].image + '" class="img-responsive"><div class="caption"><h2>'+ project[i].title +'</h2></div></a></div></div>';
+			'<div class="thumbnail"><a href="' + project[i].location + '"><img src="' + project[i].image + '"><div class="caption"><h2>'+ project[i].title +'</h2></div></a></div>';
 			}
 		document.getElementById('projects').innerHTML = output;
 	});
