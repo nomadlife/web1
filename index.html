@@ -2,59 +2,33 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>Index(by grid)</title>
+    <title>Index(on grid)</title>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Satisfy" type="text/css">
     <link rel="stylesheet" type="text/css" href="style_grid.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
-	<script src="script_grid.js"></script>
+	
   </head>
   <body>
-    <!-- <div class="albums-container container-fluid"> -->
-      <!-- <div class="row"> -->
-		<!-- <div class="col-sm-12"></div> -->
+    
+		<div class="header">
+			<h1>Exercise List</h1>	
 		
-		<h3>Exercise List</h3>	
-		
+			<div class="controls">
+			<label for="gridsize">grid-size:</label>
+			<input type="range" name="gridsize" min="100" max="400" value="200" data-sizing="px">
+			
+			<label for="opacity">opacity:</label>
+			<input type="range" name="opacity" min="0" max="1" value="0.5" data-sizing="" step="0.1">
+			
+			
+			</div>
+	  
+		 </div>
+		 
 		<div id="projects" class="container"></div>
 		
-		<!-- <div class="container"> -->
-			<!-- <div class="thumbnail"> -->
-			<!-- <img src="images/stopwatch.png"> -->
-			<!-- <div class="caption"> -->
-			<!-- <h2>Stopwatch</h2> -->
-			<!-- </div> -->
-			<!-- </div> -->
-			
-			<!-- <div class="thumbnail"> -->
-			<!-- <img src="images/stopwatch.png"> -->
-			<!-- <div class="caption"> -->
-			<!-- <h2>Stopwatch</h2> -->
-			<!-- </div> -->
-			<!-- </div> -->
-			
-			<!-- <div class="thumbnail"> -->
-			<!-- <img src="images/stopwatch.png"> -->
-			<!-- <div class="caption"> -->
-			<!-- <h2>Stopwatch</h2> -->
-			<!-- </div> -->
-			<!-- </div> -->
-			
-			<!-- <div class="thumbnail"> -->
-			<!-- <img src="images/stopwatch.png"> -->
-			<!-- <div class="caption"> -->
-			<!-- <h2>Stopwatch</h2> -->
-			<!-- </div> -->
-			<!-- </div> -->
-			
-			<!-- <div class="thumbnail"> -->
-			<!-- <img src="images/stopwatch.png"> -->
-			<!-- <div class="caption"> -->
-			<!-- <h2>Stopwatch</h2> -->
-			<!-- </div> -->
-			<!-- </div> -->
-		<!-- </div> -->
-      <!-- </div> -->
-  <!-- </div> -->
+		
   
   </body>
+  <script src="script_grid.js"></script>
 </html>

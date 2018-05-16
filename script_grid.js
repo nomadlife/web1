@@ -1,3 +1,14 @@
+
+const inputs = document.querySelectorAll('.controls input');
+console.log(inputs,"test1:inputs");
+
+function handleUpdate() {
+  const suffix = this.dataset.sizing || '';
+  console.log(this.value, suffix,"test2:suffix");
+  document.documentElement.style.setProperty(`--${this.name}`,this.value + suffix);
+  console.log(this.name);
+}
+
 fetch('projectlist.json')
 	.then(function(response) {
 	return response.json();
@@ -11,3 +22,6 @@ fetch('projectlist.json')
 			}
 		document.getElementById('projects').innerHTML = output;
 	});
+
+inputs.forEach(input => input.addEventListener('change',handleUpdate))
+inputs.forEach(input => input.addEventListener('mousemove',handleUpdate))

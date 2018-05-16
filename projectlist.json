@@ -1,6 +1,16 @@
 {
 	"projects":[
 		{
+			"title":"word study",
+			"location":"wordstudy/index.html",
+			"image":""
+		},
+		{
+			"title":"HTML5 Video",
+			"location":"jsproject11/project11.html",
+			"image":"images/jsproject11.png"
+		},
+		{
 			"title":"Stopwatch",
 			"location":"stopwatch/stopwatch.html",
 			"image":"images/stopwatch.png"
@@ -16,11 +26,7 @@
 			"location":"jsproject29/project29.html",
 			"image":"images/jsproject29.png"
 		},
-		{
-			"title":"HTML5 Video",
-			"location":"jsproject11/project11.html",
-			"image":"images/jsproject11.png"
-		},
+		
 		{
 			"title":"Whack A Mole Game",
 			"location":"jsproject30/project30.html",

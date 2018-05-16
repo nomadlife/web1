@@ -1,5 +1,29 @@
+:root {
+  --gridsize : 200px;
+  --opacity : 0.5;
+}
+
 body{
   background: url('images/background.jpg');
+}
+
+.header{
+	display : grid;
+	grid-template-columns:minmax(300px,1fr) minmax(200px, 3fr);
+	/* width:300px; */
+	place-items:center start;
+}
+
+.controls {
+	width : 90%;
+	display : grid;
+	grid-template-columns : repeat(auto-fit, minmax(200px,1fr));
+	/* grid-auto-flow: dense; */
+}
+
+.inputs{
+	display : grid;
+	
 }
 
 .navbar{
@@ -22,14 +46,14 @@ body{
   /* grid-template-columns: repeat(auto-fit, minmax(auto,1fr)); */
   /* grid-gap: 10px; */
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(var(--gridsize), 1fr));
   grid-auto-rows: minmax(300px, 1fr);
   grid-gap: 20px;
 }
 
 .thumbnail {
   /* background: white; */
-  background: rgba(255, 255, 255, 0.5);
+  background: rgba(255, 255, 255, var(--opacity));
   box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
   padding: 20px;
   display: grid;
