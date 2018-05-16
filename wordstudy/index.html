@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Word Study</title>
+	<link rel="stylesheet" href="../style_grid.css">
+</head>
+<body>
+<h1>word list</h1>
+	<div id="list-box"></div>
+</body>
+<script>
+	fetch('wordlist.json')
+	.then(function(response) {
+	return response.json();
+	})
+	.then(function(myJson) {
+	var project = myJson.words;
+	   var output = '';
+		for(var i=0;i<project.length;i++){
+			output += 
+			'<p>'+ project[i].word +' : '+project[i].meaning+'</p>';
+			}
+		document.getElementById('list-box').innerHTML = output;
+	});
+
+</script>
+</html>
