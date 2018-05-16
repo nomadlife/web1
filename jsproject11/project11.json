@@ -1,0 +1,71 @@
+{
+	"project11":[
+		{
+			"title":"project11",
+			"location":"project11_1.html",
+			"image":"../images/jsproject11.png"
+		},
+		{
+			"title":"Open local video",
+			"location":"project11_2.html",
+			"image":"images/project11_2.png"
+		},
+		{
+			"title":"HTML5 Video tag",
+			"location":"project11_3.html",
+			"image":"images/project11_3.png"
+		},
+		{
+			"title":"Open local audio (audio tag)",
+			"location":"project11_4.html",
+			"image":"images/project11_4.png"
+		},
+		{
+			"title":"Audio with subtitle (video tag)",
+			"location":"project11_5.html",
+			"image":"images/project11_5.png"
+		},
+		{
+			"title":"Video with 2 subtitle simultaneously",
+			"location":"project11_6.html",
+			"image":"images/project11_6.png"
+		},
+		{
+			"title":"audio with 2 subtitle simultaneously (on video tag)",
+			"location":"project11_7.html",
+			"image":"images/project11_7.png"
+		},
+		{
+			"title":"Open local subs file(vtt file)",
+			"location":"project11_8.html",
+			"image":"images/project11_8.png"
+		},{
+			"title":"Open two subs files, simultaneously ",
+			"location":"project11_9.html",
+			"image":"images/project11_9.png"
+		},
+		{
+			"title":"script rewrite ",
+			"location":"project11_10.html",
+			"image":"images/project11_10.png"
+		},
+		{
+			"title":"css grid test",
+			"location":"project11_11.html",
+			"image":"images/project11_11.png"
+		},
+		{
+			"title":"Open srt file, convert to vtt, file read, blob",
+			"location":"project11_12.html",
+			"image":"images/project11_12.png"
+		},
+		{
+			"title":"Video with 2 subs(srt) ",
+			"location":"project11_13.html",
+			"image":"images/project11_13.png"
+		}
+		
+		
+	
+	]
+}

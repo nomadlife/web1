@@ -2,18 +2,14 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>11_2 HTML Video Player</title>
-  <link rel="stylesheet" href="style2.css">
+  <title>HTML Video Player</title>
+  <link rel="stylesheet" href="style.css">
 </head>
-
 <body>
-	<h2>Open local video file</h2><br>
+
    <div class="player">
-   <input type="file" accept="video/*" />
-     <video class="player__video viewer"  autoplay ></video>
-	 
-	<!-- <track label="English" kind="subtitles" srclang="en" src="caption_test.srt" default> -->
-	
+     <video class="player__video viewer" src="https://player.vimeo.com/external/194837908.sd.mp4?s=c350076905b78c67f74d7ee39fdb4fef01d12420&profile_id=164"></video>
+
      <div class="player__controls">
        <div class="progress">
         <div class="progress__filled"></div>
@@ -25,10 +21,7 @@
        <button data-skip="25" class="player__button">25s »</button>
      </div>
    </div>
-   <!-- <div> -->
-   <!-- <input type="file" accept="audio/*" /> -->
-	<!-- <audio></audio> -->
-	<!-- </div> -->
-  <script src="script2.js"></script>
+
+  <script src="scripts.js"></script>
 </body>
 </html>
