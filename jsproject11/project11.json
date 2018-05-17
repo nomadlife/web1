@@ -1,71 +1,69 @@
 {
 	"project11":[
 		{
-			"title":"project11",
+			"title":"Original",
 			"location":"project11_1.html",
 			"image":"../images/jsproject11.png"
 		},
 		{
-			"title":"Open local video",
+			"title":"2.Local Video",
 			"location":"project11_2.html",
 			"image":"images/project11_2.png"
 		},
 		{
-			"title":"HTML5 Video tag",
+			"title":"3.HTML5 Video tag",
 			"location":"project11_3.html",
 			"image":"images/project11_3.png"
 		},
 		{
-			"title":"Open local audio (audio tag)",
+			"title":"4.Local Audio (audio tag)",
 			"location":"project11_4.html",
 			"image":"images/project11_4.png"
 		},
 		{
-			"title":"Audio with subtitle (video tag)",
+			"title":"5.Audio with subtitle (video tag)",
 			"location":"project11_5.html",
 			"image":"images/project11_5.png"
 		},
 		{
-			"title":"Video with 2 subtitle simultaneously",
+			"title":"6.Video with 2 subtitle",
 			"location":"project11_6.html",
 			"image":"images/project11_6.png"
 		},
 		{
-			"title":"audio with 2 subtitle simultaneously (on video tag)",
+			"title":"7.Audio with 2 subtitle (on video tag)",
 			"location":"project11_7.html",
 			"image":"images/project11_7.png"
 		},
 		{
-			"title":"Open local subs file(vtt file)",
+			"title":"8.Local subtitle (vtt file)",
 			"location":"project11_8.html",
 			"image":"images/project11_8.png"
 		},{
-			"title":"Open two subs files, simultaneously ",
+			"title":"9.Two subtitle with audio (vtt file) ",
 			"location":"project11_9.html",
 			"image":"images/project11_9.png"
 		},
 		{
-			"title":"script rewrite ",
+			"title":"10.script rearrange ",
 			"location":"project11_10.html",
 			"image":"images/project11_10.png"
 		},
 		{
-			"title":"css grid test",
+			"title":"11.CSS Grid",
 			"location":"project11_11.html",
 			"image":"images/project11_11.png"
 		},
 		{
-			"title":"Open srt file, convert to vtt, file read, blob",
+			"title":"12.Srt file, file read, blob",
 			"location":"project11_12.html",
 			"image":"images/project11_12.png"
 		},
 		{
-			"title":"Video with 2 subs(srt) ",
+			"title":"13.Video with 2 subtitle(srt) --HOLD",
 			"location":"project11_13.html",
 			"image":"images/project11_13.png"
 		}
 		
-		
-	
 	]
 }

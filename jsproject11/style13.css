@@ -8,26 +8,21 @@ video, input {
 
 
 input {
-    width: 100%;       
+    width: 200px;       
 }
 
 .loader {
 	display : grid;
-	grid-template-columns: minmax(100px,auto) auto;
+	grid-template-columns: 150px 200px;
 }
 .viewer {
 	display : grid;
-	grid-template-columns: minmax(300px,700px) minmax(150px,400px);
-}
-
-.contents-box{
-	border: 1px solid #aaa;
-	overflow: auto; 
-	object-fit: initial;
-	max-height : inherit;
-}
-.contents {
-
+	width:100%;
+	/* max-width:1000px; */
+	grid-template-columns: repeat(auto-fit,minmax(400px,1fr));
+	/* grid-template-columns: minmax(300px,700px) minmax(150px,400px); */
+	/* grid-auto-flow : column; */
+	grid-column-gap : 20px;
 }
 
 video {
@@ -36,6 +31,18 @@ video {
 	border: 1px solid #aaa;
     object-fit: initial;
 }
+.contents-box{
+	border: 1px solid #aaa;
+	overflow: auto; 
+	/* object-fit: initial; */
+	min-height : 200px;
+	/* max-height : inherit; */
+	max-width : 400px;
+}
+.contents {
+
+}
+
 
 ::cue {
    font-size: 20px;
