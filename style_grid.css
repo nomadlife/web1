@@ -9,7 +9,9 @@ body{
 
 .header{
 	display : grid;
-	grid-template-columns:minmax(300px,1fr) minmax(200px, 3fr);
+	grid-template-columns:repeat(auto-fit, minmax(200px,1fr));
+	/* grid-template-columns:minmax(200px,1fr) minmax(300px, 3fr); */
+	/* grid-auto-flow : column; */
 	/* width:300px; */
 	place-items:center start;
 }
