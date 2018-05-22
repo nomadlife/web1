@@ -1,7 +1,7 @@
 	'use strict'
   var URL = window.URL || window.webkitURL
   
-
+  
   function srt2vtt(srt) {
 		var vtt = ''
 	 	srt = srt.replace(/\r+/g, '');
@@ -19,8 +19,7 @@
 	    return vtt
 	}
 	
-	
-  function openFile_samplecode(){
+  function openFile_code(){
 	  var reader = new FileReader();
 			reader.onload = function(progressEvent){
 				// Entire file
@@ -35,19 +34,23 @@
 			reader.readAsText(file);
   }
 
-  
   function attachFile() {
 	var target = this.getAttribute('target')
     var file = this.files[0]
-	console.log(file)
 	var reader = new FileReader();
 	reader.onload = function(progressEvent){
+		// Entire file
+		// console.log("this;",this)
 		var contents = this.result
 		var string = srt2vtt(contents)
-		var vttBlob = new Blob([string], {type: 'text/plain'});
+		var vttBlob = new Blob([string], {
+						type: 'text/plain'
+						});
 		var fileURL = URL.createObjectURL(vttBlob)
 		var targetNode = document.querySelector(`${target}`)
 		targetNode.src = fileURL
+		document.querySelector('.contents').textContent = this.result;
+		console.log("1:") 
 	};
 	
 	if(file.name.split('.').pop() =='srt'){
@@ -56,40 +59,8 @@
 		var fileURL = URL.createObjectURL(file)
 		var targetNode = document.querySelector(`${target}`)
 		targetNode.src = fileURL
-	}
-	
-	if (target.includes('track')){
-		showAll()
-		}
-  }
-  
-  
-  // test 
-  function attachFileUrl(target){
-	console.log('target',target)
-	var xhr = new XMLHttpRequest();
-	xhr.onload = function(){
-		console.log('test')
-		var string = srt2vtt(xhr.responseText)
-		var vttBlob = new Blob([string], {type: 'text/plain'});
-		var fileURL = URL.createObjectURL(vttBlob)
-		var targetNode = document.querySelector(`${target}`)
-		targetNode.src = fileURL
-	}
-	xhr.open("GET","http://localhost:8000/e17.srt");
-	
-	xhr.send();
-	
-	// console.log('file',file)
-	var reader = new FileReader();
-
-	
-	if(file.name.split('.').pop() =='srt'){
-		reader.readAsText(file)
-	} else {
-		var fileURL = URL.createObjectURL(file)
-		var targetNode = document.querySelector(`${target}`)
-		targetNode.src = fileURL
+		
+		console.log("2:")
 	}
 	
 	if (target.includes('track')){
@@ -97,45 +68,17 @@
 		}
   }
 
-  
   function showAll(){
    for (var i = 0; i < videoNode.textTracks.length; i++) {
       videoNode.textTracks[i].mode = 'showing';
    }
   }
   
-  function download2_sample(){
-	  var textToSave = 'this is a test';
-	var hiddenElement = document.createElement('a');
-	hiddenElement.href = 'data:attachment/text,' + encodeURI(textToSave);
-	hiddenElement.target = '_blank';
-	hiddenElement.download = 'myFile.txt';
-	hiddenElement.click();
-	console.log()
-	  
-  }
-  function download(dataurl, filename) {
-	  var a = document.createElement("a");
-	  a.href = dataurl;
-	  a.setAttribute("download", filename);
-	  var b = document.createEvent("MouseEvents");
-	  b.initEvent("click", false, true);
-	  a.dispatchEvent(b);
-	  return false;
-  }
-  
-  
   var videoNode = document.querySelector('video')
   var inputNode = document.querySelectorAll('[target]')
   var showAllButton = document.querySelector('#show-all')
-
-  //download("data:text/html,HelloWorld!", "test.txt");
-  //download("http://localhost:8000/e17.srt", "download.srt");
   
-  // attachFileUrl("http://localhost:8000/e17.srt", "#track1");
-  //attachFileUrl('#track1')
   inputNode.forEach(inputNode=>inputNode.addEventListener('change', attachFile, false))
   showAllButton.addEventListener('click', showAll);
   
- 
-
+  

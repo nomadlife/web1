@@ -60,9 +60,19 @@
 			"image":"images/project11_12.png"
 		},
 		{
-			"title":"13.Video with 2 subtitle(srt) --HOLD",
+			"title":"4_2.Audio (url test)",
+			"location":"project11_4_2.html",
+			"image":"images/project4_2.png"
+		},
+		{
+			"title":"13.Subtitle from URL --HOLD",
 			"location":"project11_13.html",
 			"image":"images/project11_13.png"
+		},
+		{
+			"title":"14.Video with script display --HOLD",
+			"location":"project11_14.html",
+			"image":"images/project11_14.png"
 		}
 		
 	]

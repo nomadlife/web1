@@ -2,37 +2,41 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>11_13</title>
-	<link rel="stylesheet" href="style13.css">
+	<title>11_14</title>
+	<link rel="stylesheet" href="style14.css">
 </head>
 <body>
-<h1>Subtitle from URL</h1>
+<h1>Video with script display </h1>
 	<h2> .. </h2>
 	<div id="message"></div>
 	
 
 	<div class="loader">
 	<label> Video(mp4) File   :</label>
-	<input type="file" target="video" accept="*/*"/>
+	<input type="file" target="video" accept="audio/*"/>
 	
 	<label> Subtitle File #1:</label>
-	<input type="file" target="#track1" accept=".vtt,.srt" />
-
+	<input type="file" target="#track1" accept=".vtt,.srt"/>
+	
 	<label> Subtitle File #2:</label>
 	<input type="file" target="#track2" accept=".vtt,.srt"/>
 	</div>
 	
-
-	<video controls autoplay>
-	<source src="http://localhost:8000/e17.mp3">
-	<!-- <source src="https://drive.google.com/uc?export=download&id=1rD1iJWsHowLU1RAC0b79E4Arov-OMcy6" type="audio/mpeg"> -->
+	<div class="viewer">
+	<div>
+	<video  controls autoplay>
+	<source src="https://drive.google.com/file/d/1rD1iJWsHowLU1RAC0b79E4Arov-OMcy6/view?usp=sharing" type="audio/mpeg">
 	<track id="track2" label="Subtitle2" kind="subtitles" srclang="en"  default>
 	<track id="track1" label="Subtitle1" kind="subtitles" srclang="en"  default>
 	</video>
-
+	</div>
+	<div class="contents-box">
+	<pre class="contents"></pre>
+	</div>
+	</div>
 	<button id="show-all">Show all</button>
 	
 	
-	<script src="script13.js"></script>
+	<script src="script14.js"></script>
 </body>
 </html>
