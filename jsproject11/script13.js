@@ -35,7 +35,7 @@
 			reader.readAsText(file);
   }
 
-  
+  // 
   function attachFile() {
 	var target = this.getAttribute('target')
     var file = this.files[0]
@@ -98,6 +98,42 @@
   }
 
   
+  // test 2
+  function attachFileUrl2(target){
+	console.log('test2')
+	// var fileDisplayArea = document.getElementById('fileDisplayArea');
+	function readTextFile(file)
+	{
+		var rawFile = new XMLHttpRequest();
+		rawFile.open("GET", file, false);
+		rawFile.onreadystatechange = function ()
+		{
+			if(rawFile.readyState === 4)
+			{
+				if(rawFile.status === 200 || rawFile.status == 0)
+				{
+					var allText = rawFile.responseText;
+					console.log('allText',allText) 
+				}
+			}
+		}
+		rawFile.send(null);
+	}
+
+	readTextFile("http://localhost:8000/e17.srt");
+  }
+  
+  
+  function test3(){
+   var f = new FileReader();
+
+   f.onloadend = function(){
+       console.log("test3");
+   }
+   f.readAsText("subtitles/e17.srt");
+}
+
+  
   function showAll(){
    for (var i = 0; i < videoNode.textTracks.length; i++) {
       videoNode.textTracks[i].mode = 'showing';
@@ -134,6 +170,8 @@
   
   // attachFileUrl("http://localhost:8000/e17.srt", "#track1");
   //attachFileUrl('#track1')
+  //attachFileUrl2() // test 2
+  test3()
   inputNode.forEach(inputNode=>inputNode.addEventListener('change', attachFile, false))
   showAllButton.addEventListener('click', showAll);
   
