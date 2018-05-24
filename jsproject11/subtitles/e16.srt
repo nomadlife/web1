@@ -1,0 +1,2920 @@
+﻿1
+00:00:00,090 --> 00:00:02,440
+Previously on "Marvel's Agents of S.H.I.E.L.D."...
+
+2
+00:00:02,440 --> 00:00:04,420
+We have to live with the choices we make.
+
+3
+00:00:04,420 --> 00:00:05,890
+And how I have to make mine.
+
+4
+00:00:11,240 --> 00:00:12,960
+Yo-Yo saw herself in the Lighthouse,
+
+5
+00:00:12,970 --> 00:00:14,980
+so she thinks she can't be killed.
+
+6
+00:00:15,090 --> 00:00:16,360
+You're our grandson.
+
+7
+00:00:16,360 --> 00:00:18,190
+His very existence proves that
+
+8
+00:00:18,190 --> 00:00:19,930
+you and I make it to the Lighthouse.
+
+9
+00:00:19,930 --> 00:00:21,260
+Do you see what this means?
+
+10
+00:00:21,270 --> 00:00:23,290
+It means you and I are invincible.
+
+11
+00:00:23,290 --> 00:00:24,660
+You cut into me.
+
+12
+00:00:24,660 --> 00:00:26,500
+You are not leaving this room.
+
+13
+00:00:26,620 --> 00:00:28,510
+I come with you, my people get away unharmed.
+
+14
+00:00:28,520 --> 00:00:29,390
+I can agree to that.
+
+15
+00:00:29,390 --> 00:00:30,580
+You want to bring Robin out of hiding
+
+16
+00:00:30,580 --> 00:00:31,560
+and risk her getting hurt?
+
+17
+00:00:31,560 --> 00:00:33,760
+Our leader is missing. We have to get him back.
+
+18
+00:00:33,830 --> 00:00:35,700
+Well, we know that Hale went after Gravitonium,
+
+19
+00:00:35,710 --> 00:00:37,610
+so I think she's trying to build a weapon.
+
+20
+00:00:37,610 --> 00:00:39,230
+It's a particle-infusion chamber.
+
+21
+00:00:39,640 --> 00:00:41,930
+If the idea is to put your ninja daughter into that,
+
+22
+00:00:41,930 --> 00:00:43,570
+this is gonna be a long conversation.
+
+23
+00:00:43,570 --> 00:00:44,540
+She's not ready.
+
+24
+00:00:45,160 --> 00:00:47,820
+I'm wondering if your Daisy Johnson is a better fit.
+
+25
+00:00:47,830 --> 00:00:50,560
+She would be worthy of Whitehall's code name for the project --
+
+26
+00:00:50,560 --> 00:00:52,220
+Destroyer of Worlds.
+
+27
+00:00:52,300 --> 00:00:53,250
+No. No, stop.
+
+28
+00:00:53,250 --> 00:00:54,840
+You're making a huge mistake!
+
+29
+00:00:54,840 --> 00:00:55,710
+No!
+
+30
+00:01:06,570 --> 00:01:07,520
+General Hale.
+
+31
+00:01:10,140 --> 00:01:12,360
+I know you're bummed the whole team-up thing
+
+32
+00:01:12,470 --> 00:01:13,730
+isn't gonna happen.
+
+33
+00:01:16,020 --> 00:01:18,400
+But it still seems kind of petty,
+
+34
+00:01:19,070 --> 00:01:20,440
+taking away my cot...
+
+35
+00:01:21,580 --> 00:01:22,520
+my chair...
+
+36
+00:01:24,250 --> 00:01:25,530
+and my Cap'n Crunch.
+
+37
+00:01:26,450 --> 00:01:27,890
+That last one really hurt.
+
+38
+00:01:30,480 --> 00:01:34,460
+And you're gonna destroy the Earth, so...
+
+39
+00:01:35,930 --> 00:01:37,460
+I told you we'd get Coulson.
+
+40
+00:01:38,510 --> 00:01:39,680
+And he'll pay for General Talbot
+
+41
+00:01:39,680 --> 00:01:41,480
+after he's turned over his Inhumans.
+
+42
+00:01:42,120 --> 00:01:43,090
+But for now...
+
+43
+00:01:45,220 --> 00:01:46,510
+I know you enjoy it,
+
+44
+00:01:47,240 --> 00:01:48,810
+the feel of a new material.
+
+45
+00:01:50,490 --> 00:01:52,150
+I've been looking forward to this one.
+
+46
+00:01:53,390 --> 00:01:55,250
+The question is, what do you want me to do with it?
+
+47
+00:01:55,780 --> 00:01:58,240
+Whitehall, Strucker, even Talbot --
+
+48
+00:01:58,240 --> 00:01:59,690
+they all wanted your compliance.
+
+49
+00:02:00,060 --> 00:02:01,680
+I'm offering transformation.
+
+50
+00:02:02,540 --> 00:02:03,520
+Into what?
+
+51
+00:02:04,190 --> 00:02:05,140
+A hero.
+
+52
+00:02:09,580 --> 00:02:10,820
+Show us what you can do.
+
+53
+00:02:14,240 --> 00:02:15,550
+Why hand him this?
+
+54
+00:02:16,420 --> 00:02:18,750
+Talbot already gave up the location of the chamber.
+
+55
+00:02:18,780 --> 00:02:20,130
+Yes, ‭and we're waiting for Strucker
+
+56
+00:02:20,130 --> 00:02:21,790
+to show us how to put it together.
+
+57
+00:02:22,300 --> 00:02:23,580
+His father never made it easy
+
+58
+00:02:23,580 --> 00:02:25,060
+for someone to steal his work.
+
+59
+00:02:25,060 --> 00:02:27,100
+- But Creel -- ‭- Creel will give us answers.
+
+60
+00:02:27,150 --> 00:02:29,520
+No one understood Gravitonium except for Ian Quinn,
+
+61
+00:02:29,520 --> 00:02:30,960
+and he's been in hiding for years.
+
+62
+00:02:30,960 --> 00:02:32,630
+But if Creel touches it --
+
+63
+00:02:32,630 --> 00:02:35,050
+Yes, he'll help us understand what we're dealing with here.
+
+64
+00:02:36,090 --> 00:02:37,460
+Before you give it to me.
+
+65
+00:02:40,040 --> 00:02:41,560
+I don't want to infuse your cells
+
+66
+00:02:41,570 --> 00:02:42,780
+with something we know nothing about.
+
+67
+00:02:42,780 --> 00:02:44,550
+So then why not talk to Coulson about it?
+
+68
+00:02:44,950 --> 00:02:46,450
+He has experience with it.
+
+69
+00:02:46,520 --> 00:02:48,280
+And I think after two days in isolation,
+
+70
+00:02:48,280 --> 00:02:49,150
+maybe an olive branch --
+
+71
+00:02:49,150 --> 00:02:50,650
+We've done the olive branch.
+
+72
+00:02:51,220 --> 00:02:52,780
+We stick the screws to him now.
+
+73
+00:02:53,150 --> 00:02:54,870
+A week without sleep and food,
+
+74
+00:02:55,460 --> 00:02:56,950
+we'll see what he has to say.
+
+75
+00:03:00,260 --> 00:03:01,200
+Let's begin.
+
+76
+00:03:30,470 --> 00:03:31,420
+Hey! Get me out!
+
+77
+00:03:36,580 --> 00:03:37,780
+Get me out of here!
+
+78
+00:03:37,920 --> 00:03:38,800
+Stop!
+
+79
+00:03:47,640 --> 00:03:48,590
+What happened?
+
+80
+00:03:49,870 --> 00:03:50,950
+What did you feel?
+
+81
+00:03:52,430 --> 00:03:53,370
+It's alive.
+
+82
+00:04:15,020 --> 00:04:16,100
+Wow. Hey, Simmons was right.
+
+83
+00:04:16,690 --> 00:04:18,480
+She said you might ‭become stronger than before,
+
+84
+00:04:18,480 --> 00:04:19,830
+but you're murdering that heavy bag.
+
+85
+00:04:19,830 --> 00:04:20,710
+Yeah.
+
+86
+00:04:22,660 --> 00:04:24,890
+Feels good to not be laying on a bed for once.
+
+87
+00:04:28,010 --> 00:04:28,900
+Yeah, well, maybe -- ‭Unh!
+
+88
+00:04:29,870 --> 00:04:31,360
+Maybe don't push too hard, though.
+
+89
+00:04:31,370 --> 00:04:32,730
+We just put those things on you.
+
+90
+00:04:34,170 --> 00:04:35,090
+I'm fine.
+
+91
+00:04:36,300 --> 00:04:37,660
+I'm just getting used to them.
+
+92
+00:04:40,840 --> 00:04:43,250
+Look, I know you like to do things fast,
+
+93
+00:04:43,250 --> 00:04:45,480
+but you don't know your strength yet.
+
+94
+00:04:45,480 --> 00:04:48,050
+So maybe a little caution couldn't hurt for a change.
+
+95
+00:04:48,960 --> 00:04:50,550
+‭I know that speech by heart.
+
+96
+00:04:50,550 --> 00:04:52,830
+Well, you're the one talking about how you're indestructible
+
+97
+00:04:52,840 --> 00:04:54,170
+and saying you can't die.
+
+98
+00:04:54,170 --> 00:04:55,280
+How was I supposed to take that?
+
+99
+00:04:55,280 --> 00:04:56,690
+I guess it was just, uh...
+
+100
+00:04:57,150 --> 00:04:58,820
+the pain medication talking.
+
+101
+00:04:59,350 --> 00:05:00,260
+Yeah.
+
+102
+00:05:01,610 --> 00:05:03,230
+Well, ‭you can at least hydrate.
+
+103
+00:05:04,340 --> 00:05:05,800
+Okay, Pacquiao?
+
+104
+00:05:09,240 --> 00:05:11,830
+And later on, I can run a diagnostic on those arms.
+
+105
+00:05:12,620 --> 00:05:14,030
+What? ‭Don't look at me like that.
+
+106
+00:05:14,070 --> 00:05:16,380
+What, I'm not babying you. I'm a mechanic.
+
+107
+00:05:16,380 --> 00:05:18,270
+A well-oiled machine needs oil.
+
+108
+00:05:18,830 --> 00:05:20,350
+Okay, yeah.
+
+109
+00:05:35,910 --> 00:05:36,940
+I don't see it.
+
+110
+00:05:38,220 --> 00:05:39,920
+None of you looks like me.
+
+111
+00:05:40,750 --> 00:05:42,760
+Well, I don't know ‭what to tell you, Grandpappy.
+
+112
+00:05:43,720 --> 00:05:45,730
+I guess your daughter found a real man.
+
+113
+00:05:47,620 --> 00:05:48,640
+Of all people.
+
+114
+00:05:53,770 --> 00:05:54,880
+Why couldn't it be Flint?
+
+115
+00:05:55,540 --> 00:05:56,560
+I liked Flint.
+
+116
+00:05:57,080 --> 00:05:59,140
+Well, that's a lovely sentiment.
+
+117
+00:05:59,140 --> 00:06:01,350
+That's almost as loving as when you had a robot...
+
+118
+00:06:02,210 --> 00:06:03,500
+point a gun to my head.
+
+119
+00:06:04,650 --> 00:06:06,040
+I didn't want to hurt anybody.
+
+120
+00:06:07,180 --> 00:06:09,040
+It's fine. It's the first move you made
+
+121
+00:06:09,530 --> 00:06:11,570
+that actually made me respect you a little bit.
+
+122
+00:06:14,960 --> 00:06:16,040
+It's my kind of move.
+
+123
+00:06:17,040 --> 00:06:18,340
+And this place, 80 years from now,
+
+124
+00:06:18,340 --> 00:06:20,350
+I'd survived on moves like that.
+
+125
+00:06:20,630 --> 00:06:22,070
+'Cause it was kill or be killed.
+
+126
+00:06:22,820 --> 00:06:23,940
+I know Johnson's still mad at me
+
+127
+00:06:23,940 --> 00:06:26,790
+about the whole "selling her into slavery" thing,
+
+128
+00:06:26,790 --> 00:06:28,480
+but you got to play the long game,
+
+129
+00:06:28,480 --> 00:06:31,270
+or else the whole world is gonna be a vacancy, right?
+
+130
+00:06:32,970 --> 00:06:33,870
+Maybe.
+
+131
+00:06:34,900 --> 00:06:36,580
+And you say ‭you don't see the resemblance?
+
+132
+00:06:38,420 --> 00:06:40,530
+Okay. Well, quality time was fun, but I'm late.
+
+133
+00:06:40,530 --> 00:06:41,960
+I don't know if you noticed, but...
+
+134
+00:06:42,460 --> 00:06:43,490
+ever since she's been in charge,
+
+135
+00:06:43,490 --> 00:06:45,480
+Daisy's kind of a hard-ass.
+
+136
+00:06:48,480 --> 00:06:49,370
+I noticed.
+
+137
+00:06:52,940 --> 00:06:54,610
+Can I pick your brain for a minute?
+
+138
+00:06:55,110 --> 00:06:55,740
+That's a weird saying.
+
+139
+00:06:55,740 --> 00:06:57,960
+I was hoping you could tell me more about our future.
+
+140
+00:06:58,230 --> 00:06:59,400
+I mean, you saw it -- it sucked.
+
+141
+00:06:59,400 --> 00:07:00,860
+No, I mean Fitz and me.
+
+142
+00:07:00,950 --> 00:07:03,870
+Do you recall any evidence of major injury,
+
+143
+00:07:03,870 --> 00:07:05,590
+any noticeable scarring, perhaps?
+
+144
+00:07:05,590 --> 00:07:06,790
+I don't remember you guys at all.
+
+145
+00:07:06,790 --> 00:07:08,150
+I didn't even know your real names.
+
+146
+00:07:08,320 --> 00:07:09,340
+Everyone in S.H.I.E.L.D. changed them
+
+147
+00:07:09,340 --> 00:07:10,740
+when they were getting hunted down.
+
+148
+00:07:11,050 --> 00:07:12,880
+I just knew you as Nana and Bobo.
+
+149
+00:07:13,750 --> 00:07:15,420
+But you guys ‭made it to the Lighthouse.
+
+150
+00:07:16,060 --> 00:07:17,010
+Good to hear.
+
+151
+00:07:17,850 --> 00:07:19,110
+Mom talked about you a lot
+
+152
+00:07:19,110 --> 00:07:21,570
+but never mentioned any health stuff.
+
+153
+00:07:21,840 --> 00:07:23,250
+I'm pretty sure you were tiptop.
+
+154
+00:07:25,350 --> 00:07:26,530
+You remind me of her.
+
+155
+00:07:29,730 --> 00:07:31,660
+If you want, I could tell you stories about what you --
+
+156
+00:07:31,660 --> 00:07:34,320
+I think it's best not to know too much.
+
+157
+00:07:35,660 --> 00:07:38,520
+It's enough to know Fitz and I live long enough to create her.
+
+158
+00:07:39,540 --> 00:07:42,030
+Yeah, well, you certainly will,
+
+159
+00:07:42,030 --> 00:07:43,120
+as long as you guys...
+
+160
+00:07:44,870 --> 00:07:45,790
+you know...
+
+161
+00:07:46,380 --> 00:07:49,360
+But anyway, I-I don't know how much longer I'm gonna make it
+
+162
+00:07:49,360 --> 00:07:51,050
+if I don't get a move on, because...
+
+163
+00:07:51,980 --> 00:07:53,010
+I don't know if you noticed,
+
+164
+00:07:53,020 --> 00:07:55,710
+but ever since she's been in charge,
+
+165
+00:07:55,720 --> 00:07:59,130
+Daisy has really just become a hard-ass.
+
+166
+00:08:00,770 --> 00:08:01,760
+I noticed.
+
+167
+00:08:04,400 --> 00:08:05,170
+You sure about this?
+
+168
+00:08:05,170 --> 00:08:07,070
+I understand the risk of taking her out of hiding,
+
+169
+00:08:07,070 --> 00:08:08,780
+but Robin is our best shot at finding Coulson.
+
+170
+00:08:08,780 --> 00:08:09,940
+I have to talk to her.
+
+171
+00:08:10,430 --> 00:08:12,620
+And look, I -- I get that you're afraid to see her again,
+
+172
+00:08:12,620 --> 00:08:14,100
+but she's ‭the most powerful tool we have.
+
+173
+00:08:14,110 --> 00:08:15,340
+She's just a kid.
+
+174
+00:08:15,510 --> 00:08:17,690
+Sorry I'm -- I'm late.
+
+175
+00:08:17,690 --> 00:08:19,400
+I was just -- just getting all my gear together,
+
+176
+00:08:19,400 --> 00:08:21,830
+but I'm ready to go. Geared up. Mission-ready.
+
+177
+00:08:25,080 --> 00:08:27,110
+I'll just go ahead and get to the command center.
+
+178
+00:08:30,580 --> 00:08:32,000
+- Was he late? - ‭I have no idea.
+
+179
+00:08:32,990 --> 00:08:33,670
+What's up?
+
+180
+00:08:33,670 --> 00:08:35,440
+I was hoping to have another word with you about Fitz.
+
+181
+00:08:35,440 --> 00:08:37,160
+We can't have that ‭conversation again, Simmons.
+
+182
+00:08:37,160 --> 00:08:39,900
+Yes, well, Robin may have answers,
+
+183
+00:08:39,900 --> 00:08:41,050
+but she may not,
+
+184
+00:08:41,060 --> 00:08:43,470
+whereas Fitz has a concrete lead on a Hydra weapon.
+
+185
+00:08:43,470 --> 00:08:44,910
+We get to that first, we get to Hale.
+
+186
+00:08:44,910 --> 00:08:45,970
+That could lead to Coulson and --
+
+187
+00:08:45,970 --> 00:08:47,190
+Fitz is sick.
+
+188
+00:08:47,830 --> 00:08:49,220
+You should be worried about that.
+
+189
+00:08:50,170 --> 00:08:52,000
+Look, you can compile his intel,
+
+190
+00:08:52,000 --> 00:08:53,340
+and we will review it when we get back.
+
+191
+00:08:53,340 --> 00:08:54,820
+But right now, Zephyr One is leaving.
+
+192
+00:08:57,030 --> 00:08:59,940
+And, Simmons, ‭Mack is in charge when I'm gone,
+
+193
+00:08:59,950 --> 00:09:02,100
+and he's under strict orders Fitz stays locked up.
+
+194
+00:09:02,560 --> 00:09:03,520
+Understood?
+
+195
+00:09:04,740 --> 00:09:06,110
+I understand what you're saying.
+
+196
+00:09:07,280 --> 00:09:08,200
+Good.
+
+197
+00:09:12,770 --> 00:09:14,080
+You might want to dial it back.
+
+198
+00:09:14,080 --> 00:09:16,190
+- I think she's wrong. - You made that perfectly clear.
+
+199
+00:09:16,510 --> 00:09:17,540
+But you're leading us now,
+
+200
+00:09:17,540 --> 00:09:19,890
+and it's new to everyone, not just you.
+
+201
+00:09:19,890 --> 00:09:22,380
+I'm just leading us to Coulson. Then he can have his job back.
+
+202
+00:09:25,830 --> 00:09:28,700
+Daisy won't listen. I think it's time we try a new approach.
+
+203
+00:09:28,860 --> 00:09:31,050
+To what? Why'd you drag me here?
+
+204
+00:09:31,050 --> 00:09:33,070
+Because I've realized we have to think differently.
+
+205
+00:09:33,070 --> 00:09:35,100
+Fitz started to, and he's paying for it.
+
+206
+00:09:35,100 --> 00:09:36,540
+But you can't deny it worked.
+
+207
+00:09:37,270 --> 00:09:38,160
+And you.
+
+208
+00:09:38,970 --> 00:09:40,640
+Mack said you believe you can't die.
+
+209
+00:09:41,790 --> 00:09:42,820
+I know it sounds crazy, Jemma --
+
+210
+00:09:42,820 --> 00:09:44,080
+I don't think it's crazy.
+
+211
+00:09:44,500 --> 00:09:45,610
+I believe it's true.
+
+212
+00:09:47,500 --> 00:09:48,830
+I'm glad someone understands.
+
+213
+00:09:49,040 --> 00:09:50,280
+I don't just mean you.
+
+214
+00:09:52,950 --> 00:09:54,520
+You guys didn't see yourselves in the future.
+
+215
+00:09:54,520 --> 00:09:57,010
+No. Deke is our proof.
+
+216
+00:09:58,980 --> 00:09:59,950
+His mother...
+
+217
+00:10:01,050 --> 00:10:02,080
+was our daughter.
+
+218
+00:10:06,810 --> 00:10:08,360
+- Deke... - Is our grandson.
+
+219
+00:10:10,410 --> 00:10:11,360
+I'm sorry.
+
+220
+00:10:11,470 --> 00:10:13,630
+- Thank you. ‭- No, no, ‭it's really quite sweet.
+
+221
+00:10:13,990 --> 00:10:16,290
+Well, it makes as much sense as anything else.
+
+222
+00:10:17,430 --> 00:10:19,040
+So we're ‭the invincible three, huh?
+
+223
+00:10:21,800 --> 00:10:22,720
+Now what?
+
+224
+00:10:23,330 --> 00:10:26,040
+Daisy's taking a long shot to find where Hale is keeping Coulson,
+
+225
+00:10:26,040 --> 00:10:27,230
+but we have something concrete
+
+226
+00:10:27,230 --> 00:10:28,990
+that can get us one step ahead of her.
+
+227
+00:10:29,050 --> 00:10:29,930
+That sounds good.
+
+228
+00:10:29,930 --> 00:10:32,670
+Hale may be after ‭a weapon powered by Gravitonium,
+
+229
+00:10:32,670 --> 00:10:33,770
+probably in a location
+
+230
+00:10:33,770 --> 00:10:35,340
+that Malick turned over to S.H.I.E.L.D.
+
+231
+00:10:35,340 --> 00:10:37,600
+That sounds bad. I'm in.
+
+232
+00:10:38,160 --> 00:10:40,240
+So we go to these places and knock down doors?
+
+233
+00:10:41,820 --> 00:10:43,460
+I can knock down doors now.
+
+234
+00:10:44,790 --> 00:10:45,920
+I can't go anywhere.
+
+235
+00:10:46,840 --> 00:10:47,740
+Fitz...
+
+236
+00:10:48,660 --> 00:10:51,400
+I know you feel like you're battling something inside you,
+
+237
+00:10:51,400 --> 00:10:52,560
+but I trust you.
+
+238
+00:10:52,860 --> 00:10:54,030
+Do you trust me?
+
+239
+00:10:54,250 --> 00:10:55,160
+Yeah.
+
+240
+00:10:57,530 --> 00:10:58,410
+Why?
+
+241
+00:10:58,790 --> 00:11:00,280
+Because I'm going to get you out.
+
+242
+00:11:00,720 --> 00:11:02,480
+And we're going to go after this thing.
+
+243
+00:11:03,470 --> 00:11:04,980
+Wait, wait, wait, wait, wait. Wait.
+
+244
+00:11:05,340 --> 00:11:06,400
+We have a problem.
+
+245
+00:11:06,590 --> 00:11:09,510
+Mack -- he's the only one that can open Fitz's cell now.
+
+246
+00:11:10,040 --> 00:11:11,370
+He won't want to, Jemma.
+
+247
+00:11:11,850 --> 00:11:12,860
+He'll stop us.
+
+248
+00:11:13,710 --> 00:11:14,570
+No.
+
+249
+00:11:15,520 --> 00:11:16,480
+He'll try.
+
+250
+00:11:21,670 --> 00:11:24,750
+It's far too powerful for you, for him.
+
+251
+00:11:24,750 --> 00:11:25,880
+Mr. Creel.
+
+252
+00:11:29,360 --> 00:11:30,440
+How are you feeling?
+
+253
+00:11:32,930 --> 00:11:34,190
+It won't leave my head.
+
+254
+00:11:36,010 --> 00:11:37,840
+Whatever's in there, I can't control it.
+
+255
+00:11:40,340 --> 00:11:42,980
+I think this is more about what's happening inside you.
+
+256
+00:11:44,620 --> 00:11:45,710
+What are you talking about?
+
+257
+00:11:47,360 --> 00:11:49,990
+You and I are a creation of the old Hydra.
+
+258
+00:11:50,600 --> 00:11:51,780
+That was destroyed.
+
+259
+00:11:52,020 --> 00:11:54,630
+When the thing we ‭identify with most falls apart,
+
+260
+00:11:54,630 --> 00:11:55,770
+we lose our footing.
+
+261
+00:11:56,130 --> 00:11:57,860
+We don't know what our next step is.
+
+262
+00:11:59,260 --> 00:12:01,360
+I didn't choose to be created by them.
+
+263
+00:12:02,690 --> 00:12:04,260
+But you get to choose now.
+
+264
+00:12:06,020 --> 00:12:07,550
+That's not what this feels like.
+
+265
+00:12:08,700 --> 00:12:09,750
+That's what you want.
+
+266
+00:12:11,110 --> 00:12:13,270
+We're going to conduct another test soon.
+
+267
+00:12:13,630 --> 00:12:16,960
+Whether you take that next step is up to you.
+
+268
+00:12:29,500 --> 00:12:30,550
+Watch your heads.
+
+269
+00:12:31,760 --> 00:12:33,390
+Just try to get comfortable, and...
+
+270
+00:12:34,120 --> 00:12:35,600
+we'll take off in a few minutes.
+
+271
+00:12:36,600 --> 00:12:37,520
+Thanks.
+
+272
+00:12:38,400 --> 00:12:40,900
+It's nice to see Mr. Fitz got you all back.
+
+273
+00:12:40,990 --> 00:12:42,740
+It's good to see you guys, too.
+
+274
+00:12:42,800 --> 00:12:44,660
+I-I'm -- I'm sorry ‭to take you out of hiding.
+
+275
+00:12:44,660 --> 00:12:46,440
+I wouldn't have done it if it wasn't...
+
+276
+00:12:47,100 --> 00:12:48,520
+really important.
+
+277
+00:12:49,630 --> 00:12:50,570
+Hi, Robin.
+
+278
+00:12:53,090 --> 00:12:54,790
+Let's get you into a seat, honey.
+
+279
+00:13:08,600 --> 00:13:10,410
+She hasn't been doing well --
+
+280
+00:13:11,340 --> 00:13:12,670
+for a couple weeks.
+
+281
+00:13:13,330 --> 00:13:14,340
+She isn't speaking to me.
+
+282
+00:13:14,340 --> 00:13:15,810
+She isn't drawing pictures.
+
+283
+00:13:16,990 --> 00:13:18,430
+I don't know what she's seeing.
+
+284
+00:13:19,090 --> 00:13:21,170
+Whatever it is, it's overwhelming her.
+
+285
+00:13:22,460 --> 00:13:23,740
+I understand that feeling.
+
+286
+00:13:24,730 --> 00:13:26,430
+Maybe I can find out what's on her mind.
+
+287
+00:13:44,950 --> 00:13:45,840
+Good.
+
+288
+00:13:47,390 --> 00:13:49,790
+Uh, take these to be translated.
+
+289
+00:13:49,790 --> 00:13:51,000
+I don't speak German.
+
+290
+00:13:52,570 --> 00:13:53,530
+Is something wrong?
+
+291
+00:13:56,480 --> 00:13:59,580
+Well, do these have ‭the answer we're looking for
+
+292
+00:13:59,580 --> 00:14:02,370
+or just more musings from a Hydra has-been?
+
+293
+00:14:03,450 --> 00:14:05,510
+My father ‭kept everything separate.
+
+294
+00:14:05,520 --> 00:14:06,900
+There's no single journal
+
+295
+00:14:06,900 --> 00:14:08,500
+that explains how the chamber works.
+
+296
+00:14:08,500 --> 00:14:12,190
+A-Assembly, the mechanics, the infusion process...
+
+297
+00:14:12,190 --> 00:14:13,790
+So then, ‭we're still missing something.
+
+298
+00:14:13,800 --> 00:14:16,770
+I am trying to re-create these as fast as I can,
+
+299
+00:14:16,770 --> 00:14:18,090
+to understand it all.
+
+300
+00:14:18,220 --> 00:14:19,920
+We may be running out of time.
+
+301
+00:14:20,420 --> 00:14:24,440
+My mother just gave Creel the Gravitonium --
+
+302
+00:14:24,440 --> 00:14:26,060
+a new toy for him to play with.
+
+303
+00:14:26,060 --> 00:14:26,630
+Creel?
+
+304
+00:14:26,630 --> 00:14:28,410
+What, is he ‭the -- the test subject?
+
+305
+00:14:28,410 --> 00:14:29,850
+That's what she says, but...
+
+306
+00:14:30,750 --> 00:14:34,230
+she's up to something, and I can feel it.
+
+307
+00:14:34,630 --> 00:14:37,580
+She wanted to join forces with S.H.I.E.L.D.,
+
+308
+00:14:37,850 --> 00:14:39,750
+with Daisy Johnson.
+
+309
+00:14:40,570 --> 00:14:42,960
+The Gravitonium is meant for you.
+
+310
+00:14:43,890 --> 00:14:45,190
+She can't make him into the --
+
+311
+00:14:45,190 --> 00:14:46,560
+The Destroyer of Worlds?
+
+312
+00:14:47,590 --> 00:14:50,130
+I've worked myself to the bone,
+
+313
+00:14:50,130 --> 00:14:52,550
+trained my whole life to become this.
+
+314
+00:14:54,970 --> 00:14:56,330
+And I'm so close.
+
+315
+00:14:56,330 --> 00:14:57,550
+I'll get you there.
+
+316
+00:14:58,430 --> 00:14:59,470
+I'll work harder.
+
+317
+00:15:00,360 --> 00:15:02,770
+I just -- I need to think.
+
+318
+00:15:08,390 --> 00:15:09,990
+Zephyr One, we're en route to you.
+
+319
+00:15:09,990 --> 00:15:12,300
+- Five minutes out. - Copy that.
+
+320
+00:15:12,440 --> 00:15:14,000
+You have the cargo onboard?
+
+321
+00:15:14,000 --> 00:15:15,090
+Yes, ma'am.
+
+322
+00:15:15,860 --> 00:15:17,050
+Safe and secure.
+
+323
+00:15:21,830 --> 00:15:23,560
+It's okay ‭if you don't want to talk.
+
+324
+00:15:24,350 --> 00:15:26,080
+You saw something frightening.
+
+325
+00:15:26,350 --> 00:15:28,270
+It's okay ‭if you're feeling scared.
+
+326
+00:15:29,470 --> 00:15:31,270
+I was scared of my powers, too.
+
+327
+00:15:31,540 --> 00:15:32,360
+I couldn't...
+
+328
+00:15:33,650 --> 00:15:35,920
+control it, I couldn't escape it.
+
+329
+00:15:37,270 --> 00:15:39,730
+But it -- it'll get better.
+
+330
+00:15:40,300 --> 00:15:41,020
+It will.
+
+331
+00:15:41,020 --> 00:15:42,020
+I promise.
+
+332
+00:15:53,000 --> 00:15:54,120
+I wouldn't ask you
+
+333
+00:15:54,120 --> 00:15:57,120
+to think about anything you don't want to.
+
+334
+00:15:58,030 --> 00:16:02,570
+But my friend, Phillip J. Coulson...
+
+335
+00:16:03,830 --> 00:16:06,120
+he's the one who helped me get better.
+
+336
+00:16:06,630 --> 00:16:11,090
+And right now, he's lost.
+
+337
+00:16:11,540 --> 00:16:13,530
+And I need...
+
+338
+00:16:15,570 --> 00:16:16,850
+I need to find him.
+
+339
+00:16:18,290 --> 00:16:20,220
+Robin, can you help me find him?
+
+340
+00:16:20,710 --> 00:16:21,470
+Please?
+
+341
+00:16:32,000 --> 00:16:33,640
+Structure looks good.
+
+342
+00:16:33,640 --> 00:16:35,550
+Hydraulics are okay.
+
+343
+00:16:35,580 --> 00:16:38,040
+I guess you didn't do any damage with all that punching.
+
+344
+00:16:38,330 --> 00:16:40,470
+Yeah, these things are pretty tough.
+
+345
+00:16:40,720 --> 00:16:42,840
+Well, if the arm fits...
+
+346
+00:16:44,500 --> 00:16:46,510
+So you're making arm jokes now?
+
+347
+00:16:46,510 --> 00:16:48,360
+I thought those were off-limits.
+
+348
+00:16:48,440 --> 00:16:50,240
+All right, ‭it'll be the first and last.
+
+349
+00:16:50,970 --> 00:16:53,460
+I'm just glad to see that these are...
+
+350
+00:16:54,330 --> 00:16:55,510
+...are in good shape.
+
+351
+00:16:56,460 --> 00:16:57,840
+Yeah, um...
+
+352
+00:16:58,790 --> 00:17:00,380
+I'd like to do more than...
+
+353
+00:17:00,930 --> 00:17:02,450
+work out and get check-ups.
+
+354
+00:17:02,760 --> 00:17:03,440
+Yeah?
+
+355
+00:17:04,050 --> 00:17:06,170
+I want you ‭to let Fitz out of his cell.
+
+356
+00:17:09,300 --> 00:17:10,010
+Why?
+
+357
+00:17:12,600 --> 00:17:15,450
+Because he knows about a weapon that General Hale wants
+
+358
+00:17:15,580 --> 00:17:18,610
+that uses gravity, ‭and we need to get it first.
+
+359
+00:17:18,810 --> 00:17:20,070
+You know what Fitz did.
+
+360
+00:17:21,550 --> 00:17:23,030
+Take it up with Coulson when we get him back.
+
+361
+00:17:23,030 --> 00:17:25,060
+And what if we can't wait for that, Mack?
+
+362
+00:17:25,250 --> 00:17:27,120
+Maybe it's time for others to step up.
+
+363
+00:17:27,130 --> 00:17:28,800
+I saw myself alive in the future.
+
+364
+00:17:28,800 --> 00:17:29,830
+I want to use that to help --
+
+365
+00:17:29,840 --> 00:17:32,350
+Damn it, Elena! That doesn't make you bulletproof.
+
+366
+00:17:33,430 --> 00:17:34,810
+I thought you let go of that.
+
+367
+00:17:35,160 --> 00:17:37,060
+There are things I can't let go of --
+
+368
+00:17:37,210 --> 00:17:39,320
+things I learned in the future about this team,
+
+369
+00:17:39,320 --> 00:17:41,220
+about Coulson, about you.
+
+370
+00:17:41,220 --> 00:17:43,280
+I don't want to hear about the future!
+
+371
+00:17:44,360 --> 00:17:45,710
+Look, all I know is,
+
+372
+00:17:46,120 --> 00:17:48,570
+right here, right now, you're in front of me.
+
+373
+00:17:49,690 --> 00:17:50,590
+Safe.
+
+374
+00:17:51,150 --> 00:17:53,070
+You can't protect me forever, Mack.
+
+375
+00:17:54,320 --> 00:17:57,250
+Did you ever stop to think maybe you're alive in the future
+
+376
+00:17:57,250 --> 00:17:58,370
+because I did?
+
+377
+00:18:08,230 --> 00:18:09,690
+Fitz stays where he is.
+
+378
+00:18:12,340 --> 00:18:13,410
+And so do you.
+
+379
+00:18:23,780 --> 00:18:25,870
+I see the future, Mr. Coulson.
+
+380
+00:18:54,510 --> 00:18:56,570
+You can tell the General there's nothing you can do
+
+381
+00:18:56,570 --> 00:18:59,250
+to make me join ‭her evil league of evil.
+
+382
+00:18:59,410 --> 00:19:01,160
+I'm not her messenger boy.
+
+383
+00:19:08,400 --> 00:19:09,650
+‭Gravitonium.
+
+384
+00:19:10,610 --> 00:19:11,640
+It hates you.
+
+385
+00:19:13,870 --> 00:19:15,170
+It wants you dead.
+
+386
+00:19:15,170 --> 00:19:16,920
+You don't look so great, Carl.
+
+387
+00:19:17,000 --> 00:19:19,040
+If you're messing ‭with that stuff, believe me,
+
+388
+00:19:19,100 --> 00:19:21,620
+you don't want to be the guinea pig in Hale's experiment.
+
+389
+00:19:22,380 --> 00:19:25,420
+S.H.I.E.L.D. is just as guilty of the same thing --
+
+390
+00:19:26,490 --> 00:19:30,240
+experimentation without thought of consequence.
+
+391
+00:19:30,240 --> 00:19:31,550
+S.H.I.E.L.D. may not be perfect,
+
+392
+00:19:31,550 --> 00:19:33,660
+but we'd never do ‭what Hale did to Talbot.
+
+393
+00:19:33,840 --> 00:19:35,120
+I thought he was your friend.
+
+394
+00:19:35,120 --> 00:19:36,120
+What do you mean?
+
+395
+00:19:37,930 --> 00:19:38,910
+You don't know.
+
+396
+00:19:39,730 --> 00:19:41,460
+Talbot is Hale's prisoner, too.
+
+397
+00:19:41,870 --> 00:19:43,880
+- She broke him. - ‭No.
+
+398
+00:19:43,880 --> 00:19:46,600
+She said she was getting him care no one else could.
+
+399
+00:19:46,870 --> 00:19:48,180
+Helping him heal.
+
+400
+00:19:48,550 --> 00:19:50,290
+That's a touching story.
+
+401
+00:19:50,760 --> 00:19:52,860
+And I should believe you instead?
+
+402
+00:19:53,360 --> 00:19:56,320
+You don't have to believe me because every few minutes,
+
+403
+00:19:56,320 --> 00:19:58,470
+a mech guard comes to check on that door,
+
+404
+00:19:58,510 --> 00:19:59,940
+and it's been a few minutes.
+
+405
+00:20:02,000 --> 00:20:03,660
+You have a choice to make, Carl.
+
+406
+00:20:23,020 --> 00:20:24,060
+That's a choice.
+
+407
+00:20:25,400 --> 00:20:27,360
+Let's see ‭if your story checks out.
+
+408
+00:20:27,360 --> 00:20:29,670
+If it doesn't, I'll do the same to you.
+
+409
+00:20:53,970 --> 00:20:55,510
+She still won't talk with me.
+
+410
+00:20:56,850 --> 00:20:58,360
+I thought I'd have until she was 13
+
+411
+00:20:58,360 --> 00:21:00,570
+before she completely tuned me out.
+
+412
+00:21:02,130 --> 00:21:03,710
+I'm sorry we're not able to help.
+
+413
+00:21:03,710 --> 00:21:05,570
+Please, do not apologize.
+
+414
+00:21:05,570 --> 00:21:07,400
+This -- This cannot be easy for you.
+
+415
+00:21:08,540 --> 00:21:09,810
+She can see the future,
+
+416
+00:21:09,810 --> 00:21:12,180
+and I don't even have the power to know what she's feeling.
+
+417
+00:21:12,960 --> 00:21:14,050
+At least when she would draw,
+
+418
+00:21:14,050 --> 00:21:15,900
+I'd have a window into her world.
+
+419
+00:21:16,770 --> 00:21:19,510
+Do you remember what her last drawing was?
+
+420
+00:21:19,720 --> 00:21:20,730
+I have it.
+
+421
+00:21:26,690 --> 00:21:28,160
+Do you know what it means?
+
+422
+00:21:29,300 --> 00:21:30,530
+No, Robin!
+
+423
+00:21:32,500 --> 00:21:34,440
+I'm not sure.
+
+424
+00:21:37,810 --> 00:21:38,540
+Mom?
+
+425
+00:21:47,880 --> 00:21:48,940
+Mommy.
+
+426
+00:21:57,620 --> 00:21:59,140
+I missed you.
+
+427
+00:22:06,210 --> 00:22:08,980
+I told you ‭Flint would get you back.
+
+428
+00:22:11,160 --> 00:22:12,050
+You did.
+
+429
+00:22:14,750 --> 00:22:15,860
+You were right.
+
+430
+00:22:21,170 --> 00:22:22,870
+This base is a labyrinth.
+
+431
+00:22:22,890 --> 00:22:23,930
+Is this the right place?
+
+432
+00:22:23,930 --> 00:22:25,920
+It's the only wing Hale made off-limits.
+
+433
+00:22:25,930 --> 00:22:27,350
+Maybe there's a reason for that.
+
+434
+00:22:27,380 --> 00:22:28,670
+And you can open these doors?
+
+435
+00:22:28,670 --> 00:22:31,180
+Yeah. Just need to know which one Talbot's in.
+
+436
+00:22:31,180 --> 00:22:32,750
+If what you said is true --
+
+437
+00:22:32,750 --> 00:22:34,920
+Straighten up and fly right, Hammond!
+
+438
+00:22:34,990 --> 00:22:36,790
+You look like a damn hobo!
+
+439
+00:22:37,030 --> 00:22:38,410
+Pretty sure that's our man.
+
+440
+00:22:38,990 --> 00:22:40,030
+You are in violation --
+
+441
+00:22:40,030 --> 00:22:44,990
+major violation of dress code 36-2903.
+
+442
+00:22:44,990 --> 00:22:46,520
+Noncompliance.
+
+443
+00:22:46,610 --> 00:22:47,790
+Get it together.
+
+444
+00:22:49,190 --> 00:22:50,140
+General?
+
+445
+00:22:50,690 --> 00:22:51,290
+Good God, man!
+
+446
+00:22:51,300 --> 00:22:53,860
+You sneak up on a man like that, that's not right.
+
+447
+00:22:54,320 --> 00:22:55,380
+That's not right.
+
+448
+00:22:58,980 --> 00:22:59,930
+Carl?
+
+449
+00:23:00,610 --> 00:23:01,980
+What the hell are you doing here?
+
+450
+00:23:02,540 --> 00:23:04,370
+Coulson, what the hell is Carl doing here?
+
+451
+00:23:04,380 --> 00:23:06,050
+He can explain it to you later.
+
+452
+00:23:06,150 --> 00:23:08,950
+- Are you okay to travel? - ‭Oh, no, I'm not in the best shape.
+
+453
+00:23:08,950 --> 00:23:10,800
+If your robot hadn't have shot him in the head.
+
+454
+00:23:10,800 --> 00:23:13,260
+If you still want to buy Hale's story about that, too, fine.
+
+455
+00:23:13,260 --> 00:23:15,290
+But can we agree this man needs to get out of here?
+
+456
+00:23:15,350 --> 00:23:16,500
+Listen to him, son.
+
+457
+00:23:16,500 --> 00:23:17,600
+He's an ally.
+
+458
+00:23:17,630 --> 00:23:20,570
+I'd like to get back and see my wife and child.
+
+459
+00:23:20,800 --> 00:23:21,550
+We good?
+
+460
+00:23:22,430 --> 00:23:23,470
+Yeah, let's get going.
+
+461
+00:23:23,470 --> 00:23:24,740
+Okay, Glenn, come on.
+
+462
+00:23:25,210 --> 00:23:26,460
+Perfect. Let's go.
+
+463
+00:23:26,760 --> 00:23:30,160
+- Come on. - Hey, you quit it! Quit being so handsy!
+
+464
+00:23:30,160 --> 00:23:32,390
+Glenn, I know we're under a bit of strain here,
+
+465
+00:23:32,390 --> 00:23:34,610
+but I'm gonna need you to use your inside voice.
+
+466
+00:23:34,610 --> 00:23:36,740
+- This is my inside voice! - ‭Okay.
+
+467
+00:23:36,740 --> 00:23:38,390
+Then your softer inside voice.
+
+468
+00:23:38,390 --> 00:23:40,110
+Elena, you know I don't like surprises.
+
+469
+00:23:40,110 --> 00:23:40,910
+Where you taking me?
+
+470
+00:23:40,910 --> 00:23:42,960
+If I can't convince you, someone else will.
+
+471
+00:23:54,560 --> 00:23:55,930
+What the hell is this?
+
+472
+00:23:56,840 --> 00:23:58,110
+An experiment.
+
+473
+00:23:58,140 --> 00:24:00,090
+The test of a hypothesis.
+
+474
+00:24:00,250 --> 00:24:02,320
+If that hypothesis is true,
+
+475
+00:24:02,450 --> 00:24:04,260
+you'll see ‭that you should let Fitz out.
+
+476
+00:24:05,190 --> 00:24:06,240
+I already ‭gave you my answer on that.
+
+477
+00:24:06,240 --> 00:24:08,750
+Yeah, but we want you to reconsider with all the facts,
+
+478
+00:24:08,750 --> 00:24:11,490
+so I'm going to prove that I can't be killed.
+
+479
+00:24:11,490 --> 00:24:12,840
+What, you, too, Simmons?
+
+480
+00:24:13,310 --> 00:24:15,300
+Do you know how all this sounds?
+
+481
+00:24:15,420 --> 00:24:16,400
+Like science.
+
+482
+00:24:16,400 --> 00:24:18,980
+No, sounds like ‭you're detached from reality.
+
+483
+00:24:19,580 --> 00:24:21,490
+Don't look at me. ‭I don't know what she's doing.
+
+484
+00:24:22,070 --> 00:24:25,460
+Well, what's an experiment without a little skepticism?
+
+485
+00:24:25,660 --> 00:24:28,010
+So, each of these beakers contain a liquid.
+
+486
+00:24:28,020 --> 00:24:29,420
+Three of them contain water,
+
+487
+00:24:29,420 --> 00:24:31,810
+the fourth holds ‭a phosphoric-acid compound
+
+488
+00:24:31,810 --> 00:24:33,730
+used in the hydraulics of Yo-Yo's arms --
+
+489
+00:24:33,730 --> 00:24:34,610
+highly toxic.
+
+490
+00:24:34,620 --> 00:24:35,890
+One sip will make you sick.
+
+491
+00:24:35,900 --> 00:24:37,970
+I mean, this much will surely kill you.
+
+492
+00:24:37,980 --> 00:24:40,880
+What the hell? Jemma...
+
+493
+00:24:41,940 --> 00:24:43,710
+- No. - Yes, Fitz.
+
+494
+00:24:43,890 --> 00:24:46,550
+I wouldn't be doing this if the science wasn't sound.
+
+495
+00:24:46,660 --> 00:24:48,320
+So, without knowing which is which,
+
+496
+00:24:48,330 --> 00:24:50,940
+I will drink three of them, and since I can't be killed,
+
+497
+00:24:50,940 --> 00:24:54,050
+I will happen to consume the three that just hold water.
+
+498
+00:24:54,390 --> 00:24:55,830
+This is insane.
+
+499
+00:25:02,460 --> 00:25:03,620
+No looking.
+
+500
+00:25:03,920 --> 00:25:04,900
+I'm not looking.
+
+501
+00:25:05,190 --> 00:25:06,750
+Are you kidding -- Simmons.
+
+502
+00:25:07,660 --> 00:25:08,850
+Are you serious?
+
+503
+00:25:11,010 --> 00:25:11,660
+Ready.
+
+504
+00:25:18,700 --> 00:25:19,650
+Don't do it.
+
+505
+00:25:22,180 --> 00:25:24,160
+- He's right. Jemma, J-- - Don't. Don't.
+
+506
+00:25:31,740 --> 00:25:34,390
+Simmons -- Simmons, ‭I need you to stop right now!
+
+507
+00:25:40,800 --> 00:25:42,400
+No-- Oh, geez.
+
+508
+00:25:49,450 --> 00:25:51,190
+I will now drink the last one.
+
+509
+00:25:51,800 --> 00:25:53,130
+And it will be water.
+
+510
+00:25:53,190 --> 00:25:54,760
+- No. - No.
+
+511
+00:25:58,160 --> 00:26:00,330
+You would shoot me ‭just to keep me from dying?
+
+512
+00:26:00,330 --> 00:26:03,390
+No, I-I'll wound you to stop this madness.
+
+513
+00:26:04,500 --> 00:26:05,190
+No.
+
+514
+00:26:06,260 --> 00:26:07,380
+I don't think you will.
+
+515
+00:26:07,380 --> 00:26:08,500
+Simmons, please.
+
+516
+00:26:08,500 --> 00:26:09,780
+Please, Simmons, please don't.
+
+517
+00:26:09,780 --> 00:26:11,040
+- Jemma - ‭Stop!
+
+518
+00:26:23,500 --> 00:26:24,260
+Fitz.
+
+519
+00:26:26,660 --> 00:26:27,340
+Jemma?
+
+520
+00:26:29,160 --> 00:26:30,160
+‭Jemma!
+
+521
+00:26:31,720 --> 00:26:32,760
+Jemma!
+
+522
+00:26:36,450 --> 00:26:39,530
+Simmons! Fitz! Fitz, what do I do?!
+
+523
+00:26:39,530 --> 00:26:41,300
+She needs some alkaloid phosphate
+
+524
+00:26:41,300 --> 00:26:42,600
+to counteract the toxicity!
+
+525
+00:26:42,600 --> 00:26:45,810
+- Where do I find that?! - I know where it is! Let me out!
+
+526
+00:26:45,810 --> 00:26:46,690
+Let him out!
+
+527
+00:26:46,850 --> 00:26:48,280
+- Please. - Let him out!
+
+528
+00:26:52,480 --> 00:26:53,870
+Hang on, Jemma!
+
+529
+00:26:54,000 --> 00:26:54,900
+Hurry up!
+
+530
+00:26:57,840 --> 00:26:59,960
+Elena, open the door!
+
+531
+00:27:00,060 --> 00:27:01,970
+Now! Open the door!
+
+532
+00:27:02,080 --> 00:27:04,260
+Open the door now! Ele--
+
+533
+00:27:14,990 --> 00:27:16,870
+A heads-up would've been nice.
+
+534
+00:27:17,310 --> 00:27:18,320
+You sca--
+
+535
+00:27:20,590 --> 00:27:21,300
+Here.
+
+536
+00:27:24,490 --> 00:27:27,250
+Compliments on the performance, Dame Judi Dench.
+
+537
+00:27:29,420 --> 00:27:31,270
+That's the longest ‭you ever kept a lie going.
+
+538
+00:27:32,650 --> 00:27:34,300
+It wasn't all a lie, Fitz.
+
+539
+00:27:48,100 --> 00:27:49,500
+I might've chosen that one.
+
+540
+00:27:50,370 --> 00:27:51,240
+I didn't.
+
+541
+00:27:52,670 --> 00:27:54,290
+Because we are invincible.
+
+542
+00:27:54,660 --> 00:27:57,190
+And crazy...apparently.
+
+543
+00:27:58,420 --> 00:27:59,440
+Let me out of here.
+
+544
+00:28:04,070 --> 00:28:05,320
+I'm sorry, Mack.
+
+545
+00:28:06,780 --> 00:28:08,430
+I know you don't understand.
+
+546
+00:28:09,370 --> 00:28:11,220
+But I'm doing this to keep you safe.
+
+547
+00:28:11,410 --> 00:28:12,290
+You're right.
+
+548
+00:28:13,520 --> 00:28:14,960
+I don't understand.
+
+549
+00:28:17,550 --> 00:28:20,310
+If, for some reason, I don't come back, it means --
+
+550
+00:28:20,310 --> 00:28:21,920
+We've broken the time loop.
+
+551
+00:28:22,900 --> 00:28:25,060
+You know my feelings on that -- it can't be broken.
+
+552
+00:28:25,310 --> 00:28:26,620
+Is that ‭what you'd tell our daughter,
+
+553
+00:28:26,620 --> 00:28:28,140
+that her world can't be changed?
+
+554
+00:28:28,140 --> 00:28:29,530
+Maybe, don't know. Haven't met her yet...
+
+555
+00:28:29,530 --> 00:28:30,100
+Oh, for goodness sake.
+
+556
+00:28:30,100 --> 00:28:32,190
+- ...so maybe when I clear up - ‭Guys, guys!
+
+557
+00:28:32,510 --> 00:28:34,060
+You argue on the way.
+
+558
+00:28:34,070 --> 00:28:36,030
+But if you really believe that, Fitz,
+
+559
+00:28:36,030 --> 00:28:37,950
+then it means we're in no danger --
+
+560
+00:28:43,560 --> 00:28:44,530
+Lo siento.
+
+561
+00:28:44,530 --> 00:28:46,090
+Lo siento, lo siento.
+
+562
+00:28:46,660 --> 00:28:47,620
+I'm just getting...
+
+563
+00:28:48,140 --> 00:28:49,290
+used to my fingers.
+
+564
+00:28:53,710 --> 00:28:55,090
+I'll get that.
+
+565
+00:28:55,800 --> 00:28:56,870
+That was close.
+
+566
+00:28:59,010 --> 00:28:59,920
+Let's go.
+
+567
+00:29:15,470 --> 00:29:16,990
+I'm glad you're here.
+
+568
+00:29:20,660 --> 00:29:21,530
+Me, too.
+
+569
+00:29:28,360 --> 00:29:29,140
+Robin...
+
+570
+00:29:32,250 --> 00:29:34,820
+Is this why you had stopped drawing before?
+
+571
+00:29:36,560 --> 00:29:38,320
+Because of what it shows?
+
+572
+00:29:45,480 --> 00:29:47,240
+We are going to try to make sure
+
+573
+00:29:47,240 --> 00:29:50,680
+that this future never happens, okay?
+
+574
+00:29:51,670 --> 00:29:53,870
+And to do that, we have to find --
+
+575
+00:29:53,870 --> 00:29:55,520
+Phillip J. Coulson.
+
+576
+00:29:56,150 --> 00:29:58,310
+He can put all the pieces together.
+
+577
+00:29:59,160 --> 00:30:00,010
+Yes.
+
+578
+00:30:01,230 --> 00:30:04,460
+But he's lost, and...
+
+579
+00:30:05,400 --> 00:30:06,720
+I'm lost without him.
+
+580
+00:30:08,270 --> 00:30:09,580
+Daisy, too.
+
+581
+00:30:09,940 --> 00:30:12,580
+That's why you need each other so much.
+
+582
+00:30:12,990 --> 00:30:13,720
+Yeah.
+
+583
+00:30:18,110 --> 00:30:19,790
+He's gonna die.
+
+584
+00:30:24,500 --> 00:30:25,770
+You can see that?
+
+585
+00:30:37,060 --> 00:30:38,190
+We can save him.
+
+586
+00:30:59,490 --> 00:31:01,500
+Well, once again, my life depends on
+
+587
+00:31:01,510 --> 00:31:04,220
+a crayon drawing ‭of a crazy person, which is...
+
+588
+00:31:05,000 --> 00:31:06,540
+great for me.
+
+589
+00:31:07,260 --> 00:31:08,400
+Is May still with her?
+
+590
+00:31:09,490 --> 00:31:10,420
+Yeah.
+
+591
+00:31:10,420 --> 00:31:12,270
+I just cannot imagine bouncing back and forth
+
+592
+00:31:12,270 --> 00:31:13,630
+between the past and the future like that.
+
+593
+00:31:13,630 --> 00:31:15,200
+It sounds terrible.
+
+594
+00:31:15,740 --> 00:31:18,190
+God, finally, someone gets it.
+
+595
+00:31:18,190 --> 00:31:19,930
+Thank you for saying that,
+
+596
+00:31:19,930 --> 00:31:21,610
+'cause it's been like a pretzel up here
+
+597
+00:31:21,610 --> 00:31:23,440
+ever since I met up with you time travelers.
+
+598
+00:31:23,930 --> 00:31:25,010
+Yeah, I was talking about...
+
+599
+00:31:26,430 --> 00:31:27,290
+Robin.
+
+600
+00:31:28,190 --> 00:31:29,970
+I'm sorry about your...
+
+601
+00:31:30,740 --> 00:31:31,560
+brain.
+
+602
+00:31:37,030 --> 00:31:37,840
+Coulson.
+
+603
+00:31:38,210 --> 00:31:39,720
+Yeah, she's seen him.
+
+604
+00:31:39,750 --> 00:31:42,380
+Okay, let's start searching for landmarks that might match.
+
+605
+00:31:50,280 --> 00:31:51,370
+It won't be easy.
+
+606
+00:31:52,230 --> 00:31:53,890
+But that might be where he is.
+
+607
+00:32:07,660 --> 00:32:09,840
+- I was brought in this way. - From where?
+
+608
+00:32:10,180 --> 00:32:11,970
+Any idea ‭where this bunker's located?
+
+609
+00:32:11,980 --> 00:32:12,850
+Well, I don't know.
+
+610
+00:32:12,850 --> 00:32:15,040
+I was kept in the dark, just like you, when I was brought in.
+
+611
+00:32:16,780 --> 00:32:18,430
+I'm right where I'm supposed to be.
+
+612
+00:32:19,700 --> 00:32:20,620
+Are you okay?
+
+613
+00:32:21,660 --> 00:32:23,270
+Can you hear them arguing?
+
+614
+00:32:26,070 --> 00:32:28,280
+No. What do you hear?
+
+615
+00:32:28,850 --> 00:32:30,500
+It's nothing. Let's keep moving.
+
+616
+00:32:36,540 --> 00:32:38,120
+What's wrong with him, anyway?
+
+617
+00:32:39,840 --> 00:32:42,390
+I'm not the only one with a cooked noodle.
+
+618
+00:32:42,590 --> 00:32:43,940
+Keep your hands off me.
+
+619
+00:32:51,390 --> 00:32:53,110
+You need to eat.
+
+620
+00:32:54,710 --> 00:32:57,940
+There'll be time to eat after I've reconstructed this.
+
+621
+00:33:01,710 --> 00:33:02,450
+What's that?
+
+622
+00:33:02,450 --> 00:33:03,330
+Ruby?
+
+623
+00:33:04,650 --> 00:33:06,260
+Creel has broken out Talbot and Coulson.
+
+624
+00:33:06,260 --> 00:33:08,840
+They're trying to escape. Gear up and stop them.
+
+625
+00:33:08,840 --> 00:33:10,280
+We need Creel alive.
+
+626
+00:33:11,290 --> 00:33:13,500
+You, secure Strucker.
+
+627
+00:33:13,540 --> 00:33:15,240
+The rest of you, go with her.
+
+628
+00:33:17,830 --> 00:33:18,680
+Ruby...
+
+629
+00:33:20,150 --> 00:33:21,320
+...alive.
+
+630
+00:33:21,320 --> 00:33:22,260
+I heard you.
+
+631
+00:33:30,730 --> 00:33:31,800
+So, where are we going?
+
+632
+00:33:31,840 --> 00:33:33,480
+We have coordinates to three locations,
+
+633
+00:33:33,480 --> 00:33:34,940
+so we'll start with the closest
+
+634
+00:33:34,940 --> 00:33:36,650
+and hope we don't find company when we get there.
+
+635
+00:33:36,650 --> 00:33:39,190
+Wait. What about our pilot?
+
+636
+00:33:39,190 --> 00:33:42,620
+We have an auto-pilot, which I designed.
+
+637
+00:33:47,740 --> 00:33:49,260
+What's the worst that could happen?
+
+638
+00:33:49,490 --> 00:33:50,950
+They'll be on us in seconds.
+
+639
+00:33:52,080 --> 00:33:53,260
+Stay behind me.
+
+640
+00:34:23,630 --> 00:34:24,720
+Fallen hero.
+
+641
+00:34:25,920 --> 00:34:27,210
+Fallen hero.
+
+642
+00:34:28,820 --> 00:34:30,610
+He took a shot right to the ticker.
+
+643
+00:34:32,930 --> 00:34:34,420
+I've got no pulse.
+
+644
+00:34:37,070 --> 00:34:40,420
+Oh, my God. Do something, son.
+
+645
+00:34:41,860 --> 00:34:43,020
+Do something!
+
+646
+00:34:43,300 --> 00:34:44,880
+They never agree on anything.
+
+647
+00:34:44,900 --> 00:34:45,930
+You're feeling it now!
+
+648
+00:34:45,930 --> 00:34:47,460
+They agree -- I shouldn't help him.
+
+649
+00:34:47,460 --> 00:34:48,510
+They? Who's "They"?
+
+650
+00:34:48,510 --> 00:34:50,720
+We got a man down. Come on, soldier!
+
+651
+00:34:50,720 --> 00:34:52,030
+Do something!
+
+652
+00:35:15,890 --> 00:35:18,300
+You know, you die more than anybody I've ever met.
+
+653
+00:35:19,360 --> 00:35:20,640
+Who do I have to thank?
+
+654
+00:35:23,300 --> 00:35:24,270
+Thanks, Carl.
+
+655
+00:35:26,710 --> 00:35:27,600
+It's time to go.
+
+656
+00:35:32,800 --> 00:35:34,450
+This way. This way.
+
+657
+00:35:41,520 --> 00:35:43,610
+If you're thinking of blond jokes, now's not the time.
+
+658
+00:35:43,620 --> 00:35:45,450
+- I got a bunch of 'em. - ‭Go! Go!
+
+659
+00:35:45,870 --> 00:35:46,770
+Fire.
+
+660
+00:36:02,100 --> 00:36:04,300
+I wish we had time to take you both back into hiding,
+
+661
+00:36:04,300 --> 00:36:06,070
+but we'll keep you safe here.
+
+662
+00:36:06,070 --> 00:36:08,130
+I'm just glad that Robin was able to help you.
+
+663
+00:36:08,130 --> 00:36:09,080
+Me, too.
+
+664
+00:36:09,140 --> 00:36:10,880
+We think she might've given us a location.
+
+665
+00:36:10,880 --> 00:36:12,120
+We'll see what we can find.
+
+666
+00:36:12,630 --> 00:36:14,290
+Can I ask you something?
+
+667
+00:36:16,040 --> 00:36:18,740
+I don't understand everything that's happened here today,
+
+668
+00:36:18,770 --> 00:36:21,900
+but Robin clearly has a connection with you.
+
+669
+00:36:23,090 --> 00:36:24,190
+I, uh...
+
+670
+00:36:24,800 --> 00:36:26,110
+don't know if I can explain it.
+
+671
+00:36:26,110 --> 00:36:28,610
+I don't fully understand it myself.
+
+672
+00:36:28,700 --> 00:36:29,980
+You don't have to.
+
+673
+00:36:30,830 --> 00:36:32,550
+I've seen the drawings.
+
+674
+00:36:33,080 --> 00:36:34,890
+I know that I'm not in them.
+
+675
+00:36:38,700 --> 00:36:40,870
+- If anything happens to me - ‭Listen...
+
+676
+00:36:42,720 --> 00:36:44,130
+That's not gonna happen.
+
+677
+00:36:44,480 --> 00:36:45,210
+Okay?
+
+678
+00:36:46,460 --> 00:36:48,830
+Come sit next to me, Mommy.
+
+679
+00:37:16,430 --> 00:37:17,790
+I don't know how to get us out.
+
+680
+00:37:17,790 --> 00:37:19,470
+She's blocking the only exit I know.
+
+681
+00:37:19,470 --> 00:37:21,180
+I guess this is how it's gonna end.
+
+682
+00:37:21,670 --> 00:37:23,800
+Pinned down like Butch and Sundance.
+
+683
+00:37:24,410 --> 00:37:26,190
+Maybe that's a cliff we can jump off.
+
+684
+00:37:26,190 --> 00:37:28,880
+Carl, can you open this door, too?
+
+685
+00:37:40,130 --> 00:37:40,970
+Yeah.
+
+686
+00:37:41,860 --> 00:37:44,050
+I've got something for you to absorb.
+
+687
+00:37:47,760 --> 00:37:48,980
+I'll hold her off.
+
+688
+00:37:49,020 --> 00:37:49,870
+Come on.
+
+689
+00:37:51,910 --> 00:37:52,820
+Kill those two.
+
+690
+00:37:52,820 --> 00:37:53,870
+This one's mine.
+
+691
+00:37:54,820 --> 00:37:56,230
+Oh, no, no!
+
+692
+00:37:56,230 --> 00:37:57,940
+I'm not interested in going to outer space.
+
+693
+00:37:57,940 --> 00:37:59,200
+I'm not a damn cosmonaut.
+
+694
+00:37:59,200 --> 00:38:01,760
+I think as long ‭as we avoid the altitude dial,
+
+695
+00:38:02,170 --> 00:38:05,100
+we should end up somewhere on Earth.
+
+696
+00:38:05,100 --> 00:38:07,470
+You know the Earth's 70% water, right?
+
+697
+00:38:13,460 --> 00:38:14,760
+I think we need to try this.
+
+698
+00:38:14,760 --> 00:38:16,390
+- Glenn. - ‭Yeah, okay.
+
+699
+00:38:20,260 --> 00:38:22,450
+Oh, boy. Here we go.
+
+700
+00:39:12,970 --> 00:39:13,780
+Stop!
+
+701
+00:39:17,390 --> 00:39:18,250
+Ruby.
+
+702
+00:39:38,710 --> 00:39:40,620
+Who the hell do you think you are?
+
+703
+00:39:41,990 --> 00:39:44,010
+I'm the Destroyer of Worlds.
+
+704
+00:39:47,960 --> 00:39:49,160
+Then go get them.
+
+705
+00:40:04,150 --> 00:40:05,830
+We're on Earth, right?
+
+706
+00:40:05,970 --> 00:40:07,110
+We can breathe.
+
+707
+00:40:07,670 --> 00:40:08,760
+I think it's good old Earth.
+
+708
+00:40:08,770 --> 00:40:11,370
+Well, we're in the middle of godforsaken nowhere.
+
+709
+00:40:11,370 --> 00:40:12,670
+We should get moving.
+
+710
+00:40:13,100 --> 00:40:15,090
+Hope hypothermia doesn't set in.
+
+711
+00:40:16,590 --> 00:40:18,860
+Maybe next time, ‭send us someplace warm, huh?
+
+712
+00:40:20,460 --> 00:40:22,510
+White sandy beaches and the palm trees.
+
+713
+00:40:22,510 --> 00:40:24,270
+That's not really my thing anymore.
+
+714
+00:40:36,170 --> 00:40:37,870
+We'll return in a moment.
+
+715
+00:40:40,180 --> 00:40:42,060
+How you got through to Garrett,
+
+716
+00:40:42,420 --> 00:40:44,380
+I'll never know, but thank you.
+
+717
+00:40:44,640 --> 00:40:46,360
+He learned to trust me, in the end.
+
+718
+00:40:47,390 --> 00:40:48,990
+And this is what I wanted.
+
+719
+00:40:49,220 --> 00:40:51,270
+Yes, but why did you care what I wanted?
+
+720
+00:40:52,960 --> 00:40:54,310
+I mean, to give me this.
+
+721
+00:40:54,610 --> 00:40:56,610
+This act cements a bond.
+
+722
+00:40:57,920 --> 00:40:58,650
+Yeah.
+
+723
+00:40:59,500 --> 00:41:00,510
+It does.
+
+724
+00:41:02,310 --> 00:41:04,610
+You have my undying loyalty now.
+
+725
+00:41:04,960 --> 00:41:07,060
+I never wanted ‭any of that Hydra nonsense.
+
+726
+00:41:07,060 --> 00:41:08,810
+I just wanted the Gravitonium.
+
+727
+00:41:09,620 --> 00:41:10,610
+Oh, no.
+
+728
+00:41:12,890 --> 00:41:14,790
+You misunderstand.
+
+729
+00:41:19,530 --> 00:41:20,940
+It wanted you.
+
+730
+00:41:27,630 --> 00:41:28,440
+No!
+

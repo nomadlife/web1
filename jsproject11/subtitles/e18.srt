@@ -1,0 +1,3857 @@
+﻿1
+00:00:00,023 --> 00:00:02,281
+<i>Previously on "Marvel's
+Agents of S.H.I.E.L.D."...</i>
+
+2
+00:00:02,344 --> 00:00:04,867
+FITZ: Hale may be after
+a weapon powered by Gravitonium.
+
+3
+00:00:04,945 --> 00:00:06,245
+No gizmo, no apocalypse.
+
+4
+00:00:06,280 --> 00:00:08,314
+You're my one weakness, Mom.
+
+5
+00:00:08,348 --> 00:00:09,649
+And I'm yours.
+
+6
+00:00:09,683 --> 00:00:11,918
+[Grunts]
+
+7
+00:00:11,952 --> 00:00:13,719
+- [Air whooshing]
+- I was using my speed,
+
+8
+00:00:13,754 --> 00:00:15,889
+and it felt like my arms
+were being ripped off.
+
+9
+00:00:15,944 --> 00:00:17,795
+The mech arms aren't built
+to go that fast.
+
+10
+00:00:17,850 --> 00:00:20,881
+SIMMONS: You find a way out, make
+it to the Quinjet, call for backup.
+
+11
+00:00:20,915 --> 00:00:23,334
+[Grunts]
+
+12
+00:00:23,373 --> 00:00:25,852
+Looks like you two
+have made quite the mess.
+
+13
+00:00:25,887 --> 00:00:28,167
+WERNER: They destroyed
+a component for the infuser.
+
+14
+00:00:28,193 --> 00:00:31,596
+We can't transfer the
+Gravitonium until it's repaired.
+
+15
+00:00:31,637 --> 00:00:33,171
+Fix it or bleed out.
+
+16
+00:00:33,205 --> 00:00:34,606
+We can't let it happen again.
+
+17
+00:00:34,640 --> 00:00:35,874
+We don't have a choice.
+
+18
+00:00:35,908 --> 00:00:38,777
+CARLA: <i>Glenn, the doctors said
+that you should take a deep breath.</i>
+
+19
+00:00:38,811 --> 00:00:40,248
+Are you ready to comply?
+
+20
+00:00:40,343 --> 00:00:42,444
+I'm happy to.
+
+21
+00:00:45,982 --> 00:00:50,779
+<b>05x18 - All Roads Lead...</b>
+
+22
+00:00:50,841 --> 00:00:54,794
+♪
+
+23
+00:00:54,891 --> 00:00:58,460
+Complete the mission, soldier.
+
+24
+00:00:58,495 --> 00:01:00,596
+Eyes on the prize.
+
+25
+00:01:00,630 --> 00:01:08,003
+♪
+
+26
+00:01:08,038 --> 00:01:10,005
+[Door creaks]
+
+27
+00:01:10,040 --> 00:01:13,075
+♪
+
+28
+00:01:25,689 --> 00:01:28,057
+Be prepared.
+
+29
+00:01:28,091 --> 00:01:30,059
+Nobody has to get hurt.
+
+30
+00:01:30,093 --> 00:01:32,161
+[Gun cocks]
+
+31
+00:01:32,195 --> 00:01:36,966
+♪
+
+32
+00:01:37,000 --> 00:01:38,868
+[Elevator door closes]
+
+33
+00:01:38,902 --> 00:01:41,003
+[Elevator motor whirring]
+
+34
+00:01:41,037 --> 00:01:44,306
+♪
+
+35
+00:01:49,212 --> 00:01:52,581
+Get in... get out.
+
+36
+00:01:52,616 --> 00:01:57,319
+♪
+
+37
+00:02:11,701 --> 00:02:13,702
+Complete the mission.
+
+38
+00:02:13,737 --> 00:02:19,041
+♪
+
+39
+00:02:19,075 --> 00:02:20,342
+- MACK: Hey, Talbot.
+- Hey.
+
+40
+00:02:20,377 --> 00:02:23,512
+- You looking for something?
+- Unh-unh.
+
+41
+00:02:23,546 --> 00:02:25,247
+[Chuckles] I'm just like a...
+
+42
+00:02:25,282 --> 00:02:27,116
+ticking time bomb over here, huh?
+
+43
+00:02:27,150 --> 00:02:29,852
+Sorry. Just I've been...
+
+44
+00:02:29,886 --> 00:02:31,620
+in a cell for six months.
+
+45
+00:02:31,655 --> 00:02:33,522
+I'm just a little pent-up.
+
+46
+00:02:33,556 --> 00:02:35,257
+Can't sit still.
+
+47
+00:02:35,337 --> 00:02:38,105
+I can imagine.
+
+48
+00:02:38,139 --> 00:02:40,574
+I wish we got you out sooner.
+
+49
+00:02:40,608 --> 00:02:43,310
+Me too, son.
+
+50
+00:02:43,345 --> 00:02:45,145
+Me too.
+
+51
+00:02:45,180 --> 00:02:48,082
+Hey, listen, if you ever
+want to talk about it
+
+52
+00:02:48,116 --> 00:02:50,317
+- or anything else...
+- I can't. [Chuckles]
+
+53
+00:02:50,352 --> 00:02:52,853
+No, I can't do that.
+
+54
+00:02:52,887 --> 00:02:54,688
+But, uh... But thanks.
+
+55
+00:02:54,723 --> 00:02:58,325
+You know, just trying to focus on one...
+
+56
+00:02:58,360 --> 00:02:59,860
+task at a time.
+
+57
+00:02:59,894 --> 00:03:01,702
+- Right.
+- Mm-hmm.
+
+58
+00:03:01,781 --> 00:03:04,582
+Yeah, well... rest up.
+
+59
+00:03:04,609 --> 00:03:06,491
+Doctor's orders.
+
+60
+00:03:06,516 --> 00:03:09,246
+Yeah. You got it.
+
+61
+00:03:09,280 --> 00:03:11,615
+♪
+
+62
+00:03:11,649 --> 00:03:13,817
+Happy to comply.
+
+63
+00:03:13,851 --> 00:03:18,505
+<font color="#0080ff">Synced & corrected by</font> kinglouisxx
+<font color="#0080ff">www.</font>addic7ed<font color="#0080ff">.com</font>
+
+64
+00:03:18,823 --> 00:03:22,326
+♪
+
+65
+00:03:22,360 --> 00:03:24,394
+[Metallic clunking]
+
+66
+00:03:30,368 --> 00:03:31,835
+[Metallic clunking]
+
+67
+00:03:31,869 --> 00:03:34,071
+Stop it!
+
+68
+00:03:34,105 --> 00:03:36,073
+Aww.
+
+69
+00:03:36,107 --> 00:03:39,076
+But I'm enjoying myself.
+
+70
+00:03:39,110 --> 00:03:40,477
+I don't really get out much,
+
+71
+00:03:40,511 --> 00:03:43,347
+and it does seem to keep you motivated.
+
+72
+00:03:43,381 --> 00:03:48,085
+♪
+
+73
+00:03:48,119 --> 00:03:50,020
+Okay. Let her go.
+
+74
+00:03:50,054 --> 00:03:52,155
+You want this machine fixed,
+I need her help.
+
+75
+00:03:52,190 --> 00:03:55,025
+Please. I'm engineering.
+
+76
+00:03:55,059 --> 00:03:57,260
+She's biotech.
+
+77
+00:03:57,295 --> 00:03:59,296
+We're a team.
+
+78
+00:03:59,330 --> 00:04:05,469
+♪
+
+79
+00:04:12,877 --> 00:04:15,145
+Hey.
+
+80
+00:04:15,179 --> 00:04:17,180
+- You okay?
+- SIMMONS: Yeah, I'm fine.
+
+81
+00:04:17,215 --> 00:04:18,181
+You sure?
+
+82
+00:04:18,216 --> 00:04:19,816
+I'm all right, Fitz.
+
+83
+00:04:19,851 --> 00:04:20,817
+Okay.
+
+84
+00:04:20,852 --> 00:04:22,719
+Aww.
+
+85
+00:04:22,754 --> 00:04:24,354
+♪
+
+86
+00:04:24,389 --> 00:04:26,356
+You two are adorable.
+
+87
+00:04:26,391 --> 00:04:29,292
+I ship it. I really do.
+
+88
+00:04:29,327 --> 00:04:31,028
+Do you have any idea of the consequences
+
+89
+00:04:31,062 --> 00:04:32,462
+of what you're trying to do?
+
+90
+00:04:32,497 --> 00:04:34,064
+We've seen where this leads.
+
+91
+00:04:34,098 --> 00:04:36,833
+Your little trip to the future?
+
+92
+00:04:36,868 --> 00:04:38,802
+Coulson filled me in.
+
+93
+00:04:38,836 --> 00:04:41,238
+Then you'll know
+that you destroy everything,
+
+94
+00:04:41,272 --> 00:04:42,639
+the entire planet.
+
+95
+00:04:42,673 --> 00:04:45,809
+See, I thought your pal Daisy
+did all of that.
+
+96
+00:04:45,843 --> 00:04:48,412
+You people really need
+to get your stories straight.
+
+97
+00:04:48,446 --> 00:04:50,514
+Everyone that you care about will die.
+
+98
+00:04:50,548 --> 00:04:52,215
+Not a long list.
+
+99
+00:04:52,256 --> 00:04:53,984
+WERNER: And it's getting shorter.
+
+100
+00:04:54,018 --> 00:04:55,385
+♪
+
+101
+00:04:55,420 --> 00:04:57,721
+Found Anton, what's left of him.
+
+102
+00:04:57,755 --> 00:05:00,257
+♪
+
+103
+00:05:00,291 --> 00:05:03,093
+He took a header out a window.
+
+104
+00:05:03,127 --> 00:05:05,143
+Then someone else must be here.
+
+105
+00:05:05,168 --> 00:05:06,211
+Not for long.
+
+106
+00:05:06,236 --> 00:05:08,272
+I activated our copter's signal jammer
+
+107
+00:05:08,299 --> 00:05:10,333
+and set the fallen mechs
+to seek and destroy.
+
+108
+00:05:10,368 --> 00:05:11,701
+You know how to reprogram them?
+
+109
+00:05:11,736 --> 00:05:12,869
+I took one apart once.
+
+110
+00:05:12,904 --> 00:05:14,738
+It's a basic protocol but effective.
+
+111
+00:05:14,772 --> 00:05:16,239
+They'll hunt down
+and kill anyone they find.
+
+112
+00:05:16,274 --> 00:05:19,242
+♪
+
+113
+00:05:21,913 --> 00:05:24,881
+Show me.
+
+114
+00:05:24,916 --> 00:05:29,886
+♪
+
+115
+00:05:29,921 --> 00:05:32,689
+[Box thuds]
+
+116
+00:05:32,723 --> 00:05:36,860
+♪
+
+117
+00:05:43,101 --> 00:05:44,801
+You realize
+that we have a choice to make.
+
+118
+00:05:44,836 --> 00:05:46,036
+Yeah.
+
+119
+00:05:46,070 --> 00:05:47,771
+Our hypothesis is being proven.
+
+120
+00:05:47,805 --> 00:05:49,272
+We die, we break the loop.
+
+121
+00:05:49,307 --> 00:05:52,409
+We don't fix this, we stop them.
+
+122
+00:05:52,443 --> 00:05:54,111
+They'll kill us.
+
+123
+00:05:54,145 --> 00:05:56,580
+I can't choose anything
+over you, not even...
+
+124
+00:05:56,614 --> 00:05:58,582
+I feel the same way.
+
+125
+00:05:58,616 --> 00:05:59,916
+So...
+
+126
+00:05:59,951 --> 00:06:02,986
+♪
+
+127
+00:06:03,020 --> 00:06:06,590
+So we keep working, piece by piece.
+
+128
+00:06:06,624 --> 00:06:08,725
+There's a lot to do.
+
+129
+00:06:08,759 --> 00:06:10,227
+Yeah.
+
+130
+00:06:10,261 --> 00:06:12,395
+Very complicated. It will take a while.
+
+131
+00:06:12,430 --> 00:06:13,463
+RUBY: Hey!
+
+132
+00:06:13,498 --> 00:06:18,902
+Pick up the pace,
+or I start removing body parts.
+
+133
+00:06:18,936 --> 00:06:21,338
+Like I did to your friend.
+
+134
+00:06:21,372 --> 00:06:25,075
+♪
+
+135
+00:06:30,448 --> 00:06:33,517
+[Shuddered breathing]
+
+136
+00:06:33,551 --> 00:06:36,520
+[Electricity crackles]
+
+137
+00:06:36,554 --> 00:06:39,589
+♪
+
+138
+00:06:39,624 --> 00:06:40,657
+[Keyboard clacking]
+
+139
+00:06:40,691 --> 00:06:41,691
+[Computer beeps]
+
+140
+00:06:41,726 --> 00:06:44,594
+[Breathing heavily]
+
+141
+00:06:44,629 --> 00:06:48,431
+[Grunts]
+
+142
+00:06:48,466 --> 00:06:51,768
+[Groans]
+
+143
+00:06:51,802 --> 00:06:55,505
+♪
+
+144
+00:06:57,041 --> 00:06:58,341
+[Electricity crackles]
+
+145
+00:06:58,376 --> 00:06:59,476
+[Groans]
+
+146
+00:06:59,510 --> 00:07:02,445
+[Groaning, breathing heavily]
+
+147
+00:07:02,480 --> 00:07:07,617
+♪
+
+148
+00:07:14,425 --> 00:07:15,992
+You're late.
+
+149
+00:07:16,027 --> 00:07:18,728
+Hold up. Please.
+
+150
+00:07:18,763 --> 00:07:22,365
+We didn't have a chance
+to finish our conversation.
+
+151
+00:07:22,400 --> 00:07:24,534
+I said what I had to say.
+
+152
+00:07:27,838 --> 00:07:30,140
+- Melinda...
+- We have a mission, Phil.
+
+153
+00:07:31,576 --> 00:07:33,543
+Good talk, Phil.
+
+154
+00:07:33,578 --> 00:07:35,579
+Good talk.
+
+155
+00:07:35,613 --> 00:07:36,746
+♪
+
+156
+00:07:36,781 --> 00:07:38,915
+Okay.
+
+157
+00:07:38,950 --> 00:07:40,750
+The mechs went into a system reset
+
+158
+00:07:40,785 --> 00:07:42,419
+and sent a distress signal out.
+
+159
+00:07:42,453 --> 00:07:44,754
+We traced it to a location
+in the Appalachian Mountains,
+
+160
+00:07:44,789 --> 00:07:46,423
+and after some satellite imaging,
+
+161
+00:07:46,457 --> 00:07:48,325
+we can confirm that this is Hale's base.
+
+162
+00:07:48,359 --> 00:07:50,060
+MAY: It's a decommissioned
+military bunker,
+
+163
+00:07:50,094 --> 00:07:52,429
+which means it's highly secure
+and way off the grid.
+
+164
+00:07:52,463 --> 00:07:53,697
+We need to hit them hard and fast,
+
+165
+00:07:53,731 --> 00:07:55,999
+knock out their defenses before
+they even know we're there.
+
+166
+00:07:56,033 --> 00:07:58,401
+Lighthouse rules...
+club 'em from behind,
+
+167
+00:07:58,436 --> 00:08:02,205
+you don't stop swingin'
+till they stay down.
+
+168
+00:08:02,240 --> 00:08:04,441
+- What?
+- You wearing body spray?
+
+169
+00:08:04,475 --> 00:08:06,343
+May and I go in, we get the Gravitonium,
+
+170
+00:08:06,377 --> 00:08:07,444
+get the queen off the board.
+
+171
+00:08:07,478 --> 00:08:09,512
+Checkmate. When do we leave?
+
+172
+00:08:09,547 --> 00:08:10,600
+You're not coming.
+
+173
+00:08:10,702 --> 00:08:11,969
+I'm not?
+
+174
+00:08:12,003 --> 00:08:14,538
+We just got you back,
+
+175
+00:08:14,573 --> 00:08:16,574
+and I need you to stay here
+and quarterback.
+
+176
+00:08:16,608 --> 00:08:18,311
+Mack, find Fitz's schematics
+
+177
+00:08:18,365 --> 00:08:20,023
+and start building
+the artificial-gravity system
+
+178
+00:08:20,048 --> 00:08:21,048
+for Zephyr One.
+
+179
+00:08:21,073 --> 00:08:23,013
+Oh, please don't tell me
+we're going back to space.
+
+180
+00:08:23,048 --> 00:08:25,683
+- Not until we have to.
+- And me... Ah, uh...
+
+181
+00:08:25,717 --> 00:08:28,252
+You need me to, uh, back you up, or...?
+
+182
+00:08:28,286 --> 00:08:29,920
+You literally just got shot.
+
+183
+00:08:29,955 --> 00:08:31,555
+Why are you out of bed?
+
+184
+00:08:31,590 --> 00:08:34,058
+I've handled worse.
+
+185
+00:08:34,092 --> 00:08:36,527
+Um, no. You stay here, help Mack.
+
+186
+00:08:36,561 --> 00:08:38,562
+All right, yeah, if that's
+how you want to play it.
+
+187
+00:08:38,597 --> 00:08:39,496
+Awesome.
+
+188
+00:08:39,531 --> 00:08:41,765
+Okay. Z-One's wheels-up in five.
+Let's go.
+
+189
+00:08:41,800 --> 00:08:43,534
+All right, people, you heard her.
+
+190
+00:08:43,568 --> 00:08:44,568
+Let's get to work.
+
+191
+00:08:44,603 --> 00:08:48,005
+♪
+
+192
+00:08:48,039 --> 00:08:50,441
+[Chatter]
+
+193
+00:08:50,475 --> 00:08:53,010
+You're getting good at this. You are.
+
+194
+00:08:53,044 --> 00:08:55,768
+I have a feeling Professor Coulson
+
+195
+00:08:55,823 --> 00:08:57,548
+was easy on his students.
+
+196
+00:08:57,582 --> 00:09:00,432
+I should at least lose points
+for the mutiny on day one.
+
+197
+00:09:00,457 --> 00:09:01,518
+For sure.
+
+198
+00:09:01,553 --> 00:09:03,454
+But I'm throwing you some extra credit
+
+199
+00:09:03,488 --> 00:09:05,422
+for a well-timed rescue.
+
+200
+00:09:05,457 --> 00:09:07,391
+Give 'em hell.
+
+201
+00:09:07,425 --> 00:09:08,726
+Yes, sir.
+
+202
+00:09:08,760 --> 00:09:10,694
+[Tablet thuds]
+
+203
+00:09:10,729 --> 00:09:13,097
+♪
+
+204
+00:09:13,131 --> 00:09:16,433
+[Sighs]
+
+205
+00:09:16,468 --> 00:09:19,536
+[Keypad beeps]
+
+206
+00:09:19,571 --> 00:09:21,538
+What took you so long?
+
+207
+00:09:21,573 --> 00:09:23,307
+It's Ruby... she's gone rogue.
+
+208
+00:09:23,341 --> 00:09:25,409
+I know. She's headed
+for the chamber facility.
+
+209
+00:09:25,443 --> 00:09:27,878
+- Get me Anton on the line.
+- I can't, ma'am. He's dead.
+
+210
+00:09:27,912 --> 00:09:31,548
+I called in reinforcements here
+because his mechs went down.
+
+211
+00:09:31,583 --> 00:09:34,243
+We picked these up
+right before they went offline.
+
+212
+00:09:34,268 --> 00:09:35,085
+♪
+
+213
+00:09:35,120 --> 00:09:37,054
+We need to leave immediately.
+
+214
+00:09:37,088 --> 00:09:39,723
+Ruby's dead set on powering
+herself with Gravitonium.
+
+215
+00:09:39,758 --> 00:09:41,725
+You saw what it did to Creel.
+
+216
+00:09:41,760 --> 00:09:43,494
+He's not better, is he?
+
+217
+00:09:43,528 --> 00:09:45,296
+No, ma'am.
+
+218
+00:09:45,330 --> 00:09:47,331
+He's much worse.
+
+219
+00:09:47,365 --> 00:09:49,800
+[Door opens]
+
+220
+00:09:49,834 --> 00:09:53,804
+♪
+
+221
+00:09:53,838 --> 00:09:56,473
+HALE: Mr. Creel, how can we help you?
+
+222
+00:09:56,508 --> 00:09:57,741
+You can't.
+
+223
+00:09:57,776 --> 00:10:00,344
+No one can.
+
+224
+00:10:00,378 --> 00:10:02,613
+They won't stop shouting.
+
+225
+00:10:02,647 --> 00:10:04,481
+Voices, he says.
+
+226
+00:10:04,516 --> 00:10:06,350
+They hate each other.
+
+227
+00:10:06,384 --> 00:10:07,418
+Quinn likes to feel smart.
+
+228
+00:10:07,452 --> 00:10:09,620
+- Hall's smarter.
+- [Quinn shouting indistinctly]
+
+229
+00:10:09,654 --> 00:10:11,622
+But Quinn's louder.
+
+230
+00:10:11,656 --> 00:10:13,524
+Quinn?
+
+231
+00:10:13,558 --> 00:10:15,659
+Ian Quinn?
+
+232
+00:10:15,694 --> 00:10:17,161
+Consumed him.
+
+233
+00:10:17,195 --> 00:10:18,559
+Franklin wanted revenge,
+
+234
+00:10:18,605 --> 00:10:20,631
+but now he's stuck with him, forever.
+
+235
+00:10:20,665 --> 00:10:23,934
+They're inside the Gravitonium.
+
+236
+00:10:23,968 --> 00:10:25,502
+Their minds.
+
+237
+00:10:25,537 --> 00:10:27,938
+Their rage.
+
+238
+00:10:27,972 --> 00:10:30,708
+Ma'am, he only touched it for a moment.
+
+239
+00:10:30,742 --> 00:10:32,209
+If Ruby infuses herself...
+
+240
+00:10:32,243 --> 00:10:34,951
+To hell with her! What about me?!
+
+241
+00:10:35,008 --> 00:10:36,279
+General.
+
+242
+00:10:36,326 --> 00:10:37,948
+♪
+
+243
+00:10:37,982 --> 00:10:39,550
+They want out.
+
+244
+00:10:39,584 --> 00:10:43,721
+♪
+
+245
+00:10:43,755 --> 00:10:45,489
+They want out!
+
+246
+00:10:45,523 --> 00:10:47,157
+Get them out!
+
+247
+00:10:47,192 --> 00:10:48,726
+♪
+
+248
+00:10:48,760 --> 00:10:51,028
+Get them out!
+
+249
+00:11:01,836 --> 00:11:03,870
+You making some progress?
+
+250
+00:11:03,905 --> 00:11:05,872
+♪
+
+251
+00:11:05,907 --> 00:11:08,312
+Yeah, it's coming along,
+but I got to say,
+
+252
+00:11:08,375 --> 00:11:10,176
+the idea of the Zephyr flying to space
+
+253
+00:11:10,210 --> 00:11:11,672
+still feels a bit out there.
+
+254
+00:11:11,726 --> 00:11:13,712
+Yeah, well, I'm not even gonna
+be born for another 50 years,
+
+255
+00:11:13,747 --> 00:11:15,081
+so maybe rethink "out there."
+
+256
+00:11:15,115 --> 00:11:18,584
+Well, let's hope it never happens,
+but if we can't change things...
+
+257
+00:11:18,618 --> 00:11:20,986
+Always be prepared, yeah, yeah.
+
+258
+00:11:21,021 --> 00:11:22,388
+You guys need to relax.
+
+259
+00:11:22,422 --> 00:11:24,924
+Daisy is gonna figure
+all this stuff out.
+
+260
+00:11:24,958 --> 00:11:28,427
+♪
+
+261
+00:11:28,462 --> 00:11:29,995
+What was that?
+
+262
+00:11:30,030 --> 00:11:32,223
+Dude's got it bad.
+
+263
+00:11:32,248 --> 00:11:33,432
+Whatever that means.
+
+264
+00:11:33,467 --> 00:11:35,835
+[Sighs] You're in love with her.
+
+265
+00:11:35,869 --> 00:11:36,936
+Sorry?
+
+266
+00:11:36,970 --> 00:11:38,938
+[Chuckles] What? No.
+
+267
+00:11:38,972 --> 00:11:40,606
+Uh, no offense Mack,
+
+268
+00:11:40,640 --> 00:11:43,676
+but I think your radar
+is way misfiring on this one.
+
+269
+00:11:43,710 --> 00:11:46,345
+- That was convincing. I believe him.
+- Thank you.
+
+270
+00:11:46,379 --> 00:11:48,581
+You confessed, you idiot. When you
+were hopped up on painkillers.
+
+271
+00:11:48,615 --> 00:11:50,749
+Piper and I couldn't get you
+to shut up about it.
+
+272
+00:11:50,784 --> 00:11:52,051
+No. That's...
+
+273
+00:11:52,085 --> 00:11:53,953
+Okay, guys.
+
+274
+00:11:53,987 --> 00:11:56,388
+What, you've never heard that
+drugs can make you say stuff
+
+275
+00:11:56,413 --> 00:11:57,544
+that's a little crazy?
+
+276
+00:11:57,569 --> 00:11:59,058
+Maybe that's why drugs are bad.
+
+277
+00:11:59,083 --> 00:12:00,068
+It's obvious.
+
+278
+00:12:00,093 --> 00:12:01,494
+I figured it out a while ago.
+
+279
+00:12:03,563 --> 00:12:05,564
+All right, well, it doesn't matter.
+
+280
+00:12:05,599 --> 00:12:06,799
+She hates me, anyway.
+
+281
+00:12:06,833 --> 00:12:09,068
+- Most definitely.
+- Yeah.
+
+282
+00:12:09,102 --> 00:12:13,372
+Just for grins, say I were interested...
+
+283
+00:12:13,406 --> 00:12:15,441
+in someone... anyone.
+
+284
+00:12:15,475 --> 00:12:18,644
+How would I...
+
+285
+00:12:18,678 --> 00:12:20,479
+Like, you got a good thing going.
+
+286
+00:12:20,514 --> 00:12:21,347
+Don't look at me.
+
+287
+00:12:21,381 --> 00:12:23,082
+Last time I saw Yo-Yo, she lied to me,
+
+288
+00:12:23,116 --> 00:12:24,283
+locked me up, and ran off.
+
+289
+00:12:24,317 --> 00:12:25,885
+Coulson?
+
+290
+00:12:25,919 --> 00:12:26,952
+Sorry, bro.
+
+291
+00:12:26,987 --> 00:12:29,321
+Apparently, I'm incapable
+of expressing my feelings
+
+292
+00:12:29,356 --> 00:12:31,323
+or letting people take care of me.
+
+293
+00:12:31,358 --> 00:12:33,292
+You guys are useless.
+
+294
+00:12:33,326 --> 00:12:35,828
+It's lemons, then.
+
+295
+00:12:35,862 --> 00:12:38,664
+Come again?
+
+296
+00:12:38,698 --> 00:12:39,665
+♪
+
+297
+00:12:39,699 --> 00:12:41,500
+Well, in my day,
+
+298
+00:12:41,535 --> 00:12:43,736
+when you wanted
+to tell someone how you felt,
+
+299
+00:12:43,770 --> 00:12:45,437
+you'd just save up your tokens,
+
+300
+00:12:45,472 --> 00:12:47,139
+you'd buy a lemon,
+you leave it on their bunk.
+
+301
+00:12:47,174 --> 00:12:48,274
+That's...
+
+302
+00:12:48,308 --> 00:12:50,142
+That's a thing here, right?
+
+303
+00:12:50,177 --> 00:12:51,510
+♪
+
+304
+00:12:51,545 --> 00:12:53,876
+- 100%.
+- Oh, yeah, absolutely.
+
+305
+00:12:53,901 --> 00:12:56,348
+- When in doubt, get a bunch of lemons.
+- You should do that.
+
+306
+00:12:56,383 --> 00:12:57,850
+♪
+
+307
+00:12:57,884 --> 00:13:01,353
+[Knock on door]
+
+308
+00:13:01,388 --> 00:13:03,322
+TALBOT: Let me in, let me in.
+
+309
+00:13:03,356 --> 00:13:05,524
+Anybody home?
+
+310
+00:13:05,559 --> 00:13:08,460
+♪
+
+311
+00:13:12,899 --> 00:13:14,934
+Ring-a-ding-ding.
+
+312
+00:13:14,968 --> 00:13:18,304
+♪
+
+313
+00:13:19,863 --> 00:13:22,798
+I'm gonna need every weapon
+in this fight.
+
+314
+00:13:22,911 --> 00:13:24,345
+We better hurry.
+
+315
+00:13:24,644 --> 00:13:26,946
+We got to be ready.
+
+316
+00:13:26,980 --> 00:13:31,517
+♪
+
+317
+00:13:36,590 --> 00:13:40,159
+Feels good going on offense
+for a change, you and me.
+
+318
+00:13:40,193 --> 00:13:41,527
+♪
+
+319
+00:13:41,561 --> 00:13:43,495
+If I need one, I'll take one.
+
+320
+00:13:43,530 --> 00:13:46,298
+I've got some pent-up aggression
+that needs let out.
+
+321
+00:13:46,333 --> 00:13:47,700
+You want to talk about it?
+
+322
+00:13:47,734 --> 00:13:49,301
+No, I want to hit.
+
+323
+00:13:49,336 --> 00:13:51,303
+♪
+
+324
+00:13:51,338 --> 00:13:53,138
+Agent Johnson, system check is complete.
+
+325
+00:13:53,173 --> 00:13:55,507
+Go hot, wait for my signal.
+
+326
+00:13:55,542 --> 00:13:56,875
+[Keypad beeping]
+
+327
+00:13:56,910 --> 00:14:00,479
+♪
+
+328
+00:14:00,513 --> 00:14:02,381
+Thomas, initiate launch countdown.
+
+329
+00:14:02,415 --> 00:14:04,083
+And try not to hit us on the way down.
+
+330
+00:14:04,117 --> 00:14:06,552
+Copy that. 10 seconds.
+
+331
+00:14:06,586 --> 00:14:08,554
+[Computer beeping]
+
+332
+00:14:08,588 --> 00:14:09,922
+Safety first.
+
+333
+00:14:09,956 --> 00:14:11,924
+Always.
+
+334
+00:14:11,958 --> 00:14:13,559
+[Sighs]
+
+335
+00:14:13,593 --> 00:14:16,562
+Game on.
+
+336
+00:14:20,600 --> 00:14:23,369
+♪
+
+337
+00:14:43,923 --> 00:14:46,759
+[Explosion]
+
+338
+00:14:46,793 --> 00:14:48,861
+What was that?
+
+339
+00:14:48,895 --> 00:14:50,462
+♪
+
+340
+00:14:50,497 --> 00:14:52,698
+[Electricity crackles]
+
+341
+00:14:52,732 --> 00:14:54,967
+[Rumbling]
+
+342
+00:14:55,001 --> 00:14:56,802
+♪
+
+343
+00:14:56,836 --> 00:14:58,971
+[Soldiers grunting]
+
+344
+00:14:59,005 --> 00:15:01,473
+♪
+
+345
+00:15:01,508 --> 00:15:03,475
+[Grunting]
+
+346
+00:15:03,510 --> 00:15:06,412
+♪
+
+347
+00:15:35,108 --> 00:15:39,011
+[Grunting]
+
+348
+00:15:39,045 --> 00:15:44,583
+♪
+
+349
+00:15:44,617 --> 00:15:46,352
+Stop.
+
+350
+00:15:46,386 --> 00:15:47,453
+♪
+
+351
+00:15:47,487 --> 00:15:48,520
+Stand down.
+
+352
+00:15:48,555 --> 00:15:50,089
+Ma'am, what are you...
+
+353
+00:15:50,123 --> 00:15:52,291
+That's an order.
+
+354
+00:15:52,325 --> 00:15:56,462
+♪
+
+355
+00:16:00,066 --> 00:16:02,101
+I surrender.
+
+356
+00:16:02,135 --> 00:16:03,202
+♪
+
+357
+00:16:03,236 --> 00:16:05,137
+And we totally believe you.
+
+358
+00:16:05,171 --> 00:16:06,872
+There's no time for us
+to fight each other.
+
+359
+00:16:06,906 --> 00:16:08,107
+I need your help.
+
+360
+00:16:08,141 --> 00:16:09,808
+We all have to leave right now.
+
+361
+00:16:09,843 --> 00:16:12,010
+Help you? You can't be serious.
+
+362
+00:16:12,045 --> 00:16:14,513
+My daughter took the Gravitonium
+
+363
+00:16:14,547 --> 00:16:16,448
+and went to use Strucker's machine.
+
+364
+00:16:16,483 --> 00:16:18,617
+The Destroyer of Worlds.
+
+365
+00:16:18,651 --> 00:16:19,718
+♪
+
+366
+00:16:19,753 --> 00:16:23,322
+She's at the same facility
+your scientist friends are.
+
+367
+00:16:23,356 --> 00:16:25,891
+Last I knew, they were alive.
+
+368
+00:16:25,925 --> 00:16:27,192
+But if Ruby succeeds,
+
+369
+00:16:27,227 --> 00:16:29,561
+you make no mistake, she will kill them.
+
+370
+00:16:29,596 --> 00:16:34,333
+♪
+
+371
+00:16:35,702 --> 00:16:38,303
+- [Gasps]
+- No, hey! Hey, wait!
+
+372
+00:16:38,338 --> 00:16:40,372
+[Grunts]
+
+373
+00:16:40,407 --> 00:16:42,975
+You two are taking a while.
+
+374
+00:16:43,009 --> 00:16:44,543
+- Is this above your grade level?
+- WERNER: No, no, no, no.
+
+375
+00:16:44,577 --> 00:16:46,712
+They're S.H.I.E.L.D.'s best
+and brightest.
+
+376
+00:16:46,746 --> 00:16:48,714
+There's nothing they can't do...
+
+377
+00:16:48,748 --> 00:16:49,782
+if motivated.
+
+378
+00:16:49,816 --> 00:16:53,218
+Torturing us isn't going to
+make us work any faster.
+
+379
+00:16:53,253 --> 00:16:56,597
+Well, you didn't seem to mind
+torture the last time we met.
+
+380
+00:16:56,660 --> 00:16:57,723
+Electrocuting me.
+
+381
+00:16:57,757 --> 00:17:01,360
+You two didn't have
+wedding rings, then, either.
+
+382
+00:17:01,394 --> 00:17:03,429
+Please. We're doing what you asked.
+
+383
+00:17:03,463 --> 00:17:05,397
+Move.
+
+384
+00:17:05,432 --> 00:17:07,866
+- Move.
+- Okay.
+
+385
+00:17:07,901 --> 00:17:12,037
+♪
+
+386
+00:17:12,071 --> 00:17:13,839
+The infuser's reversed.
+
+387
+00:17:13,873 --> 00:17:16,442
+They're gonna have to start over.
+
+388
+00:17:16,476 --> 00:17:17,843
+You know, I only really need one of you.
+
+389
+00:17:17,877 --> 00:17:19,578
+- Two is starting to feel redundant.
+- [Grunts]
+
+390
+00:17:19,612 --> 00:17:21,046
+Hey, we're working
+with very limited resources
+
+391
+00:17:21,080 --> 00:17:22,748
+on a very old machine.
+
+392
+00:17:22,782 --> 00:17:24,750
+- [Grunts]
+- Fitz!
+
+393
+00:17:24,784 --> 00:17:27,085
+No!
+
+394
+00:17:27,120 --> 00:17:30,422
+♪
+
+395
+00:17:32,158 --> 00:17:33,759
+Stop it! Leave him alone! We'll fix it!
+
+396
+00:17:33,793 --> 00:17:35,060
+We'll fix it!
+
+397
+00:17:35,094 --> 00:17:36,061
+♪
+
+398
+00:17:36,095 --> 00:17:38,964
+[Groans]
+
+399
+00:17:38,998 --> 00:17:41,767
+♪
+
+400
+00:17:41,801 --> 00:17:43,936
+Hey.
+
+401
+00:17:43,970 --> 00:17:45,637
+Eyes up.
+
+402
+00:17:45,672 --> 00:17:47,573
+Look at me.
+
+403
+00:17:47,607 --> 00:17:49,942
+♪
+
+404
+00:17:49,976 --> 00:17:52,578
+Next time...
+
+405
+00:17:52,612 --> 00:17:54,646
+it's her.
+
+406
+00:17:54,681 --> 00:17:56,648
+And I won't use my fists.
+
+407
+00:17:56,683 --> 00:17:59,451
+♪
+
+408
+00:18:01,457 --> 00:18:03,124
+[Electricity crackles]
+
+409
+00:18:03,159 --> 00:18:05,160
+[Footsteps approach]
+
+410
+00:18:05,194 --> 00:18:08,630
+♪
+
+411
+00:18:10,328 --> 00:18:12,262
+[Groans]
+
+412
+00:18:12,338 --> 00:18:15,847
+- [Electricity crackles]
+- [Grunts]
+
+413
+00:18:16,976 --> 00:18:20,311
+♪
+
+414
+00:18:20,369 --> 00:18:23,971
+TALBOT: This kid likes
+her crimson crayon.
+
+415
+00:18:24,006 --> 00:18:25,873
+Redrum.
+
+416
+00:18:25,908 --> 00:18:27,074
+Redrum.
+
+417
+00:18:27,109 --> 00:18:29,510
+[Door opens]
+
+418
+00:18:29,545 --> 00:18:32,914
+What is this?
+
+419
+00:18:32,948 --> 00:18:34,982
+Busted.
+
+420
+00:18:35,017 --> 00:18:36,317
+♪
+
+421
+00:18:36,351 --> 00:18:38,486
+Hi.
+
+422
+00:18:38,520 --> 00:18:41,923
+My name's Glenn Talbot.
+
+423
+00:18:41,957 --> 00:18:43,558
+You helped rescue me.
+
+424
+00:18:43,592 --> 00:18:45,893
+What are you doing in our room?
+
+425
+00:18:45,928 --> 00:18:47,361
+Uh, right.
+
+426
+00:18:47,396 --> 00:18:48,496
+Uh... [Chuckles nervously]
+
+427
+00:18:48,530 --> 00:18:49,897
+I shouldn't... I shouldn't be here.
+
+428
+00:18:49,932 --> 00:18:51,599
+You're right. I know better.
+
+429
+00:18:51,633 --> 00:18:52,667
+Uh, I just... I...
+
+430
+00:18:52,701 --> 00:18:56,103
+I just... I couldn't...
+I couldn't help myself.
+
+431
+00:18:56,138 --> 00:18:59,507
+♪
+
+432
+00:18:59,541 --> 00:19:02,109
+I have a boy, George.
+
+433
+00:19:02,144 --> 00:19:04,579
+He likes to draw, too.
+
+434
+00:19:04,613 --> 00:19:08,716
+I just haven't seen him in a long time.
+
+435
+00:19:08,750 --> 00:19:10,618
+It's just hard.
+
+436
+00:19:10,652 --> 00:19:14,889
+♪
+
+437
+00:19:14,923 --> 00:19:17,058
+I'm sorry.
+
+438
+00:19:17,092 --> 00:19:19,260
+I just...
+
+439
+00:19:19,294 --> 00:19:22,396
+I haven't been myself.
+
+440
+00:19:22,431 --> 00:19:24,065
+♪
+
+441
+00:19:24,099 --> 00:19:27,635
+I think we're all
+a bit out of sorts these days.
+
+442
+00:19:27,669 --> 00:19:29,737
+It's a strange time.
+
+443
+00:19:29,771 --> 00:19:34,408
+So, this is who all the fuss
+is about, huh?
+
+444
+00:19:34,443 --> 00:19:36,143
+She can tell the future?
+
+445
+00:19:36,178 --> 00:19:38,713
+Sort of.
+
+446
+00:19:38,747 --> 00:19:43,417
+She sees a lot,
+but it's all out of order.
+
+447
+00:19:43,452 --> 00:19:45,586
+♪
+
+448
+00:19:45,621 --> 00:19:47,622
+It's a pretty...
+
+449
+00:19:47,656 --> 00:19:50,424
+remarkable gift you have, young lady.
+
+450
+00:19:50,459 --> 00:19:53,995
+You must have seen...
+some incredible things.
+
+451
+00:19:54,029 --> 00:19:55,997
+♪
+
+452
+00:19:56,031 --> 00:19:58,065
+Now, now.
+
+453
+00:19:58,100 --> 00:20:01,002
+There's no need to be afraid of me.
+
+454
+00:20:01,036 --> 00:20:03,471
+I'm Glenn.
+
+455
+00:20:03,505 --> 00:20:06,007
+You're the General.
+
+456
+00:20:06,041 --> 00:20:07,675
+That's right.
+
+457
+00:20:07,709 --> 00:20:09,944
+How did you know that?
+
+458
+00:20:09,978 --> 00:20:14,148
+I've drawn you.
+
+459
+00:20:14,182 --> 00:20:16,250
+DAISY: There's something wrong with him.
+
+460
+00:20:16,284 --> 00:20:18,653
+Creel touched the Gravitonium
+and felt...
+
+461
+00:20:18,687 --> 00:20:19,854
+people in there.
+
+462
+00:20:19,888 --> 00:20:20,988
+<i>Franklin Hall.</i>
+
+463
+00:20:21,023 --> 00:20:22,023
+Ian Quinn, too.
+
+464
+00:20:22,057 --> 00:20:23,124
+We've seen it consume people,
+
+465
+00:20:23,158 --> 00:20:26,127
+but apparently, it also
+absorbs their consciousness.
+
+466
+00:20:26,161 --> 00:20:27,228
+<i>Is that even possible?</i>
+
+467
+00:20:27,262 --> 00:20:30,000
+<i>Well, assume the answer to that
+question's always yes.</i>
+
+468
+00:20:30,025 --> 00:20:30,998
+<i>How's Creel doing now?</i>
+
+469
+00:20:31,033 --> 00:20:33,634
+He's barely hanging on,
+lost in his own head.
+
+470
+00:20:33,669 --> 00:20:34,865
+We had to sedate him.
+
+471
+00:20:34,890 --> 00:20:37,004
+<i>We have to get him help.
+I owe him that much.</i>
+
+472
+00:20:37,039 --> 00:20:39,173
+And we will, but right now,
+we have to stop Ruby.
+
+473
+00:20:39,207 --> 00:20:40,675
+According to Hale,
+
+474
+00:20:40,709 --> 00:20:42,877
+Fitz and Simmons
+have been spotted on site.
+
+475
+00:20:42,911 --> 00:20:44,278
+Damn it, Yo-Yo.
+
+476
+00:20:44,312 --> 00:20:47,230
+If that crazy Hydra girl
+powers herself...
+
+477
+00:20:47,255 --> 00:20:48,948
+Daisy, you can't go there.
+That's too dangerous.
+
+478
+00:20:48,973 --> 00:20:50,985
+<i>For the hundredth time, I'm not
+gonna quake the world apart.</i>
+
+479
+00:20:51,019 --> 00:20:52,987
+That's not what I'm saying. I'm saying
+you have to be careful, because...
+
+480
+00:20:53,021 --> 00:20:54,121
+<i>No matter what,</i>
+
+481
+00:20:54,156 --> 00:20:55,956
+<i>I'm not gonna use my powers
+around the Gravitonium.</i>
+
+482
+00:20:55,991 --> 00:20:59,126
+If you won't quake and
+Ruby's powered, she'll kill you.
+
+483
+00:20:59,161 --> 00:21:01,228
+<i>Sir, you brought me back to lead.</i>
+
+484
+00:21:01,263 --> 00:21:02,997
+<i>This is what that looks like.</i>
+
+485
+00:21:03,031 --> 00:21:04,465
+You can't put yourself at risk
+like that.
+
+486
+00:21:04,499 --> 00:21:06,367
+<i>We'll make those decisions,
+Phil, not you.</i>
+
+487
+00:21:06,401 --> 00:21:08,002
+♪
+
+488
+00:21:08,036 --> 00:21:09,870
+<i>Look, we need every advantage
+we can get,</i>
+
+489
+00:21:09,905 --> 00:21:11,238
+<i>so go through Robin's drawings</i>
+
+490
+00:21:11,273 --> 00:21:13,574
+<i>and see if there's anything we can use.</i>
+
+491
+00:21:13,608 --> 00:21:15,209
+♪
+
+492
+00:21:15,243 --> 00:21:16,210
+[Computer beeps]
+
+493
+00:21:16,244 --> 00:21:19,880
+[Sighs] Women, huh?
+
+494
+00:21:19,915 --> 00:21:22,817
+Shut up, lemons.
+
+495
+00:21:22,851 --> 00:21:24,485
+TALBOT: Who is this?
+
+496
+00:21:24,519 --> 00:21:27,054
+And when does this happen?
+
+497
+00:21:27,089 --> 00:21:29,590
+That's not really how it works.
+
+498
+00:21:29,624 --> 00:21:30,825
+Soon.
+
+499
+00:21:30,859 --> 00:21:33,260
+Soon.
+
+500
+00:21:33,295 --> 00:21:35,429
+And these?
+
+501
+00:21:35,464 --> 00:21:37,398
+These all come true?
+
+502
+00:21:37,432 --> 00:21:39,033
+We need to act on this.
+
+503
+00:21:39,067 --> 00:21:41,435
+There are people who want to meet you.
+
+504
+00:21:41,470 --> 00:21:43,489
+- There are people who want to meet you.
+- Robin's getting tired.
+
+505
+00:21:43,514 --> 00:21:45,655
+Maybe we could chat about this tomorrow.
+
+506
+00:21:45,680 --> 00:21:47,241
+No, tomorrow... tomorrow's too late.
+
+507
+00:21:47,275 --> 00:21:48,676
+The mission's... The mission's today.
+
+508
+00:21:48,710 --> 00:21:51,321
+The mission is now.
+
+509
+00:21:53,336 --> 00:21:56,217
+- I'm really sorry about this.
+- No!
+
+510
+00:21:56,251 --> 00:21:58,886
+[Both grunting]
+
+511
+00:21:58,920 --> 00:22:02,323
+♪
+
+512
+00:22:03,325 --> 00:22:04,594
+Go, Robin!
+
+513
+00:22:04,619 --> 00:22:07,220
+No! Robin, get out of here!
+
+514
+00:22:07,262 --> 00:22:09,897
+[Gasps]
+
+515
+00:22:09,931 --> 00:22:12,299
+- Shh, shh, shh, shh, shh!
+- Go!
+
+516
+00:22:12,334 --> 00:22:13,868
+Get help, Robi...
+
+517
+00:22:13,902 --> 00:22:15,269
+Just go to sleep.
+
+518
+00:22:15,303 --> 00:22:17,238
+Shh, shh, shh.
+
+519
+00:22:17,272 --> 00:22:18,472
+That's it.
+
+520
+00:22:18,507 --> 00:22:20,441
+Shh, shh, shh. Just go to sleep.
+
+521
+00:22:20,475 --> 00:22:22,243
+Shh. Go to sleep.
+
+522
+00:22:22,277 --> 00:22:24,478
+[Groans]
+
+523
+00:22:24,513 --> 00:22:31,085
+♪
+
+524
+00:22:31,119 --> 00:22:33,254
+You're coming with me.
+
+525
+00:22:34,410 --> 00:22:36,123
+I know.
+
+526
+00:22:46,160 --> 00:22:48,894
+Our scans show a number of mechs
+outside the facility.
+
+527
+00:22:48,957 --> 00:22:50,479
+Take them out, secure the perimeter.
+
+528
+00:22:50,527 --> 00:22:53,196
+Only Agent May, Hale, and I
+will be going in,
+
+529
+00:22:53,230 --> 00:22:56,199
+and if this goes sideways,
+be ready to evac.
+
+530
+00:22:56,233 --> 00:22:58,189
+Now gear up.
+
+531
+00:22:58,275 --> 00:22:59,642
+♪
+
+532
+00:22:59,677 --> 00:23:02,846
+[Lock clicks]
+
+533
+00:23:02,880 --> 00:23:05,949
+[Chatter]
+
+534
+00:23:05,983 --> 00:23:10,653
+♪
+
+535
+00:23:10,688 --> 00:23:12,689
+Coulson taught you well.
+
+536
+00:23:12,723 --> 00:23:14,958
+Just never gave up on me.
+
+537
+00:23:16,062 --> 00:23:17,961
+Promise me you won't hurt Ruby.
+
+538
+00:23:17,995 --> 00:23:19,996
+Not unless I have to.
+
+539
+00:23:20,030 --> 00:23:22,665
+It isn't her fault
+she is the way she is.
+
+540
+00:23:22,700 --> 00:23:24,834
+♪
+
+541
+00:23:24,869 --> 00:23:27,103
+She's driven. She's a great fighter.
+
+542
+00:23:27,138 --> 00:23:29,472
+And with the right guidance, she
+could make a really good agent.
+
+543
+00:23:29,507 --> 00:23:31,341
+S.H.I.E.L.D. agent.
+
+544
+00:23:31,375 --> 00:23:33,209
+You're not serious.
+
+545
+00:23:33,244 --> 00:23:35,445
+We're about to need
+all the help we can get.
+
+546
+00:23:35,479 --> 00:23:37,380
+♪
+
+547
+00:23:37,414 --> 00:23:39,549
+Tell me what I can do.
+
+548
+00:23:39,583 --> 00:23:41,951
+♪
+
+549
+00:23:41,986 --> 00:23:45,288
+If we are too late,
+you will need to talk her down.
+
+550
+00:23:45,322 --> 00:23:47,772
+We can't let things get out of hand.
+
+551
+00:23:47,827 --> 00:23:49,373
+Of course.
+
+552
+00:23:49,421 --> 00:23:51,294
+I just want Ruby to be okay.
+
+553
+00:23:51,328 --> 00:23:53,229
+MAY: You ladies about finished?
+
+554
+00:23:53,264 --> 00:23:54,864
+♪
+
+555
+00:23:54,899 --> 00:23:56,900
+[Air hissing]
+
+556
+00:23:56,934 --> 00:23:59,002
+♪
+
+557
+00:23:59,036 --> 00:24:01,371
+[Ratchet cranking]
+
+558
+00:24:01,405 --> 00:24:03,907
+♪
+
+559
+00:24:03,941 --> 00:24:06,309
+A plane just landed.
+
+560
+00:24:06,343 --> 00:24:07,710
+My mother?
+
+561
+00:24:07,745 --> 00:24:08,912
+S.H.I.E.L.D.
+
+562
+00:24:08,946 --> 00:24:10,413
+I sent the mechs to engage.
+
+563
+00:24:10,447 --> 00:24:12,081
+That'll buy us a little time.
+
+564
+00:24:12,116 --> 00:24:12,949
+♪
+
+565
+00:24:12,983 --> 00:24:15,151
+All right, where should I start? An arm?
+
+566
+00:24:15,186 --> 00:24:17,253
+- Maybe a leg?
+- No, don't, don't.
+
+567
+00:24:17,288 --> 00:24:19,689
+We're finished, okay? [Sighs]
+
+568
+00:24:19,723 --> 00:24:23,860
+♪
+
+569
+00:24:23,894 --> 00:24:25,495
+[Device beeps]
+
+570
+00:24:25,529 --> 00:24:27,864
+[Device hums]
+
+571
+00:24:28,731 --> 00:24:30,464
+[Chuckles] It's ready.
+
+572
+00:24:30,489 --> 00:24:31,691
+Yes.
+
+573
+00:24:31,735 --> 00:24:33,903
+[Chuckles]
+
+574
+00:24:38,042 --> 00:24:40,343
+[Sighs]
+
+575
+00:24:40,377 --> 00:24:44,914
+♪
+
+576
+00:24:50,087 --> 00:24:51,688
+What?
+
+577
+00:24:51,722 --> 00:24:53,690
+♪
+
+578
+00:24:53,724 --> 00:24:55,925
+Hey, we did as you asked.
+
+579
+00:24:55,960 --> 00:24:57,126
+We fixed the chamber.
+
+580
+00:24:57,161 --> 00:24:58,861
+But?
+
+581
+00:24:59,761 --> 00:25:01,253
+In our experience,
+
+582
+00:25:01,278 --> 00:25:03,566
+Gravitonium is not easy to manipulate.
+
+583
+00:25:03,601 --> 00:25:05,068
+And...
+
+584
+00:25:05,102 --> 00:25:07,403
+we can't move it into the machine.
+
+585
+00:25:07,438 --> 00:25:09,372
+Wait.
+
+586
+00:25:09,406 --> 00:25:11,908
+Hold on. That's...
+That's out of our control.
+
+587
+00:25:11,942 --> 00:25:13,476
+Yeah, Gravitonium is unpredictable.
+
+588
+00:25:13,510 --> 00:25:15,311
+There's still so much
+that we don't know.
+
+589
+00:25:15,346 --> 00:25:17,580
+Hey, please. Please. You can't do this.
+
+590
+00:25:17,615 --> 00:25:21,584
+I'm done having people
+tell me what I can do.
+
+591
+00:25:21,619 --> 00:25:23,219
+♪
+
+592
+00:25:23,254 --> 00:25:25,388
+[Grunts]
+
+593
+00:25:25,422 --> 00:25:29,525
+♪
+
+594
+00:25:43,140 --> 00:25:45,008
+You were saying?
+
+595
+00:25:45,042 --> 00:25:47,277
+♪
+
+596
+00:25:47,311 --> 00:25:49,846
+Jemma, did you see that?
+
+597
+00:25:49,880 --> 00:25:52,949
+That's... different.
+
+598
+00:25:52,983 --> 00:25:55,318
+♪
+
+599
+00:25:55,352 --> 00:25:56,586
+COULSON: It's not a bird, it's a plane.
+
+600
+00:25:56,620 --> 00:25:58,755
+MACK: Oh, give me a break.
+It looks nothing like the Zephyr.
+
+601
+00:25:58,789 --> 00:26:00,657
+You guys arguing over drawings?
+
+602
+00:26:00,691 --> 00:26:02,458
+Welcome to my entire childhood.
+
+603
+00:26:02,493 --> 00:26:03,993
+[Sniffing]
+
+604
+00:26:04,028 --> 00:26:05,028
+[Groans]
+
+605
+00:26:05,062 --> 00:26:07,030
+Look, we're wasting our time.
+
+606
+00:26:07,064 --> 00:26:09,630
+Why don't we just ask her
+what these crayon doodles mean?
+
+607
+00:26:09,655 --> 00:26:11,267
+You can go down there, but ask Deke.
+
+608
+00:26:11,302 --> 00:26:13,369
+Robin's a seer, not really a teller.
+
+609
+00:26:13,404 --> 00:26:14,370
+♪
+
+610
+00:26:14,405 --> 00:26:16,372
+Hey.
+
+611
+00:26:16,407 --> 00:26:19,108
+What's with Robin's floor?
+Is that paused?
+
+612
+00:26:19,143 --> 00:26:20,376
+[Computer beeps]
+
+613
+00:26:20,411 --> 00:26:24,180
+♪
+
+614
+00:26:25,849 --> 00:26:27,984
+Polly?
+
+615
+00:26:28,018 --> 00:26:31,220
+♪
+
+616
+00:26:31,255 --> 00:26:33,056
+- She's breathing.
+- Where's Robin?
+
+617
+00:26:33,090 --> 00:26:34,857
+We've been breached.
+
+618
+00:26:34,892 --> 00:26:36,859
+Someone must have
+infiltrated the Lighthouse.
+
+619
+00:26:36,894 --> 00:26:39,228
+He took her. Talbot took Robin.
+
+620
+00:26:39,263 --> 00:26:41,064
+No. He wouldn't.
+
+621
+00:26:41,098 --> 00:26:41,898
+Earlier, I saw him.
+
+622
+00:26:41,932 --> 00:26:44,667
+He... He was messing with the feeds.
+
+623
+00:26:44,702 --> 00:26:46,069
+And he mumbled something.
+
+624
+00:26:46,103 --> 00:26:47,203
+Said...
+
+625
+00:26:47,237 --> 00:26:49,205
+Said he was happy to comply.
+
+626
+00:26:49,239 --> 00:26:51,908
+Hydra had him for six months.
+
+627
+00:26:51,942 --> 00:26:53,409
+How could I have missed it?
+
+628
+00:26:53,444 --> 00:26:55,044
+We have to find him.
+
+629
+00:26:55,079 --> 00:26:56,212
+I'll stay with her.
+
+630
+00:26:56,246 --> 00:27:02,051
+♪
+
+631
+00:27:03,454 --> 00:27:05,488
+[Chuckles]
+
+632
+00:27:05,522 --> 00:27:07,190
+You did it.
+
+633
+00:27:07,224 --> 00:27:09,926
+♪
+
+634
+00:27:09,960 --> 00:27:12,328
+We did it.
+
+635
+00:27:12,363 --> 00:27:16,132
+♪
+
+636
+00:27:27,144 --> 00:27:28,778
+[Breathes shakily]
+
+637
+00:27:28,812 --> 00:27:30,179
+[Device beeps]
+
+638
+00:27:30,214 --> 00:27:34,150
+♪
+
+639
+00:27:37,721 --> 00:27:39,255
+[Whirring]
+
+640
+00:27:39,289 --> 00:27:44,293
+♪
+
+641
+00:27:44,328 --> 00:27:46,295
+[Laughs]
+
+642
+00:27:46,330 --> 00:27:51,768
+♪
+
+643
+00:27:51,802 --> 00:27:54,704
+[Electricity humming]
+
+644
+00:27:54,738 --> 00:27:59,108
+♪
+
+645
+00:27:59,143 --> 00:28:00,209
+[Screams]
+
+646
+00:28:00,244 --> 00:28:01,644
+Ruby!
+
+647
+00:28:01,678 --> 00:28:04,580
+- Get me out! [Screams]
+- Ruby! No!
+
+648
+00:28:04,615 --> 00:28:07,383
+[Screaming continues]
+
+649
+00:28:07,418 --> 00:28:09,419
+No, Ruby!
+
+650
+00:28:09,453 --> 00:28:10,945
+[Screaming]
+
+651
+00:28:10,970 --> 00:28:13,605
+Ruby!
+
+652
+00:28:13,757 --> 00:28:16,058
+- [Whimpers]
+- Ruby!
+
+653
+00:28:16,093 --> 00:28:17,695
+- [Screaming]
+- What did you do?!
+
+654
+00:28:17,720 --> 00:28:18,686
+You're killing her!
+
+655
+00:28:18,729 --> 00:28:20,396
+No, this isn't us! We tried to warn her!
+
+656
+00:28:20,431 --> 00:28:22,331
+You sabotaged the chamber!
+
+657
+00:28:22,366 --> 00:28:25,802
+- No, it's not the machine!
+- [Ruby screaming]
+
+658
+00:28:25,836 --> 00:28:27,069
+Shut it down!
+
+659
+00:28:27,104 --> 00:28:28,938
+[Crying]
+
+660
+00:28:28,972 --> 00:28:31,641
+♪
+
+661
+00:28:31,675 --> 00:28:33,810
+[Panting]
+
+662
+00:28:33,844 --> 00:28:37,246
+♪
+
+663
+00:28:37,281 --> 00:28:39,182
+Are we too late?
+
+664
+00:28:39,216 --> 00:28:41,617
+I don't know.
+
+665
+00:28:41,652 --> 00:28:44,187
+She only took in 8% of the Gravitonium.
+
+666
+00:28:44,221 --> 00:28:47,323
+[Air hissing]
+
+667
+00:28:47,357 --> 00:28:51,127
+♪
+
+668
+00:29:14,585 --> 00:29:16,285
+Ruby!
+
+669
+00:29:16,320 --> 00:29:17,553
+[Groaning]
+
+670
+00:29:17,588 --> 00:29:19,193
+♪
+
+671
+00:29:19,218 --> 00:29:21,557
+It's okay. Hey, hey.
+
+672
+00:29:21,592 --> 00:29:23,192
+Oh, they're screaming!
+
+673
+00:29:23,227 --> 00:29:24,861
+They're fighting. [Groans]
+
+674
+00:29:24,895 --> 00:29:26,395
+♪
+
+675
+00:29:26,430 --> 00:29:28,064
+I've got you.
+
+676
+00:29:28,098 --> 00:29:29,866
+Help me.
+
+677
+00:29:29,900 --> 00:29:31,868
+I'm not going anywhere.
+
+678
+00:29:31,902 --> 00:29:37,473
+♪
+
+679
+00:29:42,613 --> 00:29:46,415
+[Ruby crying]
+
+680
+00:29:46,450 --> 00:29:49,236
+[Sobs]
+
+681
+00:29:51,204 --> 00:29:54,172
+[Crying]
+
+682
+00:29:54,207 --> 00:29:55,373
+♪
+
+683
+00:29:58,184 --> 00:30:00,151
+I didn't mean to.
+
+684
+00:30:00,186 --> 00:30:01,801
+[Crying] Oh, God.
+
+685
+00:30:01,826 --> 00:30:03,029
+Get out!
+
+686
+00:30:03,054 --> 00:30:04,788
+No! No! Get out of me!
+
+687
+00:30:04,840 --> 00:30:06,441
+Please make them stop!
+
+688
+00:30:06,475 --> 00:30:08,443
+Make... Make... Make who stop?
+
+689
+00:30:08,477 --> 00:30:09,511
+All of them!
+
+690
+00:30:09,545 --> 00:30:11,880
+Just please... please put me
+back in the machine!
+
+691
+00:30:11,914 --> 00:30:13,348
+Get it out of me!
+
+692
+00:30:13,382 --> 00:30:15,350
+We can't. It only works one way.
+
+693
+00:30:15,384 --> 00:30:17,185
+You lie!
+
+694
+00:30:17,219 --> 00:30:19,220
+You always do this!
+
+695
+00:30:19,255 --> 00:30:20,622
+[Both grunting]
+
+696
+00:30:20,656 --> 00:30:23,525
+♪
+
+697
+00:30:26,062 --> 00:30:28,463
+Ruby, put them down.
+
+698
+00:30:28,497 --> 00:30:31,733
+Experimentation without consequence.
+
+699
+00:30:31,767 --> 00:30:37,172
+♪
+
+700
+00:30:37,206 --> 00:30:39,341
+It's Mom.
+
+701
+00:30:39,375 --> 00:30:40,675
+Look at me!
+
+702
+00:30:40,710 --> 00:30:43,845
+[Both grunt]
+
+703
+00:30:45,090 --> 00:30:46,996
+Mom...
+
+704
+00:30:47,582 --> 00:30:49,926
+there's something really wrong.
+
+705
+00:30:49,952 --> 00:30:51,753
+I know. We're trying to figure it out.
+
+706
+00:30:51,786 --> 00:30:54,042
+Just... stay strong, sweetie.
+
+707
+00:30:54,067 --> 00:30:56,041
+Don't panic,
+just try not to panic, okay?
+
+708
+00:30:56,066 --> 00:30:57,092
+♪
+
+709
+00:30:57,126 --> 00:30:59,594
+They can't be here.
+I'll get them past any mechs.
+
+710
+00:30:59,628 --> 00:31:01,062
+Come back. I'll need you.
+
+711
+00:31:01,097 --> 00:31:02,789
+Okay.
+
+712
+00:31:02,813 --> 00:31:05,243
+- It's okay.
+- [Crying] No.
+
+713
+00:31:05,321 --> 00:31:06,754
+N-o-o-o-o!
+
+714
+00:31:06,789 --> 00:31:09,390
+[Computer beeps]
+
+715
+00:31:09,425 --> 00:31:11,559
+[Electricity crackling]
+
+716
+00:31:11,594 --> 00:31:14,295
+♪
+
+717
+00:31:14,330 --> 00:31:17,498
+- Talbot, stop.
+- Drop it!
+
+718
+00:31:17,533 --> 00:31:19,067
+You drop it! Stand down!
+
+719
+00:31:19,101 --> 00:31:20,301
+Everybody calm down.
+
+720
+00:31:20,336 --> 00:31:22,070
+Glenn, look at me.
+
+721
+00:31:22,104 --> 00:31:23,972
+Why are you trying
+to get into the hangar?
+
+722
+00:31:24,006 --> 00:31:25,306
+What are you doing?
+
+723
+00:31:25,341 --> 00:31:27,475
+A soldier never questions his orders.
+
+724
+00:31:27,509 --> 00:31:29,477
+Soldier always completes his mission.
+
+725
+00:31:29,511 --> 00:31:31,579
+This isn't a mission.
+
+726
+00:31:31,614 --> 00:31:33,314
+This is Hale.
+
+727
+00:31:33,349 --> 00:31:35,617
+She got into your head.
+She brainwashed you.
+
+728
+00:31:35,651 --> 00:31:37,318
+Robin, it's gonna be okay, sweetheart...
+
+729
+00:31:37,353 --> 00:31:38,519
+Don't you talk to her!
+
+730
+00:31:38,554 --> 00:31:40,355
+The Hydra compliance program
+
+731
+00:31:40,389 --> 00:31:42,023
+goes all the way back to Whitehall.
+
+732
+00:31:42,057 --> 00:31:43,191
+You're trying to get in my head.
+
+733
+00:31:43,225 --> 00:31:46,260
+You're trying to confuse me
+with that Hydra jibber-jabber.
+
+734
+00:31:46,295 --> 00:31:47,662
+You saw what they did to Creel,
+
+735
+00:31:47,696 --> 00:31:50,031
+how hard you had to work
+to break his programming.
+
+736
+00:31:50,065 --> 00:31:51,466
+What the hell do you know?
+
+737
+00:31:51,500 --> 00:31:52,834
+♪
+
+738
+00:31:52,868 --> 00:31:54,936
+I know you're my friend.
+
+739
+00:31:54,970 --> 00:31:56,804
+And you'd never kidnap a little girl.
+
+740
+00:31:56,839 --> 00:31:59,507
+Kidn... Kidnap? That... [Laughs]
+
+741
+00:31:59,541 --> 00:32:01,809
+That's a hell of an accusation, Phil.
+
+742
+00:32:01,844 --> 00:32:04,345
+[Chuckles] I got a job to do.
+
+743
+00:32:04,380 --> 00:32:06,681
+She's not much younger than your kid.
+
+744
+00:32:06,715 --> 00:32:09,884
+Think about your son, Talbot.
+
+745
+00:32:09,918 --> 00:32:11,185
+Think about it.
+
+746
+00:32:11,220 --> 00:32:12,787
+What if that was George?
+
+747
+00:32:12,821 --> 00:32:14,322
+You know this is wrong.
+
+748
+00:32:14,356 --> 00:32:16,524
+Shut up! You shut your damn face!
+
+749
+00:32:16,558 --> 00:32:18,192
+It's not too late to turn back.
+
+750
+00:32:18,227 --> 00:32:19,193
+No.
+
+751
+00:32:19,228 --> 00:32:21,896
+My compliance is my reward,
+
+752
+00:32:21,930 --> 00:32:24,165
+- and I must be... I must be rewarded.
+- Ignore that.
+
+753
+00:32:24,199 --> 00:32:26,200
+That's the programming talking, not you.
+
+754
+00:32:26,235 --> 00:32:28,002
+Fight it. You can beat it.
+
+755
+00:32:28,037 --> 00:32:30,405
+I can't!
+
+756
+00:32:30,439 --> 00:32:31,472
+I can't.
+
+757
+00:32:31,507 --> 00:32:34,742
+I can't complete the mission. I gotta...
+
+758
+00:32:34,777 --> 00:32:37,378
+[Sighs] I got to stop myself.
+
+759
+00:32:37,413 --> 00:32:39,013
+That's right.
+
+760
+00:32:39,048 --> 00:32:41,382
+♪
+
+761
+00:32:41,417 --> 00:32:44,185
+[Sighs]
+
+762
+00:32:44,219 --> 00:32:46,387
+There's only one course of action.
+
+763
+00:32:46,422 --> 00:32:49,090
+♪
+
+764
+00:32:49,124 --> 00:32:51,726
+[Crying]
+
+765
+00:32:51,760 --> 00:32:53,428
+Honey, just listen to my voice.
+
+766
+00:32:53,462 --> 00:32:55,194
+Listen to you, listen to them!
+
+767
+00:32:55,219 --> 00:32:58,355
+Listen, listen, listen! [Screams]
+
+768
+00:32:58,734 --> 00:33:00,101
+[Crying]
+
+769
+00:33:00,135 --> 00:33:03,438
+Remember your training.
+We'll get through this.
+
+770
+00:33:03,472 --> 00:33:05,740
+I can't control it.
+
+771
+00:33:05,774 --> 00:33:08,176
+It's like I'm being ripped apart.
+
+772
+00:33:08,210 --> 00:33:10,611
+Ruby, I have been right where you are,
+
+773
+00:33:10,646 --> 00:33:13,548
+and I know that
+it seems impossible right now,
+
+774
+00:33:13,582 --> 00:33:15,083
+but you will overcome this.
+
+775
+00:33:15,117 --> 00:33:16,617
+- No.
+- Believe me.
+
+776
+00:33:16,652 --> 00:33:18,337
+They're too loud.
+
+777
+00:33:18,362 --> 00:33:20,088
+They're trying to take over!
+
+778
+00:33:20,122 --> 00:33:22,223
+Just focus.
+
+779
+00:33:22,257 --> 00:33:23,858
+Breathe.
+
+780
+00:33:23,892 --> 00:33:25,460
+- Stay calm.
+- It's too late.
+
+781
+00:33:25,494 --> 00:33:28,007
+No. Daisy's right.
+She's been through this.
+
+782
+00:33:28,069 --> 00:33:29,871
+Daisy. It's always Daisy!
+
+783
+00:33:29,898 --> 00:33:31,273
+Try not to lose control, okay?
+
+784
+00:33:31,297 --> 00:33:33,444
+Your powers will only
+get more dangerous.
+
+785
+00:33:33,469 --> 00:33:38,272
+♪
+
+786
+00:33:38,307 --> 00:33:41,409
+[Echoing] Everything powerful
+is dangerous.
+
+787
+00:33:41,443 --> 00:33:44,545
+♪
+
+788
+00:33:44,580 --> 00:33:46,614
+Melinda.
+
+789
+00:33:46,648 --> 00:33:48,416
+- Your arm.
+- It's fine.
+
+790
+00:33:48,450 --> 00:33:50,985
+What happened? Did someone go in?
+
+791
+00:33:51,019 --> 00:33:53,387
+It's being handled.
+We need to get to the Zephyr.
+
+792
+00:33:53,422 --> 00:33:54,622
+Handled by whom?
+
+793
+00:33:54,656 --> 00:33:58,893
+♪
+
+794
+00:33:58,927 --> 00:34:01,095
+Daisy.
+
+795
+00:34:01,130 --> 00:34:03,164
+♪
+
+796
+00:34:03,198 --> 00:34:06,501
+COULSON: Talbot, stop. Don't do this.
+
+797
+00:34:06,535 --> 00:34:08,469
+It doesn't matter, anyway.
+
+798
+00:34:08,504 --> 00:34:10,471
+[Voice breaking] I'm not the same, Phil.
+
+799
+00:34:10,506 --> 00:34:11,839
+♪
+
+800
+00:34:11,874 --> 00:34:14,942
+I can't trust my thoughts.
+
+801
+00:34:15,036 --> 00:34:17,203
+There's no other way.
+
+802
+00:34:17,238 --> 00:34:18,972
+Robin, come here, come on.
+
+803
+00:34:19,006 --> 00:34:21,574
+Come on.
+
+804
+00:34:21,609 --> 00:34:23,376
+♪
+
+805
+00:34:23,411 --> 00:34:25,478
+Phil...
+
+806
+00:34:25,513 --> 00:34:27,914
+tell George I'm sorry.
+
+807
+00:34:27,948 --> 00:34:29,049
+Put the gun down.
+
+808
+00:34:29,083 --> 00:34:30,383
+I can't!
+
+809
+00:34:30,418 --> 00:34:32,385
+Your compliance will be rewarded.
+
+810
+00:34:32,420 --> 00:34:34,254
+You're just trying to trick me.
+
+811
+00:34:34,288 --> 00:34:36,423
+- That's the program.
+- What's best is you comply.
+
+812
+00:34:36,457 --> 00:34:38,758
+- Put the gun down.
+- I can't!
+
+813
+00:34:38,793 --> 00:34:40,493
+Then turn the gun on me.
+
+814
+00:34:40,528 --> 00:34:41,728
+♪
+
+815
+00:34:41,762 --> 00:34:44,330
+You will comply.
+
+816
+00:34:44,365 --> 00:34:45,565
+♪
+
+817
+00:34:45,599 --> 00:34:47,600
+Turn the gun on me.
+
+818
+00:34:47,635 --> 00:34:50,403
+♪
+
+819
+00:34:59,647 --> 00:35:01,581
+You know, for a long time...
+
+820
+00:35:01,615 --> 00:35:04,884
+[Voice breaking] you were
+everything that I wanted.
+
+821
+00:35:04,919 --> 00:35:06,252
+♪
+
+822
+00:35:06,287 --> 00:35:09,622
+You were my hero.
+
+823
+00:35:09,657 --> 00:35:12,459
+And now look at us.
+
+824
+00:35:12,493 --> 00:35:14,427
+Ruby, let her go.
+
+825
+00:35:14,462 --> 00:35:16,796
+[Grunts]
+
+826
+00:35:16,831 --> 00:35:20,233
+♪
+
+827
+00:35:20,267 --> 00:35:23,703
+I am more than you will ever be.
+
+828
+00:35:23,738 --> 00:35:25,872
+[Panting]
+
+829
+00:35:25,906 --> 00:35:28,208
+♪
+
+830
+00:35:28,242 --> 00:35:30,910
+Ruby, I am not here to fight you.
+
+831
+00:35:30,945 --> 00:35:33,446
+- You need help.
+- I don't want your help!
+
+832
+00:35:33,481 --> 00:35:34,814
+♪
+
+833
+00:35:34,849 --> 00:35:37,617
+I want to crush you.
+
+834
+00:35:37,651 --> 00:35:41,121
+[Gasping]
+
+835
+00:35:41,155 --> 00:35:43,123
+♪
+
+836
+00:35:43,157 --> 00:35:44,624
+Ruby, that's enough!
+
+837
+00:35:45,493 --> 00:35:46,559
+[Gasps]
+
+838
+00:35:46,594 --> 00:35:48,428
+That's enough!
+
+839
+00:35:48,462 --> 00:35:51,231
+[Coughing]
+
+840
+00:35:51,265 --> 00:35:55,535
+♪
+
+841
+00:36:04,712 --> 00:36:05,845
+You listen to her.
+
+842
+00:36:05,880 --> 00:36:08,114
+She is on your side.
+
+843
+00:36:08,149 --> 00:36:10,750
+Then why aren't you?!
+
+844
+00:36:10,785 --> 00:36:13,253
+Mom, face it...
+
+845
+00:36:13,287 --> 00:36:15,588
+I was never good enough for you.
+
+846
+00:36:15,623 --> 00:36:17,624
+No, all I ever wanted
+
+847
+00:36:17,658 --> 00:36:20,260
+was for you to reach
+your true potential.
+
+848
+00:36:20,294 --> 00:36:21,995
+I'm sorry.
+
+849
+00:36:22,029 --> 00:36:23,963
+I pushed you too hard.
+
+850
+00:36:23,998 --> 00:36:25,999
+Mom...
+
+851
+00:36:26,033 --> 00:36:28,101
+this was a mistake.
+
+852
+00:36:28,135 --> 00:36:30,703
+No.
+
+853
+00:36:30,738 --> 00:36:31,838
+♪
+
+854
+00:36:31,872 --> 00:36:33,640
+My daughter is not a mistake.
+
+855
+00:36:33,674 --> 00:36:35,275
+[Sobs]
+
+856
+00:36:35,309 --> 00:36:36,609
+♪
+
+857
+00:36:36,644 --> 00:36:38,945
+- Yo-Yo, get out of here.
+- I promise you,
+
+858
+00:36:38,979 --> 00:36:41,781
+we'll get through this.
+Okay, just breathe...
+
+859
+00:36:41,816 --> 00:36:43,683
+That's who took my arm.
+
+860
+00:36:43,727 --> 00:36:45,528
+- [Screams]
+- No, Ruby.
+
+861
+00:36:45,553 --> 00:36:46,853
+[Rumbling]
+
+862
+00:36:46,887 --> 00:36:49,222
+It's her, isn't it?
+
+863
+00:36:49,256 --> 00:36:51,324
+She's the Destroyer.
+
+864
+00:36:51,358 --> 00:36:53,326
+Yo-Yo, she's a kid.
+
+865
+00:36:53,360 --> 00:36:55,228
+She is terrified.
+
+866
+00:36:55,262 --> 00:36:56,963
+- [Screams]
+- No, you look at me, listen to me.
+
+867
+00:36:56,997 --> 00:36:58,698
+Stay with me,
+and we'll get through this!
+
+868
+00:36:58,732 --> 00:37:00,166
+No, Mom, they're getting louder!
+
+869
+00:37:00,201 --> 00:37:02,702
+♪
+
+870
+00:37:02,736 --> 00:37:04,337
+Oh, I'm losing...
+
+871
+00:37:04,371 --> 00:37:05,405
+Let us out.
+
+872
+00:37:05,439 --> 00:37:06,739
+We want out. Let us out.
+
+873
+00:37:06,774 --> 00:37:08,408
+I won't be able to resist.
+
+874
+00:37:08,442 --> 00:37:10,543
+- Do it!
+- [Screams]
+
+875
+00:37:10,578 --> 00:37:12,979
+I can make this better, I promise!
+
+876
+00:37:13,013 --> 00:37:14,547
+[Rumbling]
+
+877
+00:37:14,582 --> 00:37:16,134
+[Whimpers]
+
+878
+00:37:16,158 --> 00:37:18,228
+Ruby.
+
+879
+00:37:18,285 --> 00:37:20,596
+- No.
+- What?
+
+880
+00:37:20,621 --> 00:37:22,822
+No. Ruby?
+
+881
+00:37:22,857 --> 00:37:24,691
+Ruby! No!
+
+882
+00:37:24,725 --> 00:37:26,426
+No.
+
+883
+00:37:26,460 --> 00:37:28,761
+Yo-Yo, what did you do?!
+
+884
+00:37:28,796 --> 00:37:30,930
+[Chakram clangs]
+
+885
+00:37:30,965 --> 00:37:34,000
+[Gasping]
+
+886
+00:37:34,034 --> 00:37:35,768
+No.
+
+887
+00:37:35,803 --> 00:37:37,370
+[Gasping]
+
+888
+00:37:37,404 --> 00:37:38,571
+No.
+
+889
+00:37:38,606 --> 00:37:43,543
+♪
+
+890
+00:37:43,577 --> 00:37:45,778
+No!
+
+891
+00:37:45,813 --> 00:37:47,780
+♪
+
+892
+00:37:47,815 --> 00:37:50,016
+Ruby...
+
+893
+00:37:50,050 --> 00:37:53,720
+[Crying] Ruby.
+
+894
+00:37:53,754 --> 00:37:58,024
+♪
+
+895
+00:38:11,739 --> 00:38:14,874
+[Breathing heavily]
+
+896
+00:38:14,909 --> 00:38:18,444
+♪
+
+897
+00:38:41,835 --> 00:38:43,770
+Simmons.
+
+898
+00:38:43,804 --> 00:38:46,773
+♪
+
+899
+00:38:46,807 --> 00:38:49,108
+Where's Hale?
+
+900
+00:38:49,143 --> 00:38:52,645
+♪
+
+901
+00:38:52,680 --> 00:38:54,681
+How did she get away?
+
+902
+00:38:54,715 --> 00:38:56,416
+And what happened to Ruby?
+
+903
+00:38:56,450 --> 00:38:57,817
+DAISY: I had it under control.
+
+904
+00:38:57,851 --> 00:39:01,421
+She was coming around,
+and then Yo-Yo killed her.
+
+905
+00:39:01,455 --> 00:39:02,989
+No.
+
+906
+00:39:03,023 --> 00:39:09,662
+♪
+
+907
+00:39:09,697 --> 00:39:11,698
+I just saved the world.
+
+908
+00:39:11,732 --> 00:39:16,669
+♪
+
+909
+00:39:36,466 --> 00:39:38,332
+Qovas.
+
+910
+00:39:40,821 --> 00:39:42,212
+Qovas!
+
+911
+00:39:42,298 --> 00:39:45,040
+QOVAS: Coming here without invitation?
+
+912
+00:39:45,176 --> 00:39:46,845
+You are aware of the punishment.
+
+913
+00:39:46,907 --> 00:39:49,279
+I found what you're looking for.
+
+914
+00:39:49,313 --> 00:39:51,047
+My Gravitonium.
+
+915
+00:39:51,082 --> 00:39:53,283
+S.H.I.E.L.D. has it.
+
+916
+00:39:53,317 --> 00:39:55,051
+Then you failed.
+
+917
+00:39:55,086 --> 00:39:57,387
+Perhaps our deal has reached its end.
+
+918
+00:39:57,421 --> 00:40:00,223
+I can tell you where they're hiding.
+
+919
+00:40:00,257 --> 00:40:03,193
+But they won't give it willingly.
+
+920
+00:40:03,227 --> 00:40:07,797
+♪
+
+921
+00:40:11,836 --> 00:40:13,536
+You'd have me kill them?
+
+922
+00:40:13,571 --> 00:40:17,173
+♪
+
+923
+00:40:17,208 --> 00:40:19,375
+I have no reason to stop you.
+
+924
+00:40:19,410 --> 00:40:23,813
+♪
+
+925
+00:40:24,829 --> 00:40:29,529
+<font color="#0080ff">Synced & corrected by</font> kinglouisxx
+<font color="#0080ff">www.</font>addic7ed<font color="#0080ff">.com</font>
+

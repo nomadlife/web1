@@ -64,9 +64,8 @@
   }
   
   
-  // test 
-  function attachFileUrl(target){
-	console.log('target',target)
+  // test 1  -- succeed
+  function attachSrt(fileLoc,target){
 	var xhr = new XMLHttpRequest();
 	xhr.onload = function(){
 		console.log('test')
@@ -76,32 +75,15 @@
 		var targetNode = document.querySelector(`${target}`)
 		targetNode.src = fileURL
 	}
-	xhr.open("GET","http://localhost:8000/e17.srt");
-	
+	//xhr.open("GET","http://localhost:8000/e17.srt");
+	xhr.open("GET",fileLoc);
 	xhr.send();
-	
-	// console.log('file',file)
-	var reader = new FileReader();
-
-	
-	if(file.name.split('.').pop() =='srt'){
-		reader.readAsText(file)
-	} else {
-		var fileURL = URL.createObjectURL(file)
-		var targetNode = document.querySelector(`${target}`)
-		targetNode.src = fileURL
-	}
-	
-	if (target.includes('track')){
-		showAll()
-		}
+	showAll()
   }
 
   
-  // test 2
-  function attachFileUrl2(target){
-	console.log('test2')
-	// var fileDisplayArea = document.getElementById('fileDisplayArea');
+  // test 2 - succeed
+  function defaultSrt(fileLoc,target){
 	function readTextFile(file)
 	{
 		var rawFile = new XMLHttpRequest();
@@ -112,27 +94,52 @@
 			{
 				if(rawFile.status === 200 || rawFile.status == 0)
 				{
-					var allText = rawFile.responseText;
-					console.log('allText',allText) 
+					console.log('test2')
+					var string = srt2vtt(rawFile.responseText)
+					var vttBlob = new Blob([string], {type: 'text/plain'});
+					var fileURL = URL.createObjectURL(vttBlob)
+					var targetNode = document.querySelector(`${target}`)
+					targetNode.src = fileURL
 				}
 			}
 		}
 		rawFile.send(null);
 	}
-
-	readTextFile("http://localhost:8000/e17.srt");
+	readTextFile(fileLoc);
+	showAll()
   }
   
   
-  function test3(){
-   var f = new FileReader();
+ 
 
-   f.onloadend = function(){
-       console.log("test3");
-   }
-   f.readAsText("subtitles/e17.srt");
-}
 
+// test 3
+  function test3(fileLoc,target){
+	console.log('test3')
+
+	var rawFile = new XMLHttpRequest();
+	rawFile.onreadystatechange = function ()
+	{
+		if(rawFile.readyState === 4)
+		{
+			if(rawFile.status === 200 || rawFile.status == 0)
+			{
+				var string = srt2vtt(rawFile.responseText)
+				var vttBlob = new Blob([string], {type: 'text/plain'});
+				var fileURL = URL.createObjectURL(vttBlob)
+				var targetNode = document.querySelector(`${target}`)
+				targetNode.src = fileURL
+			}
+		}
+	}
+	rawFile.open("GET",fileLoc, false);
+	rawFile.send(null);
+	showAll()
+  }
+  
+  
+
+	
   
   function showAll(){
    for (var i = 0; i < videoNode.textTracks.length; i++) {
@@ -150,6 +157,7 @@
 	console.log()
 	  
   }
+  
   function download(dataurl, filename) {
 	  var a = document.createElement("a");
 	  a.href = dataurl;
@@ -169,9 +177,19 @@
   //download("http://localhost:8000/e17.srt", "download.srt");
   
   // attachFileUrl("http://localhost:8000/e17.srt", "#track1");
-  //attachFileUrl('#track1')
-  //attachFileUrl2() // test 2
-  test3()
+  
+  //test1
+  attachSrt('subtitles/e17.srt','#track1') 
+  attachSrt('subtitles/e17k.srt','#track2')
+  
+  // test 2
+  //defaultSrt('subtitles/e17.srt','#track1') 
+  //defaultSrt('subtitles/e17k.srt','#track2')
+  
+  // test 3
+  //test3('subtitles/e17.srt','#track1') 
+  //test3('subtitles/e17k.srt','#track2')
+  
   inputNode.forEach(inputNode=>inputNode.addEventListener('change', attachFile, false))
   showAllButton.addEventListener('click', showAll);
   

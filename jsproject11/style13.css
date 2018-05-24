@@ -20,6 +20,7 @@ input {
 video {
 	width : 100%;
 	max-width : 700px;
+	min-width : 400px;
 	border: 1px solid #aaa;
     object-fit: initial;
 }
