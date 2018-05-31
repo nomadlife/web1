@@ -68,6 +68,23 @@
 		}
   }
 
+  
+  function attachSrt(fileLoc,target){
+	var xhr = new XMLHttpRequest();
+	xhr.onload = function(){
+		//console.log('test')
+		var string = srt2vtt(xhr.responseText)
+		var vttBlob = new Blob([string], {type: 'text/plain'});
+		var fileURL = URL.createObjectURL(vttBlob)
+		var targetNode = document.querySelector(`${target}`)
+		targetNode.src = fileURL
+	}
+	//xhr.open("GET","http://localhost:8000/e17.srt");
+	xhr.open("GET",fileLoc);
+	xhr.send();
+	showAll()
+  }
+  
   function showAll(){
    for (var i = 0; i < videoNode.textTracks.length; i++) {
       videoNode.textTracks[i].mode = 'showing';
@@ -78,7 +95,10 @@
   var inputNode = document.querySelectorAll('[target]')
   var showAllButton = document.querySelector('#show-all')
   
+  videoNode.src = 'http://localhost:8000/e17.mp3'
+  attachSrt('subtitles/e17.srt','#track1') 
+  attachSrt('subtitles/e17k.srt','#track2')
+  
   inputNode.forEach(inputNode=>inputNode.addEventListener('change', attachFile, false))
   showAllButton.addEventListener('click', showAll);
-  
   

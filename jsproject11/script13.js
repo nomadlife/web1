@@ -68,7 +68,7 @@
   function attachSrt(fileLoc,target){
 	var xhr = new XMLHttpRequest();
 	xhr.onload = function(){
-		console.log('test')
+		//console.log('test')
 		var string = srt2vtt(xhr.responseText)
 		var vttBlob = new Blob([string], {type: 'text/plain'});
 		var fileURL = URL.createObjectURL(vttBlob)
@@ -173,12 +173,14 @@
   var inputNode = document.querySelectorAll('[target]')
   var showAllButton = document.querySelector('#show-all')
 
+  
   //download("data:text/html,HelloWorld!", "test.txt");
   //download("http://localhost:8000/e17.srt", "download.srt");
   
   // attachFileUrl("http://localhost:8000/e17.srt", "#track1");
   
   //test1
+  videoNode.src = 'http://localhost:8000/e17.mp3'
   attachSrt('subtitles/e17.srt','#track1') 
   attachSrt('subtitles/e17k.srt','#track2')
   
